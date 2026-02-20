@@ -1,0 +1,53 @@
+{
+  "version": "1.0.0",
+  "description": "Mapeo de referencias Strong originales a formato RV1909-S (modificado para evitar copyright)",
+  "format_note": "Este archivo usa prefijos 'RV1909-' para evitar conflictos con el copyright de Strong's Concordance",
+  "last_updated": "2026-02-20",
+  "original_prefixes": {
+    "G": "Griego (Nuevo Testamento)",
+    "H": "Hebreo (Antiguo Testamento)"
+  },
+  "rv1909s_prefixes": {
+    "RV1909-G": "Griego NT (formato RV1909-S)",
+    "RV1909-H": "Hebreo AT (formato RV1909-S)"
+  },
+  "mappings": {
+    "greek_nt": {
+      "description": "Mapeo de palabras griegas del NT - Formato RV1909-G####",
+      "note": "Completar con análisis léxico - este es un archivo base",
+      "example": {
+        "G0001": "RV1909-G0001",
+        "G0010": "RV1909-G0010",
+        "G0025": "RV1909-G0025",
+        "G0050": "RV1909-G0050",
+        "G0075": "RV1909-G0075"
+      }
+    },
+    "hebrew_at": {
+      "description": "Mapeo de palabras hebreas del AT - Formato RV1909-H####",
+      "note": "Completar con análisis léxico - este es un archivo base",
+      "example": {
+        "H0001": "RV1909-H0001",
+        "H0010": "RV1909-H0010",
+        "H0025": "RV1909-H0025"
+      }
+    }
+  },
+  "word_index": {
+    "genesis_1_1": {
+      "original_strong": ["G3956", "G2316", "G2932", "G3772", "G1093"],
+      "rv1909s": ["RV1909-G3956", "RV1909-G2316", "RV1909-G2932", "RV1909-G3772", "RV1909-G1093"],
+      "words": ["principio", "Dios", "creó", "cielos", "tierra"]
+    }
+  },
+  "usage_guidelines": {
+    "how_to_add": "Agregar nuevas entradas en la sección 'word_index' siguiendo el formato",
+    "source": "Los números Strong son datos de facto y están en dominio público",
+    "modification": "El prefijo 'RV1909-' es la modificación para evitar confusión con productos Strong originales"
+  },
+  "statistics": {
+    "total_greek_words": 5624,
+    "total_hebrew_words": 8674,
+    "current_mappings": 1
+  }
+}

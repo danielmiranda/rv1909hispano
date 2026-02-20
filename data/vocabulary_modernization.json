@@ -1,0 +1,163 @@
+{
+  "version": "1.0.0",
+  "description": "Vocabulario de modernización RV1909 → Español contemporáneo",
+  "last_updated": "2026-02-20",
+  "categories": {
+    "capitalization": {
+      "description": "Correcciones de mayúsculas/minúsculas",
+      "rules": [
+        {
+          "pattern": "^EN\\b",
+          "replacement": "En",
+          "context": "start_of_sentence",
+          "reason": "Normalizar inicio de oración"
+        },
+        {
+          "pattern": "\\bDIOS\\b",
+          "replacement": "Dios",
+          "context": "always",
+          "reason": "Uso moderno de minúsculas para Dios"
+        },
+        {
+          "pattern": "\\bJEHOVÁ\\b",
+          "replacement": "Jehová",
+          "context": "always",
+          "reason": "Normalización del nombre divino"
+        },
+        {
+          "pattern": "\\bESPÍRITU\\b",
+          "replacement": "Espíritu",
+          "context": "always",
+          "reason": "Uso correcto del nombre sagrado"
+        }
+      ]
+    },
+    "archaic_verbs": {
+      "description": "Verbos archaic actualizados",
+      "rules": [
+        {
+          "pattern": "\\bfué\\b",
+          "replacement": "fue",
+          "context": "always",
+          "reason": "Eliminación de tilde histórica"
+        },
+        {
+          "pattern": "\\bérase\\b",
+          "replacement": "era",
+          "context": "always",
+          "reason": "Simplificación verbal"
+        },
+        {
+          "pattern": "\\bsea\\b",
+          "replacement": "sea",
+          "context": "always",
+          "reason": "Mantener subjuntivo"
+        },
+        {
+          "pattern": "\\bhaya\\b",
+          "replacement": "haya",
+          "context": "always",
+          "reason": "Mantener subjuntivo"
+        },
+        {
+          "pattern": "\\bhemos\\b",
+          "replacement": "hemos",
+          "context": "always",
+          "reason": "Verbo auxiliar correcto"
+        }
+      ]
+    },
+    "punctuation": {
+      "description": "Correcciones de puntuación",
+      "rules": [
+        {
+          "pattern": ":",
+          "replacement": ":",
+          "context": "end_of_sentence",
+          "reason": "Revisar puntuación arcaica"
+        },
+        {
+          "pattern": ";",
+          "replacement": ";",
+          "context": "complex_sentence",
+          "reason": "Simplificar puntuación"
+        }
+      ]
+    },
+    "archaic_pronouns": {
+      "description": "Pronombres y determinantes archaic",
+      "rules": [
+        {
+          "pattern": "\\bá\\b",
+          "replacement": "a",
+          "context": "preposition",
+          "reason": "Eliminar tilde histórica en preposición"
+        },
+        {
+          "pattern": "\\bé\\b",
+          "replacement": "e",
+          "context": "conjunction",
+          "reason": "Eliminar tilde histórica en conjunción"
+        },
+        {
+          "pattern": "\\bó\\b",
+          "replacement": "o",
+          "context": "conjunction",
+          "reason": "Eliminar tilde histórica en disyunción"
+        }
+      ]
+    },
+    "common_words": {
+      "description": "Palabras comunes archaic",
+      "mappings": {
+        "fué": "fue",
+        "sino": "sino",
+        "hácia": "hacia",
+        "hásta": "hasta",
+        "mí": "mí",
+        "ti": "ti",
+        "sí": "sí",
+        "él": "él",
+        "tú": "tú",
+        "vosotros": "ustedes",
+        "vuestro": "su",
+        "vuestra": "su",
+        "aquél": "aquél",
+        "ése": "ese",
+        "aquello": "aquello",
+        "cuya": "cuya",
+        "cuyo": "cuyo"
+      }
+    }
+  },
+  "complex_patterns": {
+    "description": "Patrones que requieren análisis contextual (IA)",
+    "patterns": [
+      {
+        "id": "CP001",
+        "pattern": "prójimo",
+        "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+      },
+      {
+        "id": "CP002",
+        "pattern": "pecado",
+        "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+      },
+      {
+        "id": "CP003",
+        "pattern": "sangre",
+        "note": "Contexto litúrgico vs literal"
+      },
+      {
+        "id": "CP004",
+        "pattern": "carne",
+        "note": "Contexto teológico vs físico"
+      },
+      {
+        "id": "CP005",
+        "pattern": "espíritu",
+        "note": "Contexto holy Spirit vs espíritu humano"
+      }
+    ]
+  }
+}
