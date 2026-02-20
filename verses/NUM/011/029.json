@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 11,
+  "verse": 29,
+  "text_original": "Y Moisés le respondió: ¿Tienes tú celos por mí? mas ojalá que todo el pueblo de Jehová fuesen profetas, que Jehová pusiera su espíritu sobre ellos.",
+  "text_modernized": "Y Moisés le respondió: ¿Tienes tú celos por mí? mas ojalá que todo el pueblo de Jehová fuesen profetas, que Jehová pusiera su espíritu sobre ellos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.250955Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

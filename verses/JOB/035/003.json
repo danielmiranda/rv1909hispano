@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 35,
+  "verse": 3,
+  "text_original": "Porque dijiste: ¿Qué ventaja sacarás tú de ello? ¿ó qué provecho tendré de mi pecado?",
+  "text_modernized": "Porque dijiste: ¿Qué ventaja sacarás tú de ello? ¿ó qué provecho tendré de mi pecado?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.545873Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

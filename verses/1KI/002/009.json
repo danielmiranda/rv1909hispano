@@ -1,0 +1,20 @@
+{
+  "book": "1KI",
+  "chapter": 2,
+  "verse": 9,
+  "text_original": "Empero ahora no lo absolverás: que hombre sabio eres, y sabes cómo te has de haber con él: y harás descender sus canas con sangre á la sepultura.",
+  "text_modernized": "Empero ahora no lo absolverás: que hombre sabio eres, y sabes cómo te has de haber con él: y harás descender sus canas con sangre á la sepultura.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.415135Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

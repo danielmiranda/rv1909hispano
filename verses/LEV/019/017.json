@@ -1,0 +1,25 @@
+{
+  "book": "LEV",
+  "chapter": 19,
+  "verse": 17,
+  "text_original": "No aborrecerás á tu hermano en tu corazón: ingenuamente reprenderás á tu prójimo, y no consentirás sobre él pecado.",
+  "text_modernized": "No aborrecerás á tu hermano en tu corazón: ingenuamente reprenderás á tu prójimo, y no consentirás sobre él pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.562777Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    },
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

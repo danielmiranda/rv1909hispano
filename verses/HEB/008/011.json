@@ -1,0 +1,20 @@
+{
+  "book": "HEB",
+  "chapter": 8,
+  "verse": 11,
+  "text_original": "Y ninguno enseñará á su prójimo, ni ninguno á su hermano, diciendo: Conoce al Señor: porque todos me conocerán, desde el menor de ellos hasta el mayor.",
+  "text_modernized": "Y ninguno enseñará á su prójimo, ni ninguno á su hermano, diciendo: Conoce al Señor: porque todos me conocerán, desde el menor de ellos hasta el mayor.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.233787Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

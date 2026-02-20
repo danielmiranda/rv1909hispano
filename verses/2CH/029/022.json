@@ -1,0 +1,20 @@
+{
+  "book": "2CH",
+  "chapter": 29,
+  "verse": 22,
+  "text_original": "Mataron pues los bueyes, y los sacerdotes tomaron la sangre, y esparciéronla sobre el altar; mataron luego los carneros, y esparcieron la sangre sobre el altar; asimismo mataron los corderos, y esparcieron la sangre sobre el altar.",
+  "text_modernized": "Mataron pues los bueyes, y los sacerdotes tomaron la sangre, y esparciéronla sobre el altar; mataron luego los carneros, y esparcieron la sangre sobre el altar; asimismo mataron los corderos, y esparcieron la sangre sobre el altar.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.138552Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 38,
+  "verse": 18,
+  "text_original": "Por tanto denunciaré mi maldad; congojaréme por mi pecado.",
+  "text_modernized": "Por tanto denunciaré mi maldad; congojaréme por mi pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.745320Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

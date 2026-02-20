@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 5,
+  "verse": 32,
+  "text_original": "Y nosotros somos testigos suyos de estas cosas, y también el Espíritu Santo, el cual ha dado Dios á los que le obedecen.",
+  "text_modernized": "Y nosotros somos testigos suyos de estas cosas, y también el Espíritu Santo, el cual ha dado Dios á los que le obedecen.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.518426Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

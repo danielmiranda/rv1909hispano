@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 45,
+  "verse": 27,
+  "text_original": "Y ellos le contaron todas las palabras de José, que él les había hablado; y viendo él los carros que José enviaba para llevarlo, el espíritu de Jacob su padre revivió.",
+  "text_modernized": "Y ellos le contaron todas las palabras de José, que él les había hablado; y viendo él los carros que José enviaba para llevarlo, el espíritu de Jacob su padre revivió.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.086063Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

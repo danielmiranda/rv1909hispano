@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 14,
+  "verse": 31,
+  "text_original": "El uno de lo que alcanzare su mano, [en] expiación por el pecado, y el otro en holocausto, además del presente: y hará el sacerdote expiación por el que se ha de purificar, delante de Jehová.",
+  "text_modernized": "El uno de lo que alcanzare su mano, [en] expiación por el pecado, y el otro en holocausto, además del presente: y hará el sacerdote expiación por el que se ha de purificar, delante de Jehová.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.524083Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

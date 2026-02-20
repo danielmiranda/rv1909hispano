@@ -1,0 +1,20 @@
+{
+  "book": "MRK",
+  "chapter": 9,
+  "verse": 17,
+  "text_original": "Y respondiendo uno de la compañía, dijo: Maestro, traje á ti mi hijo, que tiene un espíritu mudo,",
+  "text_modernized": "Y respondiendo uno de la compañía, dijo: Maestro, traje á ti mi hijo, que tiene un espíritu mudo,",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.905912Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

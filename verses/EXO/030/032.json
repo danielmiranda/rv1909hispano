@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 30,
+  "verse": 32,
+  "text_original": "Sobre carne de hombre no será untado, ni haréis otro semejante, conforme á su composición: santo es; por santo habéis de tenerlo vosotros.",
+  "text_modernized": "Sobre carne de hombre no será untado, ni haréis otro semejante, conforme á su composición: santo es; por santo habéis de tenerlo vosotros.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.335475Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

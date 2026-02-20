@@ -1,0 +1,20 @@
+{
+  "book": "DEU",
+  "chapter": 23,
+  "verse": 24,
+  "text_original": "Cuando entrares en la viña de tu prójimo, comerás uvas hasta saciar tu deseo: mas no pondrás en tu vaso.",
+  "text_modernized": "Cuando entrares en la viña de tu prójimo, comerás uvas hasta saciar tu deseo: mas no pondrás en tu vaso.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.602156Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

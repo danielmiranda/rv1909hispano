@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 26,
+  "verse": 4,
+  "text_original": "¿A quién has anunciado palabras, y cúyo es el espíritu que de ti sale?",
+  "text_modernized": "¿A quién has anunciado palabras, y cúyo es el espíritu que de ti sale?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.497322Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

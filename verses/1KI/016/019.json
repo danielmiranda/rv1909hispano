@@ -1,0 +1,20 @@
+{
+  "book": "1KI",
+  "chapter": 16,
+  "verse": 19,
+  "text_original": "Por sus pecados que él había cometido, haciendo lo malo á los ojos de Jehová, y andando en los caminos de Jeroboam, y en su pecado que cometió, haciendo pecar á Israel.",
+  "text_modernized": "Por sus pecados que él había cometido, haciendo lo malo á los ojos de Jehová, y andando en los caminos de Jeroboam, y en su pecado que cometió, haciendo pecar á Israel.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.530990Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

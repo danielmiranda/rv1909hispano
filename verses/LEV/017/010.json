@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 17,
+  "verse": 10,
+  "text_original": "Y cualquier varón de la casa de Israel, ó de los extranjeros que peregrinan entre ellos, que comiere alguna sangre, yo pondré mi rostro contra la persona que comiere sangre, y le cortaré de entre su pueblo.",
+  "text_modernized": "Y cualquier varón de la casa de Israel, ó de los extranjeros que peregrinan entre ellos, que comiere alguna sangre, yo pondré mi rostro contra la persona que comiere sangre, y le cortaré de entre su pueblo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.551021Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

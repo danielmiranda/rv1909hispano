@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 20,
+  "verse": 20,
+  "text_original": "Y cualquiera que durmiere con la mujer del hermano de su padre, la desnudez del hermano de su padre descubrió; su pecado llevarán; morirán sin hijos.",
+  "text_modernized": "Y cualquiera que durmiere con la mujer del hermano de su padre, la desnudez del hermano de su padre descubrió; su pecado llevarán; morirán sin hijos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.089157Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

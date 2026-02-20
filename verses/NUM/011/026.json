@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 11,
+  "verse": 26,
+  "text_original": "Y habían quedado en el campo dos varones, llamado el uno Eldad y el otro Medad, sobre los cuales también reposó el espíritu: estaban estos entre los escritos, mas no habían salido al tabernáculo; y profetizaron en el campo.",
+  "text_modernized": "Y habían quedado en el campo dos varones, llamado el uno Eldad y el otro Medad, sobre los cuales también reposó el espíritu: estaban estos entre los escritos, mas no habían salido al tabernáculo; y profetizaron en el campo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.250298Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

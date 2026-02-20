@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 24,
+  "verse": 28,
+  "text_original": "No seas sin causa testigo contra tu prójimo; y no lisonjees con tus labios.",
+  "text_modernized": "No seas sin causa testigo contra tu prójimo; y no lisonjees con tus labios.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.580381Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

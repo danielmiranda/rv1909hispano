@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 34,
+  "verse": 25,
+  "text_original": "No ofrecerás con leudo la sangre de mi sacrificio; ni quedará de la noche para la mañana el sacrificio de la fiesta de la pascua.",
+  "text_modernized": "No ofrecerás con leudo la sangre de mi sacrificio; ni quedará de la noche para la mañana el sacrificio de la fiesta de la pascua.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.378885Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

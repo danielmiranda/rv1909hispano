@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 1,
+  "verse": 18,
+  "text_original": "Mas ellos á su propia sangre ponen asechanzas, y á sus almas tienden lazo.",
+  "text_modernized": "Mas ellos á su propia sangre ponen asechanzas, y á sus almas tienden lazo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.437612Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "HEB",
+  "chapter": 11,
+  "verse": 25,
+  "text_original": "Escogiendo antes ser afligido con el pueblo de Dios, que gozar de comodidades temporales de pecado.",
+  "text_modernized": "Escogiendo antes ser afligido con el pueblo de Dios, que gozar de comodidades temporales de pecado.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.257633Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

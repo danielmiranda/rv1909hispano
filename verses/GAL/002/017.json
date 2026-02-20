@@ -1,0 +1,20 @@
+{
+  "book": "GAL",
+  "chapter": 2,
+  "verse": 17,
+  "text_original": "Y si buscando nosotros ser justificados en Cristo, también nosotros somos hallados pecadores, ¿es por eso Cristo ministro de pecado? En ninguna manera.",
+  "text_modernized": "Y si buscando nosotros ser justificados en Cristo, también nosotros somos hallados pecadores, ¿es por eso Cristo ministro de pecado? En ninguna manera.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.991886Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

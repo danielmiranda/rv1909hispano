@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 7,
+  "verse": 19,
+  "text_original": "Y la carne que tocare á alguna cosa inmunda, no se comerá; al fuego será quemada; mas cualquiera limpio comerá de aquesta carne.",
+  "text_modernized": "Y la carne que tocare á alguna cosa inmunda, no se comerá; al fuego será quemada; mas cualquiera limpio comerá de aquesta carne.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.464380Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

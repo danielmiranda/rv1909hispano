@@ -1,0 +1,25 @@
+{
+  "book": "ACT",
+  "chapter": 2,
+  "verse": 17,
+  "text_original": "Y será en los postreros días, dice Dios, derramaré de mi Espíritu sobre toda carne, y vuestros hijos y vuestras hijas profetizarán; y vuestros mancebos verán visiones, y vuestros viejos soñarán sueños:",
+  "text_modernized": "Y será en los postreros días, dice Dios, derramaré de mi Espíritu sobre toda carne, y vuestros hijos y vuestras hijas profetizarán; y vuestros mancebos verán visiones, y vuestros viejos soñarán sueños:",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.488410Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

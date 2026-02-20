@@ -1,0 +1,20 @@
+{
+  "book": "1TH",
+  "chapter": 1,
+  "verse": 6,
+  "text_original": "Y vosotros fuisteis hechos imitadores de nosotros, y del Señor, recibiendo la palabra con mucha tribulación, con gozo del Espíritu Santo:",
+  "text_modernized": "Y vosotros fuisteis hechos imitadores de nosotros, y del Señor, recibiendo la palabra con mucha tribulación, con gozo del Espíritu Santo:",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.113200Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

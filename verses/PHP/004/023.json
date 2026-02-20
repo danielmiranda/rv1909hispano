@@ -1,0 +1,14 @@
+{
+  "book": "PHP",
+  "chapter": 4,
+  "verse": 23,
+  "text_original": "La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén. Escrita de Roma con Epafrodito.",
+  "text_modernized": "La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén. Escrita de Roma con Epafrodito.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "pending",
+  "updated_at": "2026-02-20T15:39:12.090567Z",
+  "updated_by": "system",
+  "complex_patterns": []
+}

@@ -1,0 +1,20 @@
+{
+  "book": "MAT",
+  "chapter": 1,
+  "verse": 18,
+  "text_original": "Y el nacimiento de Jesucristo fué así: Que siendo María su madre desposada con José, antes que se juntasen, se halló haber concebido del Espíritu Santo.",
+  "text_modernized": "Y el nacimiento de Jesucristo fue así: Que siendo María su madre desposada con José, antes que se juntasen, se halló haber concebido del Espíritu Santo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.588815Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

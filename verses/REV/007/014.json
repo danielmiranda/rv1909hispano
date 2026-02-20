@@ -1,0 +1,20 @@
+{
+  "book": "REV",
+  "chapter": 7,
+  "verse": 14,
+  "text_original": "Y yo le dije: Señor, tú lo sabes. Y él me dijo: Estos son los que han venido de grande tribulación, y han lavado sus ropas, y las han blanqueado en la sangre del Cordero.",
+  "text_modernized": "Y yo le dije: Señor, tú lo sabes. Y él me dijo: Estos son los que han venido de grande tribulación, y han lavado sus ropas, y las han blanqueado en la sangre del Cordero.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.417015Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

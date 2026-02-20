@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 8,
+  "verse": 11,
+  "text_original": "Y si el Espíritu de aquel que levantó de los muertos á Jesús mora en vosotros, el que levantó á Cristo Jesús de los muertos, vivificará también vuestros cuerpos mortales por su Espíritu que mora en vosotros.",
+  "text_modernized": "Y si el Espíritu de aquel que levantó de los muertos á Jesús mora en vosotros, el que levantó á Cristo Jesús de los muertos, vivificará también vuestros cuerpos mortales por su Espíritu que mora en vosotros.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.762792Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

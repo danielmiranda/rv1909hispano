@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 6,
+  "verse": 3,
+  "text_original": "Haz esto ahora, hijo mío, y líbrate, ya que has caído en la mano de tu prójimo: ve, humíllate, y asegúrate de tu amigo.",
+  "text_modernized": "Haz esto ahora, hijo mío, y líbrate, ya que has caído en la mano de tu prójimo: ve, humíllate, y asegúrate de tu amigo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.463594Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

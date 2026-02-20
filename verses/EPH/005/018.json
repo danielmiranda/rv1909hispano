@@ -1,0 +1,20 @@
+{
+  "book": "EPH",
+  "chapter": 5,
+  "verse": 18,
+  "text_original": "Y no os embriaguéis de vino, en lo cual hay disolución; mas sed llenos de Espíritu;",
+  "text_modernized": "Y no os embriaguéis de vino, en lo cual hay disolución; mas sed llenos de Espíritu;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.042532Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

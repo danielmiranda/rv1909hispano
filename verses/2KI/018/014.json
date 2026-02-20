@@ -1,0 +1,20 @@
+{
+  "book": "2KI",
+  "chapter": 18,
+  "verse": 14,
+  "text_original": "Entonces Ezechîas rey de Judá envió á decir al rey de Asiria en Lachîs: Yo he pecado: vuélvete de mí, y llevaré todo lo que me impusieres. Y el rey de Asiria impuso á Ezechîas rey de Judá trescientos talentos de plata, y treinta talentos de oro.",
+  "text_modernized": "Entonces Ezechîas rey de Judá envió á decir al rey de Asiria en Lachîs: Yo he pecado: vuélvete de mí, y llevaré todo lo que me impusieres. Y el rey de Asiria impuso á Ezechîas rey de Judá trescientos talentos de plata, y treinta talentos de oro.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.736554Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

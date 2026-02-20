@@ -1,0 +1,20 @@
+{
+  "book": "JER",
+  "chapter": 10,
+  "verse": 14,
+  "text_original": "Todo hombre se embrutece [y le] falta ciencia; avergüéncese de su vaciadizo todo fundidor: porque mentira es su obra de fundición, y no hay espíritu en ellos;",
+  "text_modernized": "Todo hombre se embrutece [y le] falta ciencia; avergüéncese de su vaciadizo todo fundidor: porque mentira es su obra de fundición, y no hay espíritu en ellos;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.601631Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

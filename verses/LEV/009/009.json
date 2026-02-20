@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 9,
+  "verse": 9,
+  "text_original": "Y los hijos de Aarón le trajeron la sangre; y él mojó su dedo en la sangre, y puso sobre los cuernos del altar, y derramó la demás sangre al pie del altar;",
+  "text_modernized": "Y los hijos de Aarón le trajeron la sangre; y él mojó su dedo en la sangre, y puso sobre los cuernos del altar, y derramó la demás sangre al pie del altar;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.479860Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

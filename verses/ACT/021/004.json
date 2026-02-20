@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 21,
+  "verse": 4,
+  "text_original": "Y nos quedamos allí siete días, hallados los discípulos, los cuales decían á Pablo por Espíritu, que no subiese á Jerusalem.",
+  "text_modernized": "Y nos quedamos allí siete días, hallados los discípulos, los cuales decían á Pablo por Espíritu, que no subiese á Jerusalem.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.655939Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

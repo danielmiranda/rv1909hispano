@@ -1,0 +1,20 @@
+{
+  "book": "DEU",
+  "chapter": 4,
+  "verse": 42,
+  "text_original": "Para que huyese allí el homicida que matase á su prójimo por yerro, sin haber tenido enemistad con él desde ayer ni antes de ayer; y que huyendo á una de estas ciudades salvara la vida:",
+  "text_modernized": "Para que huyese allí el homicida que matase á su prójimo por yerro, sin haber tenido enemistad con él desde ayer ni antes de ayer; y que huyendo á una de estas ciudades salvara la vida:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.484552Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 8,
+  "verse": 15,
+  "text_original": "Los cuales venidos, oraron por ellos, para que recibiesen el Espíritu Santo;",
+  "text_modernized": "Los cuales venidos, oraron por ellos, para que recibiesen el Espíritu Santo;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.540749Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

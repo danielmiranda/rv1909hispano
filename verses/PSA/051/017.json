@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 51,
+  "verse": 17,
+  "text_original": "Los sacrificios de Dios son el espíritu quebrantado: al corazón contrito y humillado no despreciarás tú, oh Dios.",
+  "text_modernized": "Los sacrificios de Dios son el espíritu quebrantado: al corazón contrito y humillado no despreciarás tú, oh Dios.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.880703Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

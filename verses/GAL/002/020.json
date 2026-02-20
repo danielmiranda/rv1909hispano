@@ -1,0 +1,20 @@
+{
+  "book": "GAL",
+  "chapter": 2,
+  "verse": 20,
+  "text_original": "Con Cristo estoy juntamente crucificado, y vivo, no ya yo, mas vive Cristo en mí: y lo que ahora vivo en la carne, [lo] vivo en la fe del Hijo de Dios, el cual me amó, y se entregó á sí mismo por mí.",
+  "text_modernized": "Con Cristo estoy juntamente crucificado, y vivo, no ya yo, mas vive Cristo en mí: y lo que ahora vivo en la carne, [lo] vivo en la fe del Hijo de Dios, el cual me amó, y se entregó á sí mismo por mí.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.992729Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

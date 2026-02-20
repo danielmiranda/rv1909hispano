@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 7,
+  "verse": 59,
+  "text_original": "Y apedrearon á Esteban, invocando él y diciendo: Señor Jesús, recibe mi espíritu.",
+  "text_modernized": "Y apedrearon á Esteban, invocando él y diciendo: Señor Jesús, recibe mi espíritu.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.537003Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

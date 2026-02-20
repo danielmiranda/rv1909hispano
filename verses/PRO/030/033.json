@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 30,
+  "verse": 33,
+  "text_original": "Ciertamente el que exprime la leche, sacará manteca; y el que recio se suena las narices, sacará sangre: y el que provoca la ira, causará contienda.",
+  "text_modernized": "Ciertamente el que exprime la leche, sacará manteca; y el que recio se suena las narices, sacará sangre: y el que provoca la ira, causará contienda.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.616538Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

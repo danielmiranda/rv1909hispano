@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 17,
+  "verse": 22,
+  "text_original": "El corazón alegre produce buena disposición: mas el espíritu triste seca los huesos.",
+  "text_modernized": "El corazón alegre produce buena disposición: mas el espíritu triste seca los huesos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.536988Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 1,
+  "verse": 8,
+  "text_original": "Mas recibiréis la virtud del Espíritu Santo que vendrá sobre vosotros; y me sereís testigos en Jerusalem, y en toda Judea, y Samaria, y hasta lo último de la tierra.",
+  "text_modernized": "Mas recibiréis la virtud del Espíritu Santo que vendrá sobre vosotros; y me sereís testigos en Jerusalem, y en toda Judea, y Samaria, y hasta lo último de la tierra.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.461821Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

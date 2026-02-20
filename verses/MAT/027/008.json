@@ -1,0 +1,20 @@
+{
+  "book": "MAT",
+  "chapter": 27,
+  "verse": 8,
+  "text_original": "Por lo cual fué llamado aquel campo, Campo de sangre, hasta el día de hoy.",
+  "text_modernized": "Por lo cual fue llamado aquel campo, Campo de sangre, hasta el día de hoy.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.823121Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

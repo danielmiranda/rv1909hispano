@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 7,
+  "verse": 6,
+  "text_original": "Y juntándose en Mizpa, sacaron agua, y derramáronla delante de Jehová, y ayunaron aquel día, y dijeron allí: Contra Jehová hemos pecado. Y juzgó Samuel á los hijos de Israel en Mizpa.",
+  "text_modernized": "Y juntándose en Mizpa, sacaron agua, y derramáronla delante de Jehová, y ayunaron aquel día, y dijeron allí: Contra Jehová hemos pecado. Y juzgó Samuel á los hijos de Israel en Mizpa.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.060406Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

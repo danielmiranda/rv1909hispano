@@ -1,0 +1,25 @@
+{
+  "book": "HEB",
+  "chapter": 2,
+  "verse": 14,
+  "text_original": "Así que, por cuanto los hijos participaron de carne y sangre, él también participó de lo mismo, para destruir por la muerte al que tenía el imperio de la muerte, es á saber, al diablo,",
+  "text_modernized": "Así que, por cuanto los hijos participaron de carne y sangre, él también participó de lo mismo, para destruir por la muerte al que tenía el imperio de la muerte, es á saber, al diablo,",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.208459Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    },
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

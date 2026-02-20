@@ -1,0 +1,20 @@
+{
+  "book": "MAT",
+  "chapter": 4,
+  "verse": 1,
+  "text_original": "ENTONCES Jesús fué llevado del Espíritu al desierto, para ser tentado del diablo.",
+  "text_modernized": "ENTONCES Jesús fue llevado del Espíritu al desierto, para ser tentado del diablo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.618345Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

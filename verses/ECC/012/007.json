@@ -1,0 +1,20 @@
+{
+  "book": "ECC",
+  "chapter": 12,
+  "verse": 7,
+  "text_original": "Y el polvo se torne á la tierra, como era, y el espíritu se vuelva á Dios que lo dió.",
+  "text_modernized": "Y el polvo se torne á la tierra, como era, y el espíritu se vuelva á Dios que lo dió.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.190311Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

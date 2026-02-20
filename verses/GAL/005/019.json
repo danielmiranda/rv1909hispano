@@ -1,0 +1,20 @@
+{
+  "book": "GAL",
+  "chapter": 5,
+  "verse": 19,
+  "text_original": "Y manifiestas son las obras de la carne, que son: adulterio, fornicación, inmundicia, disolución,",
+  "text_modernized": "Y manifiestas son las obras de la carne, que son: adulterio, fornicación, inmundicia, disolución,",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.013004Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 9,
+  "verse": 20,
+  "text_original": "[Cada uno] hurtará á la mano derecha, y tendrá hambre; y comerá á la izquierda, y no se hartará: cada cual comerá la carne de su brazo:",
+  "text_modernized": "[Cada uno] hurtará á la mano derecha, y tendrá hambre; y comerá á la izquierda, y no se hartará: cada cual comerá la carne de su brazo:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.265598Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

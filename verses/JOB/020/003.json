@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 20,
+  "verse": 3,
+  "text_original": "La reprensión de mi censura he oído, y háceme responder el espíritu de mi inteligencia.",
+  "text_modernized": "La reprensión de mi censura he oído, y háceme responder el espíritu de mi inteligencia.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.470746Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

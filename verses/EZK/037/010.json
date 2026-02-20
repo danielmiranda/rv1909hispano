@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 37,
+  "verse": 10,
+  "text_original": "Y profeticé como me había mandado, y entró espíritu en ellos, y vivieron, y estuvieron sobre sus pies, un ejército grande en extremo.",
+  "text_modernized": "Y profeticé como me había mandado, y entró espíritu en ellos, y vivieron, y estuvieron sobre sus pies, un ejército grande en extremo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.170114Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

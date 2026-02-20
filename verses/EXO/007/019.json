@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 7,
+  "verse": 19,
+  "text_original": "Y Jehová dijo á Moisés: Di á Aarón: Toma tu vara, y extiende tu mano sobre las aguas de Egipto, sobre sus ríos, sobre sus arroyos y sobre sus estanques, y sobre todos sus depósitos de aguas, para que se conviertan en sangre, y haya sangre por toda la región de Egipto, así en los vasos de madera como en los de piedra.",
+  "text_modernized": "Y Jehová dijo á Moisés: Di á Aarón: Toma tu vara, y extiende tu mano sobre las aguas de Egipto, sobre sus ríos, sobre sus arroyos y sobre sus estanques, y sobre todos sus depósitos de aguas, para que se conviertan en sangre, y haya sangre por toda la región de Egipto, así en los vasos de madera como en los de piedra.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.166192Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

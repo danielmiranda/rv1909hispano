@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 33,
+  "verse": 6,
+  "text_original": "Por la palabra de Jehová fueron hechos los cielos, y todo el ejército de ellos por el espíritu de su boca.",
+  "text_modernized": "Por la palabra de Jehová fueron hechos los cielos, y todo el ejército de ellos por el espíritu de su boca.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.688899Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

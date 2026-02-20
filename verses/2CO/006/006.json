@@ -1,0 +1,20 @@
+{
+  "book": "2CO",
+  "chapter": 6,
+  "verse": 6,
+  "text_original": "En castidad, en ciencia, en longanimidad, en bondad, en Espíritu Santo, en amor no fingido;",
+  "text_modernized": "En castidad, en ciencia, en longanimidad, en bondad, en Espíritu Santo, en amor no fingido;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.949643Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

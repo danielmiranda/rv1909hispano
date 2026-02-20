@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 11,
+  "verse": 13,
+  "text_original": "Pues si vosotros, siendo malos, sabéis dar buenas dádivas á vuestros hijos, ¿cuánto más vuestro Padre celestial dará el Espíritu Santo á los que lo pidieren de él?",
+  "text_modernized": "Pues si vosotros, siendo malos, sabéis dar buenas dádivas á vuestros hijos, ¿cuánto más vuestro Padre celestial dará el Espíritu Santo á los que lo pidieren de él?",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.154596Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

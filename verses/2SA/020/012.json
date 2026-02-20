@@ -1,0 +1,20 @@
+{
+  "book": "2SA",
+  "chapter": 20,
+  "verse": 12,
+  "text_original": "Y Amasa se había revolcado en la sangre en mitad del camino: y viendo aquel hombre que todo el pueblo se paraba, apartó á Amasa del camino al campo, y echó sobre él una vestidura, porque veía que todos los que venían se paraban junto á él.",
+  "text_modernized": "Y Amasa se había revolcado en la sangre en mitad del camino: y viendo aquel hombre que todo el pueblo se paraba, apartó á Amasa del camino al campo, y echó sobre él una vestidura, porque veía que todos los que venían se paraban junto á él.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.368249Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

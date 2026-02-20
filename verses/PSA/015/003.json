@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 15,
+  "verse": 3,
+  "text_original": "El que no detrae con su lengua, ni hace mal á su prójimo, ni contra su prójimo acoge oprobio alguno.",
+  "text_modernized": "El que no detrae con su lengua, ni hace mal á su prójimo, ni contra su prójimo acoge oprobio alguno.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.615219Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

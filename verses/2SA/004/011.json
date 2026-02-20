@@ -1,0 +1,20 @@
+{
+  "book": "2SA",
+  "chapter": 4,
+  "verse": 11,
+  "text_original": "¿Cuánto más á los malos hombres que mataron á un hombre justo en su casa, y sobre su cama? Ahora pues, ¿no tengo yo de demandar su sangre de vuestras manos, y quitaros de la tierra?",
+  "text_modernized": "¿Cuánto más á los malos hombres que mataron á un hombre justo en su casa, y sobre su cama? Ahora pues, ¿no tengo yo de demandar su sangre de vuestras manos, y quitaros de la tierra?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.247934Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

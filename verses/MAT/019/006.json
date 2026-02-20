@@ -1,0 +1,20 @@
+{
+  "book": "MAT",
+  "chapter": 19,
+  "verse": 6,
+  "text_original": "Así que, no son ya más dos, sino una carne: por tanto, lo que Dios juntó, no [lo] aparte el hombre.",
+  "text_modernized": "Así que, no son ya más dos, sino una carne: por tanto, lo que Dios juntó, no [lo] aparte el hombre.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.735115Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

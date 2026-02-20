@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 41,
+  "verse": 4,
+  "text_original": "Yo dije: Jehová, ten misericordia de mí; sana mi alma, porque contra ti he pecado.",
+  "text_modernized": "Yo dije: Jehová, ten misericordia de mí; sana mi alma, porque contra ti he pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.822882Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

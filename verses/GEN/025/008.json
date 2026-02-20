@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 25,
+  "verse": 8,
+  "text_original": "Y exhaló el espíritu, y murió Abraham en buena vejez, anciano y lleno [de días], y fué unido á su pueblo.",
+  "text_modernized": "Y exhaló el espíritu, y murió Abraham en buena vejez, anciano y lleno [de días], y fue unido á su pueblo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:02.892655Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

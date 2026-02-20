@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 9,
+  "verse": 8,
+  "text_original": "Quiere decir: No los que son hijos de la carne, éstos son los hijos de Dios; mas los que son hijos de la promesa, son contados en la generación.",
+  "text_modernized": "Quiere decir: No los que son hijos de la carne, éstos son los hijos de Dios; mas los que son hijos de la promesa, son contados en la generación.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.770428Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

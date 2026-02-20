@@ -1,0 +1,20 @@
+{
+  "book": "1KI",
+  "chapter": 22,
+  "verse": 21,
+  "text_original": "Y salió un espíritu, y púsose delante de Jehová, y dijo: Yo le induciré. Y Jehová le dijo: ¿De qué manera?",
+  "text_modernized": "Y salió un espíritu, y púsose delante de Jehová, y dijo: Yo le induciré. Y Jehová le dijo: ¿De qué manera?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.577117Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

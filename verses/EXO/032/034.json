@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 32,
+  "verse": 34,
+  "text_original": "Ve pues ahora, lleva á este pueblo donde te he dicho: he aquí mi ángel irá delante de ti; que en el día de mi visitación yo visitaré en ellos su pecado.",
+  "text_modernized": "Ve pues ahora, lleva á este pueblo donde te he dicho: he aquí mi ángel irá delante de ti; que en el día de mi visitación yo visitaré en ellos su pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.361619Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

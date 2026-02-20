@@ -1,0 +1,20 @@
+{
+  "book": "MRK",
+  "chapter": 8,
+  "verse": 12,
+  "text_original": "Y gimiendo en su espíritu, dice: ¿Por qué pide señal esta generación? De cierto os digo que no se dará señal á esta generación.",
+  "text_modernized": "Y gimiendo en su espíritu, dice: ¿Por qué pide señal esta generación? De cierto os digo que no se dará señal á esta generación.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.897422Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

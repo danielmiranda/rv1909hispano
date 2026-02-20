@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 11,
+  "verse": 9,
+  "text_original": "El hipócrita con la boca daña á su prójimo: mas los justos son librados con la sabiduría.",
+  "text_modernized": "El hipócrita con la boca daña á su prójimo: mas los justos son librados con la sabiduría.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.496492Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

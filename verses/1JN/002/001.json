@@ -1,0 +1,20 @@
+{
+  "book": "1JN",
+  "chapter": 2,
+  "verse": 1,
+  "text_original": "HIJITOS míos, estas cosas os escribo, para que no pequéis; y si alguno hubiere pecado, abogado tenemos para con el Padre, á Jesucristo el justo;",
+  "text_modernized": "HIJITOS míos, estas cosas os escribo, para que no pequéis; y si alguno hubiere pecado, abogado tenemos para con el Padre, á Jesucristo el justo;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.338714Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

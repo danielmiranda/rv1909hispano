@@ -1,0 +1,20 @@
+{
+  "book": "EPH",
+  "chapter": 5,
+  "verse": 9,
+  "text_original": "(Porque el fruto del Espíritu es en toda bondad, y justicia, y verdad;)",
+  "text_modernized": "(Porque el fruto del Espíritu es en toda bondad, y justicia, y verdad;)",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.040542Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

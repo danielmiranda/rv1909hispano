@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 15,
+  "verse": 13,
+  "text_original": "El corazón alegre hermosea el rostro: mas por el dolor de corazón el espíritu se abate.",
+  "text_modernized": "El corazón alegre hermosea el rostro: mas por el dolor de corazón el espíritu se abate.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.520952Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

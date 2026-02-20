@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 51,
+  "verse": 4,
+  "text_original": "A ti, á ti solo he pecado, y he hecho lo malo delante de tus ojos: porque seas reconocido justo en tu palabra, y tenido por puro en tu juicio.",
+  "text_modernized": "A ti, á ti solo he pecado, y he hecho lo malo delante de tus ojos: porque seas reconocido justo en tu palabra, y tenido por puro en tu juicio.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.875914Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

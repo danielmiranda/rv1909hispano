@@ -1,0 +1,20 @@
+{
+  "book": "MAT",
+  "chapter": 26,
+  "verse": 28,
+  "text_original": "Porque esto es mi sangre del nuevo pacto, la cual es derramada por muchos para remisión de los pecados.",
+  "text_modernized": "Porque esto es mi sangre del nuevo pacto, la cual es derramada por muchos para remisión de los pecados.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.812238Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "2CO",
+  "chapter": 3,
+  "verse": 8,
+  "text_original": "¿Cómo no será más bien con gloria el ministerio del espíritu?",
+  "text_modernized": "¿Cómo no será más bien con gloria el ministerio del espíritu?",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.936090Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

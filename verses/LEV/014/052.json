@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 14,
+  "verse": 52,
+  "text_original": "Y purificará la casa con la sangre de la avecilla, y con las aguas vivas, y con la avecilla viva, y el palo de cedro, y el hisopo, y la grana:",
+  "text_modernized": "Y purificará la casa con la sangre de la avecilla, y con las aguas vivas, y con la avecilla viva, y el palo de cedro, y el hisopo, y la grana:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.529516Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

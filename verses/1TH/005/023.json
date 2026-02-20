@@ -1,0 +1,20 @@
+{
+  "book": "1TH",
+  "chapter": 5,
+  "verse": 23,
+  "text_original": "Y el Dios de paz os santifique en todo; para que vuestro espíritu y alma y cuerpo sea guardado entero sin reprensión para la venida de nuestro Señor Jesucristo.",
+  "text_modernized": "Y el Dios de paz os santifique en todo; para que vuestro espíritu y alma y cuerpo sea guardado entero sin reprensión para la venida de nuestro Señor Jesucristo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.132588Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

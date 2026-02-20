@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 40,
+  "verse": 43,
+  "text_original": "Y dentro, ganchos de un palmo, dispuestos por todo alrededor; y sobre las mesas la carne de la ofrenda.",
+  "text_modernized": "Y dentro, ganchos de un palmo, dispuestos por todo alrededor; y sobre las mesas la carne de la ofrenda.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.198131Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

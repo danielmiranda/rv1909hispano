@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 16,
+  "verse": 7,
+  "text_original": "Y como vinieron á Misia, tentaron de ir á Bithynia; mas el Espíritu no les dejó.",
+  "text_modernized": "Y como vinieron á Misia, tentaron de ir á Bithynia; mas el Espíritu no les dejó.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.605977Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

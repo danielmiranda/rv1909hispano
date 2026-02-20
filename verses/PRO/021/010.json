@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 21,
+  "verse": 10,
+  "text_original": "El alma del impío desea mal: su prójimo no le parece bien.",
+  "text_modernized": "El alma del impío desea mal: su prójimo no le parece bien.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.556297Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

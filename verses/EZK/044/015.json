@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 44,
+  "verse": 15,
+  "text_original": "Mas los sacerdotes Levitas, hijos de Sadoc, que guardaron el ordenamiento de mi santuario, cuando los hijos de Israel se desviaron de mí, ellos serán allegados á mí para ministrarme, y delante de mí estarán para ofrecerme la grosura y la sangre, dice el Señor Jehová.",
+  "text_modernized": "Mas los sacerdotes Levitas, hijos de Sadoc, que guardaron el ordenamiento de mi santuario, cuando los hijos de Israel se desviaron de mí, ellos serán allegados á mí para ministrarme, y delante de mí estarán para ofrecerme la grosura y la sangre, dice el Señor Jehová.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.217810Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

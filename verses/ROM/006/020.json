@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 6,
+  "verse": 20,
+  "text_original": "Porque cuando fuisteis siervos del pecado, erais libres acerca de la justicia.",
+  "text_modernized": "Porque cuando fuisteis siervos del pecado, erais libres acerca de la justicia.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.753079Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

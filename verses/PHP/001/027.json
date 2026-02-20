@@ -1,0 +1,20 @@
+{
+  "book": "PHP",
+  "chapter": 1,
+  "verse": 27,
+  "text_original": "Solamente que converséis como es digno del evangelio de Cristo; para que, ó sea que vaya á veros, ó que esté ausente, oiga de vosotros que estáis firmes en un mismo espíritu, unánimes combatiendo juntamente por la fe del evangelio,",
+  "text_modernized": "Solamente que converséis como es digno del evangelio de Cristo; para que, ó sea que vaya á veros, ó que esté ausente, oiga de vosotros que estáis firmes en un mismo espíritu, unánimes combatiendo juntamente por la fe del evangelio,",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.070950Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

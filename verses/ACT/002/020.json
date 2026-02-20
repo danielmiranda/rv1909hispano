@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 2,
+  "verse": 20,
+  "text_original": "El sol se volverá en tinieblas, y la luna en sangre, antes que venga el día del Señor, grande y manifiesto;",
+  "text_modernized": "El sol se volverá en tinieblas, y la luna en sangre, antes que venga el día del Señor, grande y manifiesto;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.489017Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "LAM",
+  "chapter": 4,
+  "verse": 13,
+  "text_original": "[Es] por los pecados de sus profetas, por las maldades de sus sacerdotes, que derramaron en medio de ella la sangre de los justos.",
+  "text_modernized": "[Es] por los pecados de sus profetas, por las maldades de sus sacerdotes, que derramaron en medio de ella la sangre de los justos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.935817Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

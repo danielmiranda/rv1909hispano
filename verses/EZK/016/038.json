@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 16,
+  "verse": 38,
+  "text_original": "Y yo te juzgaré por las leyes de las adúlteras, y de las que derraman sangre; y te daré en sangre de ira y de celo.",
+  "text_modernized": "Y yo te juzgaré por las leyes de las adúlteras, y de las que derraman sangre; y te daré en sangre de ira y de celo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.035632Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

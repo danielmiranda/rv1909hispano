@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 2,
+  "verse": 10,
+  "text_original": "Empero Dios nos [lo] reveló á nosotros por el Espíritu: porque el Espíritu todo lo escudriña, aun lo profundo de Dios.",
+  "text_modernized": "Empero Dios nos [lo] reveló á nosotros por el Espíritu: porque el Espíritu todo lo escudriña, aun lo profundo de Dios.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.824318Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

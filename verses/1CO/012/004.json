@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 12,
+  "verse": 4,
+  "text_original": "Empero hay repartimiento de dones; mas el mismo Espíritu [es].",
+  "text_modernized": "Empero hay repartimiento de dones; mas el mismo Espíritu [es].",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.876092Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

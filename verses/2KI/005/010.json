@@ -1,0 +1,20 @@
+{
+  "book": "2KI",
+  "chapter": 5,
+  "verse": 10,
+  "text_original": "Entonces Eliseo le envió un mensajero, diciendo: Ve, y lávate siete veces en el Jordán, y tu carne se te restaurará, y serás limpio.",
+  "text_modernized": "Entonces Eliseo le envió un mensajero, diciendo: Ve, y lávate siete veces en el Jordán, y tu carne se te restaurará, y serás limpio.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.613553Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

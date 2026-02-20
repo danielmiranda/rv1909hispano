@@ -1,0 +1,20 @@
+{
+  "book": "1CH",
+  "chapter": 22,
+  "verse": 8,
+  "text_original": "Mas vino á mí palabra de Jehová, diciendo: Tú has derramado mucha sangre, y has traído grandes guerras: no edificarás casa á mi nombre, porque has derramado mucha sangre en la tierra delante de mí:",
+  "text_modernized": "Mas vino á mí palabra de Jehová, diciendo: Tú has derramado mucha sangre, y has traído grandes guerras: no edificarás casa á mi nombre, porque has derramado mucha sangre en la tierra delante de mí:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.934953Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

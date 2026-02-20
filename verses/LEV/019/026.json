@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 19,
+  "verse": 26,
+  "text_original": "No comeréis cosa alguna con sangre. No seréis agoreros, ni adivinaréis.",
+  "text_modernized": "No comeréis cosa alguna con sangre. No seréis agoreros, ni adivinaréis.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.564735Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

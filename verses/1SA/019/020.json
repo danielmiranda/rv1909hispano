@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 19,
+  "verse": 20,
+  "text_original": "Y envió Saúl mensajeros que trajesen á David, los cuales vieron una compañía de profetas que profetizaban, y á Samuel que estaba [allí], y los presidía. Y fué el espíritu de Dios sobre los mensajeros de Saúl, y ellos también profetizaron.",
+  "text_modernized": "Y envió Saúl mensajeros que trajesen á David, los cuales vieron una compañía de profetas que profetizaban, y á Samuel que estaba [allí], y los presidía. Y fue el espíritu de Dios sobre los mensajeros de Saúl, y ellos también profetizaron.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.143889Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

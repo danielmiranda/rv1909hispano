@@ -1,0 +1,20 @@
+{
+  "book": "JER",
+  "chapter": 2,
+  "verse": 22,
+  "text_original": "Aunque te laves con lejía, y amontones jabón sobre ti, tu pecado está sellado delante de mí, dijo el Señor Jehová.",
+  "text_modernized": "Aunque te laves con lejía, y amontones jabón sobre ti, tu pecado está sellado delante de mí, dijo el Señor Jehová.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.551288Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

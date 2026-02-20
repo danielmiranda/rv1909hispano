@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 9,
+  "verse": 12,
+  "text_original": "Degolló asimismo el holocausto, y los hijos de Aarón le presentaron la sangre, la cual roció él alrededor sobre el altar.",
+  "text_modernized": "Degolló asimismo el holocausto, y los hijos de Aarón le presentaron la sangre, la cual roció él alrededor sobre el altar.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.480507Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 14,
+  "verse": 24,
+  "text_original": "Empero mi siervo Caleb, por cuanto hubo en él otro espíritu, y cumplió de ir en pos de mí, yo le meteré en la tierra donde entró, y su simiente la recibirá en heredad.",
+  "text_modernized": "Empero mi siervo Caleb, por cuanto hubo en él otro espíritu, y cumplió de ir en pos de mí, yo le meteré en la tierra donde entró, y su simiente la recibirá en heredad.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.268011Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 146,
+  "verse": 4,
+  "text_original": "Saldrá su espíritu, tornaráse en su tierra: en aquel día perecerán sus pensamientos.",
+  "text_modernized": "Saldrá su espíritu, tornaráse en su tierra: en aquel día perecerán sus pensamientos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.422310Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

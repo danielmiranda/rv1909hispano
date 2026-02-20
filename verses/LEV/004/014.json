@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 4,
+  "verse": 14,
+  "text_original": "Luego que fuere entendido el pecado sobre que delinquieron, la congregación ofrecerá un becerro por expiación, y lo traerán delante del tabernáculo del testimonio.",
+  "text_modernized": "Luego que fuere entendido el pecado sobre que delinquieron, la congregación ofrecerá un becerro por expiación, y lo traerán delante del tabernáculo del testimonio.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.444228Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

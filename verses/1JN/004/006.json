@@ -1,0 +1,20 @@
+{
+  "book": "1JN",
+  "chapter": 4,
+  "verse": 6,
+  "text_original": "Nosotros somos de Dios: el que conoce á Dios, nos oye: el que no es de Dios, no nos oye. Por esto conocemos el espíritu de verdad y el espíritu de error.",
+  "text_modernized": "Nosotros somos de Dios: el que conoce á Dios, nos oye: el que no es de Dios, no nos oye. Por esto conocemos el espíritu de verdad y el espíritu de error.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.355553Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

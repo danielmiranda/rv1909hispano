@@ -1,0 +1,20 @@
+{
+  "book": "EPH",
+  "chapter": 1,
+  "verse": 17,
+  "text_original": "Que el Dios del Señor nuestro Jesucristo, el Padre de gloria, os dé espíritu de sabiduría y de revelación para su conocimiento;",
+  "text_modernized": "Que el Dios del Señor nuestro Jesucristo, el Padre de gloria, os dé espíritu de sabiduría y de revelación para su conocimiento;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.021920Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

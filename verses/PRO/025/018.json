@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 25,
+  "verse": 18,
+  "text_original": "Martillo y cuchillo y saeta aguda, es el hombre que habla contra su prójimo falso testimonio.",
+  "text_modernized": "Martillo y cuchillo y saeta aguda, es el hombre que habla contra su prójimo falso testimonio.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.584710Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

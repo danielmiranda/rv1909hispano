@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 15,
+  "verse": 13,
+  "text_original": "Y cuando se hubiere limpiado de su flujo el que tiene flujo, se ha de contar siete días desde su purificación, y lavará sus vestidos, y lavará su carne en aguas vivas, y será limpio.",
+  "text_modernized": "Y cuando se hubiere limpiado de su flujo el que tiene flujo, se ha de contar siete días desde su purificación, y lavará sus vestidos, y lavará su carne en aguas vivas, y será limpio.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.535585Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

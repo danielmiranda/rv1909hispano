@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 21,
+  "verse": 7,
+  "text_original": "Entonces el pueblo vino á Moisés, y dijeron: Pecado hemos por haber hablado contra Jehová, y contra ti: ruega á Jehová que quite de nosotros estas serpientes. Y Moisés oró por el pueblo.",
+  "text_modernized": "Entonces el pueblo vino á Moisés, y dijeron: Pecado hemos por haber hablado contra Jehová, y contra ti: ruega á Jehová que quite de nosotros estas serpientes. Y Moisés oró por el pueblo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.320964Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

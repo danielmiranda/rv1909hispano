@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 25,
+  "verse": 24,
+  "text_original": "Y echóse á sus pies, y dijo: Señor mío, sobre mí sea el pecado; mas ruégote hable tu sierva en tus oídos, y oye las palabras de tu sierva.",
+  "text_modernized": "Y echóse á sus pies, y dijo: Señor mío, sobre mí sea el pecado; mas ruégote hable tu sierva en tus oídos, y oye las palabras de tu sierva.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.179457Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

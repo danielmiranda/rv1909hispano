@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 17,
+  "verse": 23,
+  "text_original": "Entonces tomó Abraham á Ismael su hijo, y á todos los [siervos] nacidos en su casa, y á todos los comprados por su dinero, á todo varón entre los domésticos de la casa de Abraham, y circuncidó la carne del prepucio de ellos en aquel mismo día, como Dios le había dicho.",
+  "text_modernized": "Entonces tomó Abraham á Ismael su hijo, y á todos los [siervos] nacidos en su casa, y á todos los comprados por su dinero, á todo varón entre los domésticos de la casa de Abraham, y circuncidó la carne del prepucio de ellos en aquel mismo día, como Dios le había dicho.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:02.838508Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

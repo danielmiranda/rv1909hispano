@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 63,
+  "verse": 11,
+  "text_original": "Empero acordóse de los días antiguos, de Moisés [y] de su pueblo, [diciendo]: ¿Dónde está el que les hizo subir de la mar con el pastor de su rebaño? ¿dónde el que puso en medio de él su espíritu santo?",
+  "text_modernized": "Empero acordóse de los días antiguos, de Moisés [y] de su pueblo, [diciendo]: ¿Dónde está el que les hizo subir de la mar con el pastor de su rebaño? ¿dónde el que puso en medio de él su espíritu santo?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.526081Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

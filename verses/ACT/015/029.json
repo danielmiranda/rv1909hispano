@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 15,
+  "verse": 29,
+  "text_original": "Que os abstengáis de cosas sacrificadas á ídolos, y de sangre, y de ahogado, y de fornicación; de las cuales cosas si os guardareis, bien haréis. Pasadlo bien.",
+  "text_modernized": "Que os abstengáis de cosas sacrificadas á ídolos, y de sangre, y de ahogado, y de fornicación; de las cuales cosas si os guardareis, bien haréis. Pasadlo bien.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.602115Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

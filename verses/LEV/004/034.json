@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 4,
+  "verse": 34,
+  "text_original": "Después tomará el sacerdote con su dedo de la sangre de la expiación, y pondrá sobre los cuernos del altar del holocausto; y derramará toda la sangre al pie del altar:",
+  "text_modernized": "Después tomará el sacerdote con su dedo de la sangre de la expiación, y pondrá sobre los cuernos del altar del holocausto; y derramará toda la sangre al pie del altar:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.449065Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 37,
+  "verse": 9,
+  "text_original": "Y díjome: Profetiza al espíritu, profetiza, hijo del hombre, y di al espíritu: Así ha dicho el Señor Jehová: Espíritu, ven de los cuatro vientos, y sopla sobre estos muertos, y vivirán.",
+  "text_modernized": "Y díjome: Profetiza al espíritu, profetiza, hijo del hombre, y di al espíritu: Así ha dicho el Señor Jehová: Espíritu, ven de los cuatro vientos, y sopla sobre estos muertos, y vivirán.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.169915Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

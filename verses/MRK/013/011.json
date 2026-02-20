@@ -1,0 +1,20 @@
+{
+  "book": "MRK",
+  "chapter": 13,
+  "verse": 11,
+  "text_original": "Y cuando os trajeren para entregaros, no premeditéis qué habéis de decir, ni [lo] penséis: mas lo que os fuere dado en aquella hora, eso hablad; porque no sois vosotros los que habláis, sino el Espíritu Santo.",
+  "text_modernized": "Y cuando os trajeren para entregaros, no premeditéis qué habéis de decir, ni [lo] penséis: mas lo que os fuere dado en aquella hora, eso hablad; porque no sois vosotros los que habláis, sino el Espíritu Santo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.963179Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

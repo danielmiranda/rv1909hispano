@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 24,
+  "verse": 2,
+  "text_original": "Y alzando sus ojos, vió á Israel alojado por sus tribus; y el espíritu de Dios vino sobre él.",
+  "text_modernized": "Y alzando sus ojos, vió á Israel alojado por sus tribus; y el espíritu de Dios vino sobre él.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.359356Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

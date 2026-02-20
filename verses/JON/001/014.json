@@ -1,0 +1,20 @@
+{
+  "book": "JON",
+  "chapter": 1,
+  "verse": 14,
+  "text_original": "Entonces clamaron á Jehová, y dijeron: Rogámoste ahora, Jehová, que no perezcamos nosotros por la vida de aqueste hombre, ni pongas sobre nosotros la sangre inocente: porque tú, Jehová, has hecho como has querido.",
+  "text_modernized": "Entonces clamaron á Jehová, y dijeron: Rogámoste ahora, Jehová, que no perezcamos nosotros por la vida de aqueste hombre, ni pongas sobre nosotros la sangre inocente: porque tú, Jehová, has hecho como has querido.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.441508Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

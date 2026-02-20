@@ -1,0 +1,25 @@
+{
+  "book": "ROM",
+  "chapter": 7,
+  "verse": 25,
+  "text_original": "Gracias doy á Dios, por Jesucristo Señor nuestro. Así que, yo mismo con la mente sirvo á la ley de Dios, mas con la carne á la ley del pecado.",
+  "text_modernized": "Gracias doy á Dios, por Jesucristo Señor nuestro. Así que, yo mismo con la mente sirvo á la ley de Dios, mas con la carne á la ley del pecado.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.759961Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    },
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

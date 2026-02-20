@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 17,
+  "verse": 13,
+  "text_original": "Y cualquier varón de los hijos de Israel, ó de los extranjeros que peregrinan entre ellos, que cogiere caza de animal ó de ave que sea de comer, derramará su sangre y cubrirála con tierra:",
+  "text_modernized": "Y cualquier varón de los hijos de Israel, ó de los extranjeros que peregrinan entre ellos, que cogiere caza de animal ó de ave que sea de comer, derramará su sangre y cubrirála con tierra:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.551734Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 15,
+  "verse": 45,
+  "text_original": "Así también está escrito: Fué hecho el primer hombre Adam en ánima viviente; el postrer Adam en espíritu vivificante.",
+  "text_modernized": "Así también está escrito: Fué hecho el primer hombre Adam en ánima viviente; el postrer Adam en espíritu vivificante.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.918353Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 4,
+  "verse": 1,
+  "text_original": "Y JESÚS, lleno del Espíritu Santo, volvió del Jordán, y fué llevado por el Espíritu al desierto",
+  "text_modernized": "Y JESÚS, lleno del Espíritu Santo, volvió del Jordán, y fue llevado por el Espíritu al desierto",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.033471Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

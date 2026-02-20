@@ -1,0 +1,25 @@
+{
+  "book": "ROM",
+  "chapter": 8,
+  "verse": 2,
+  "text_original": "Porque la ley del Espíritu de vida en Cristo Jesús me ha librado de la ley del pecado y de la muerte.",
+  "text_modernized": "Porque la ley del Espíritu de vida en Cristo Jesús me ha librado de la ley del pecado y de la muerte.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.760907Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

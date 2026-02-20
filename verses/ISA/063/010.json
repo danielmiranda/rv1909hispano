@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 63,
+  "verse": 10,
+  "text_original": "Mas ellos fueron rebeldes, é hicieron enojar su espíritu santo; por lo cual se les volvió enemigo, y él mismo peleó contra ellos.",
+  "text_modernized": "Mas ellos fueron rebeldes, é hicieron enojar su espíritu santo; por lo cual se les volvió enemigo, y él mismo peleó contra ellos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.525841Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

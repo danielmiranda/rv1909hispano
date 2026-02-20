@@ -1,0 +1,20 @@
+{
+  "book": "EPH",
+  "chapter": 4,
+  "verse": 3,
+  "text_original": "Solícitos á guardar la unidad del Espíritu en el vínculo de la paz.",
+  "text_modernized": "Solícitos á guardar la unidad del Espíritu en el vínculo de la paz.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.033201Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

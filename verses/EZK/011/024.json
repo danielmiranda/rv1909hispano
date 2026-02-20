@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 11,
+  "verse": 24,
+  "text_original": "Luego me levantó el espíritu, y volvióme á llevar en visión del espíritu de Dios á la tierra de los Caldeos, á los trasportados. Y partióse de mí la visión que había visto.",
+  "text_modernized": "Luego me levantó el espíritu, y volvióme á llevar en visión del espíritu de Dios á la tierra de los Caldeos, á los trasportados. Y partióse de mí la visión que había visto.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.989694Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

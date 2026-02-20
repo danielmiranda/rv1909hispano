@@ -1,0 +1,20 @@
+{
+  "book": "DEU",
+  "chapter": 19,
+  "verse": 10,
+  "text_original": "Porque no sea derramada sangre inocente en medio de tu tierra, que Jehová tu Dios te da por heredad, y sea sobre ti sangre.",
+  "text_modernized": "Porque no sea derramada sangre inocente en medio de tu tierra, que Jehová tu Dios te da por heredad, y sea sobre ti sangre.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.578800Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

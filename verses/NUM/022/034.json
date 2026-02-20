@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 22,
+  "verse": 34,
+  "text_original": "Entonces Balaam dijo al ángel de Jehová: He pecado, que no sabía que tú te ponías delante de mí en el camino: mas ahora, si te parece mal, yo me volveré.",
+  "text_modernized": "Entonces Balaam dijo al ángel de Jehová: He pecado, que no sabía que tú te ponías delante de mí en el camino: mas ahora, si te parece mal, yo me volveré.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.338652Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "MRK",
+  "chapter": 9,
+  "verse": 26,
+  "text_original": "Entonces [el espíritu] clamando y desgarrándole mucho, salió; y [él] quedó como muerto, de modo que muchos decían: Está muerto.",
+  "text_modernized": "Entonces [el espíritu] clamando y desgarrándole mucho, salió; y [él] quedó como muerto, de modo que muchos decían: Está muerto.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.907874Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

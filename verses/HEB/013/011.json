@@ -1,0 +1,25 @@
+{
+  "book": "HEB",
+  "chapter": 13,
+  "verse": 11,
+  "text_original": "Porque los cuerpos de aquellos animales, la sangre de los cuales es metida por el pecado en el santuario por el pontífice, son quemados fuera del real.",
+  "text_modernized": "Porque los cuerpos de aquellos animales, la sangre de los cuales es metida por el pecado en el santuario por el pontífice, son quemados fuera del real.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.269196Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    },
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

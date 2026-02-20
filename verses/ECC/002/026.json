@@ -1,0 +1,20 @@
+{
+  "book": "ECC",
+  "chapter": 2,
+  "verse": 26,
+  "text_original": "Porque al hombre que le agrada, [Dios] le da sabiduría y ciencia y gozo: mas al pecador da trabajo, el que allegue y amontone, para que dé al que agrada á Dios. También esto es vanidad y aflicción de espíritu.",
+  "text_modernized": "Porque al hombre que le agrada, [Dios] le da sabiduría y ciencia y gozo: mas al pecador da trabajo, el que allegue y amontone, para que dé al que agrada á Dios. También esto es vanidad y aflicción de espíritu.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.634307Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

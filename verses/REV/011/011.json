@@ -1,0 +1,20 @@
+{
+  "book": "REV",
+  "chapter": 11,
+  "verse": 11,
+  "text_original": "Y después de tres días y medio el espíritu de vida [enviado] de Dios, entró en ellos, y se alzaron sobre sus pies, y vino gran temor sobre los que los vieron.",
+  "text_modernized": "Y después de tres días y medio el espíritu de vida [enviado] de Dios, entró en ellos, y se alzaron sobre sus pies, y vino gran temor sobre los que los vieron.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.432051Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 23,
+  "verse": 24,
+  "text_original": "He aquí el pueblo, que como león se levantará, y como león se erguirá: no se echará hasta que coma la presa, y beba la sangre de los muertos.",
+  "text_modernized": "He aquí el pueblo, que como león se levantará, y como león se erguirá: no se echará hasta que coma la presa, y beba la sangre de los muertos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.357230Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

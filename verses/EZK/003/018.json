@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 3,
+  "verse": 18,
+  "text_original": "Cuando yo dijere al impío: De cierto morirás: y tú no le amonestares, ni le hablares, para que el impío sea apercibido de su mal camino, á fin de que viva, el impío morirá por su maldad, mas su sangre demandaré de tu mano.",
+  "text_modernized": "Cuando yo dijere al impío: De cierto morirás: y tú no le amonestares, ni le hablares, para que el impío sea apercibido de su mal camino, á fin de que viva, el impío morirá por su maldad, mas su sangre demandaré de tu mano.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.954007Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

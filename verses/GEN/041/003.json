@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 41,
+  "verse": 3,
+  "text_original": "Y que otras siete vacas subían tras ellas del río, de fea vista, y enjutas de carne, y se pararon cerca de las vacas hermosas á la orilla del río:",
+  "text_modernized": "Y que otras siete vacas subían tras ellas del río, de fea vista, y enjutas de carne, y se pararon cerca de las vacas hermosas á la orilla del río:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.011167Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

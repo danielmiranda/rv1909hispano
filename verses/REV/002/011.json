@@ -1,0 +1,20 @@
+{
+  "book": "REV",
+  "chapter": 2,
+  "verse": 11,
+  "text_original": "El que tiene oído, oiga lo que el Espíritu dice á las iglesias. El que venciere, no recibirá daño de la muerte segunda.",
+  "text_modernized": "El que tiene oído, oiga lo que el Espíritu dice á las iglesias. El que venciere, no recibirá daño de la muerte segunda.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.395830Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

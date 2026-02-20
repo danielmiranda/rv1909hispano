@@ -1,0 +1,25 @@
+{
+  "book": "JOB",
+  "chapter": 4,
+  "verse": 15,
+  "text_original": "Y un espíritu pasó por delante de mí, que hizo se erizara el pelo de mi carne.",
+  "text_modernized": "Y un espíritu pasó por delante de mí, que hizo se erizara el pelo de mi carne.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.392717Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

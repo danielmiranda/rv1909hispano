@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 33,
+  "verse": 4,
+  "text_original": "El espíritu de Dios me hizo, y la inspiración del Omnipotente me dió vida.",
+  "text_modernized": "El espíritu de Dios me hizo, y la inspiración del Omnipotente me dió vida.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.532817Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

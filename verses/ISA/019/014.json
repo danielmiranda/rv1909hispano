@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 19,
+  "verse": 14,
+  "text_original": "Jehová mezcló espíritu de vahido en medio de él; é hicieron errar á Egipto en toda su obra, como desatina el borracho en su vómito.",
+  "text_modernized": "Jehová mezcló espíritu de vahido en medio de él; é hicieron errar á Egipto en toda su obra, como desatina el borracho en su vómito.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.312665Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

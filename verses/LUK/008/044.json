@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 8,
+  "verse": 44,
+  "text_original": "Llegándose por las espaldas, tocó el borde de su vestido; y luego se estancó el flujo de su sangre.",
+  "text_modernized": "Llegándose por las espaldas, tocó el borde de su vestido; y luego se estancó el flujo de su sangre.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.102480Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

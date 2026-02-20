@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 7,
+  "verse": 5,
+  "text_original": "Porque mientras estábamos en la carne, los afectos de los pecados que eran por la ley, obraban en nuestros miembros fructificando para muerte.",
+  "text_modernized": "Porque mientras estábamos en la carne, los afectos de los pecados que eran por la ley, obraban en nuestros miembros fructificando para muerte.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.754939Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

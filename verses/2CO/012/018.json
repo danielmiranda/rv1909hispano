@@ -1,0 +1,20 @@
+{
+  "book": "2CO",
+  "chapter": 12,
+  "verse": 18,
+  "text_original": "Rogué á Tito, y envié con él al hermano. ¿Os engañó quizá Tito? ¿no hemos procedido con el mismo espíritu [y] por las mismas pisadas?",
+  "text_modernized": "Rogué á Tito, y envié con él al hermano. ¿Os engañó quizá Tito? ¿no hemos procedido con el mismo espíritu [y] por las mismas pisadas?",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.979022Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

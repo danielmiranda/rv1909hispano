@@ -1,0 +1,20 @@
+{
+  "book": "2JN",
+  "chapter": 1,
+  "verse": 7,
+  "text_original": "Porque muchos engañadores son entrados en el mundo, los cuales no confiesan que Jesucristo ha venido en carne. Este tal el engañador es, y el anticristo.",
+  "text_modernized": "Porque muchos engañadores son entrados en el mundo, los cuales no confiesan que Jesucristo ha venido en carne. Este tal el engañador es, y el anticristo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.378871Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

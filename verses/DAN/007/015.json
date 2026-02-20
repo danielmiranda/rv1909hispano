@@ -1,0 +1,20 @@
+{
+  "book": "DAN",
+  "chapter": 7,
+  "verse": 15,
+  "text_original": "Mi espíritu fué turbado, yo Daniel, en medio de mi cuerpo, y las visiones de mi cabeza me asombraron.",
+  "text_modernized": "Mi espíritu fue turbado, yo Daniel, en medio de mi cuerpo, y las visiones de mi cabeza me asombraron.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.294679Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

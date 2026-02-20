@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 66,
+  "verse": 3,
+  "text_original": "El que sacrifica buey, como si matase un hombre; el que sacrifica oveja, como si degollase un perro; el que ofrece presente, [como si ofreciese] sangre de puerco; el que ofrece perfume, como si bendijese á un ídolo. Y pues escogieron sus caminos, y su alma amó sus abominaciones,",
+  "text_modernized": "El que sacrifica buey, como si matase un hombre; el que sacrifica oveja, como si degollase un perro; el que ofrece presente, [como si ofreciese] sangre de puerco; el que ofrece perfume, como si bendijese á un ídolo. Y pues escogieron sus caminos, y su alma amó sus abominaciones,",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.537473Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

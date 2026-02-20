@@ -1,0 +1,20 @@
+{
+  "book": "HEB",
+  "chapter": 10,
+  "verse": 2,
+  "text_original": "De otra manera cesarían de ofrecerse; porque los que tributan [este] culto, limpios de una vez, no tendrían más conciencia de pecado.",
+  "text_modernized": "De otra manera cesarían de ofrecerse; porque los que tributan [este] culto, limpios de una vez, no tendrían más conciencia de pecado.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.244688Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

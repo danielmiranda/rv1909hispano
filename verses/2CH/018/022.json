@@ -1,0 +1,20 @@
+{
+  "book": "2CH",
+  "chapter": 18,
+  "verse": 22,
+  "text_original": "Y he aquí ahora ha puesto Jehová espíritu de mentira en la boca de estos tus profetas; mas Jehová ha decretado el mal acerca de ti.",
+  "text_modernized": "Y he aquí ahora ha puesto Jehová espíritu de mentira en la boca de estos tus profetas; mas Jehová ha decretado el mal acerca de ti.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.064646Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

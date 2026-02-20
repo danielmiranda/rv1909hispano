@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 19,
+  "verse": 15,
+  "text_original": "Y respondiendo el espíritu malo, dijo: A Jesús conozco, y sé [quién es] Pablo: mas vosotros ¿quiénes sois?",
+  "text_modernized": "Y respondiendo el espíritu malo, dijo: A Jesús conozco, y sé [quién es] Pablo: mas vosotros ¿quiénes sois?",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.641236Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

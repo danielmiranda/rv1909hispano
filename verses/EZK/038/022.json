@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 38,
+  "verse": 22,
+  "text_original": "Y yo litigaré con él con pestilencia y con sangre; y haré llover sobre él, y sobre sus compañías, y sobre los muchos pueblos que están con él, impetuosa lluvia, y piedras de granizo, fuego y azufre.",
+  "text_modernized": "Y yo litigaré con él con pestilencia y con sangre; y haré llover sobre él, y sobre sus compañías, y sobre los muchos pueblos que están con él, impetuosa lluvia, y piedras de granizo, fuego y azufre.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.178627Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

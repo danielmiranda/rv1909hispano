@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 22,
+  "verse": 3,
+  "text_original": "Dirás, pues: Así ha dicho el Señor Jehová: ¡Ciudad derramadora de sangre en medio de sí, para que venga su hora, y que hizo ídolos contra sí misma para contaminarse!",
+  "text_modernized": "Dirás, pues: Así ha dicho el Señor Jehová: ¡Ciudad derramadora de sangre en medio de sí, para que venga su hora, y que hizo ídolos contra sí misma para contaminarse!",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.075570Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

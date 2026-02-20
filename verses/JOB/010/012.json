@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 10,
+  "verse": 12,
+  "text_original": "Vida y misericordia me concediste, y tu visitación guardó mi espíritu.",
+  "text_modernized": "Vida y misericordia me concediste, y tu visitación guardó mi espíritu.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.426806Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

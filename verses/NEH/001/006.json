@@ -1,0 +1,20 @@
+{
+  "book": "NEH",
+  "chapter": 1,
+  "verse": 6,
+  "text_original": "Esté ahora atento tu oído, y tus ojos abiertos, para oir la oración de tu siervo, que yo hago ahora delante de ti día y noche, por los hijos de Israel tus siervos; y confieso los pecados de los hijos de Israel que hemos contra ti cometido; sí, yo y la casa de mi padre hemos pecado.",
+  "text_modernized": "Esté ahora atento tu oído, y tus ojos abiertos, para oir la oración de tu siervo, que yo hago ahora delante de ti día y noche, por los hijos de Israel tus siervos; y confieso los pecados de los hijos de Israel que hemos contra ti cometido; sí, yo y la casa de mi padre hemos pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.251057Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

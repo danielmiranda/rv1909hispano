@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 143,
+  "verse": 7,
+  "text_original": "Respóndeme presto, oh Jehová que desmaya mi espíritu: no escondas de mí tu rostro, y venga yo á ser semejante á los que descienden á la sepultura.",
+  "text_modernized": "Respóndeme presto, oh Jehová que desmaya mi espíritu: no escondas de mí tu rostro, y venga yo á ser semejante á los que descienden á la sepultura.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.413073Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

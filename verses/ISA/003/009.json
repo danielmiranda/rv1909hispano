@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 3,
+  "verse": 9,
+  "text_original": "La apariencia del rostro de ellos los convence: que como Sodoma predican su pecado, no lo disimulan. ¡Ay del alma de ellos! porque allegaron mal para sí.",
+  "text_modernized": "La apariencia del rostro de ellos los convence: que como Sodoma predican su pecado, no lo disimulan. ¡Ay del alma de ellos! porque allegaron mal para sí.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.234540Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

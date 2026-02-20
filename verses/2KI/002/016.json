@@ -1,0 +1,20 @@
+{
+  "book": "2KI",
+  "chapter": 2,
+  "verse": 16,
+  "text_original": "Y dijéronle: He aquí hay con tus siervos cincuenta varones fuertes: vayan ahora y busquen á tu señor; quizá lo ha levantado el espíritu de Jehová, y lo ha echado en algún monte ó en algún valle. Y él les dijo: No enviéis.",
+  "text_modernized": "Y dijéronle: He aquí hay con tus siervos cincuenta varones fuertes: vayan ahora y busquen á tu señor; quizá lo ha levantado el espíritu de Jehová, y lo ha echado en algún monte ó en algún valle. Y él les dijo: No enviéis.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.592372Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

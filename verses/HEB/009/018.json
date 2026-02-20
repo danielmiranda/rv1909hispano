@@ -1,0 +1,20 @@
+{
+  "book": "HEB",
+  "chapter": 9,
+  "verse": 18,
+  "text_original": "De donde [vino] que ni aun el primero fué consagrado sin sangre.",
+  "text_modernized": "De donde [vino] que ni aun el primero fue consagrado sin sangre.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.241645Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

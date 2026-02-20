@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 25,
+  "verse": 26,
+  "text_original": "Ahora pues, señor mío, vive Jehová y vive tu alma, que Jehová te ha estorbado que vinieses á [derramar] sangre, y vengarte por tu propia mano. Sean pues como Nabal tus enemigos, y todos los que procuran mal contra mi señor.",
+  "text_modernized": "Ahora pues, señor mío, vive Jehová y vive tu alma, que Jehová te ha estorbado que vinieses á [derramar] sangre, y vengarte por tu propia mano. Sean pues como Nabal tus enemigos, y todos los que procuran mal contra mi señor.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.179918Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

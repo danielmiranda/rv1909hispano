@@ -1,0 +1,20 @@
+{
+  "book": "1PE",
+  "chapter": 4,
+  "verse": 2,
+  "text_original": "Para que ya el tiempo que queda en carne, viva, no á las concupiscencias de los hombres, sino á la voluntad de Dios.",
+  "text_modernized": "Para que ya el tiempo que queda en carne, viva, no á las concupiscencias de los hombres, sino á la voluntad de Dios.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.314700Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

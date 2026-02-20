@@ -1,0 +1,20 @@
+{
+  "book": "EZR",
+  "chapter": 10,
+  "verse": 10,
+  "text_original": "Y levantóse Esdras el sacerdote, y díjoles: Vosotros habéis prevaricado, por cuanto tomasteis mujeres extrañas, añadiendo [así] sobre el pecado de Israel.",
+  "text_modernized": "Y levantóse Esdras el sacerdote, y díjoles: Vosotros habéis prevaricado, por cuanto tomasteis mujeres extrañas, añadiendo [así] sobre el pecado de Israel.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.241848Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

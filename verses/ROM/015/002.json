@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 15,
+  "verse": 2,
+  "text_original": "Cada uno de nosotros agrade á su prójimo en bien, á edificación.",
+  "text_modernized": "Cada uno de nosotros agrade á su prójimo en bien, á edificación.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.801360Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

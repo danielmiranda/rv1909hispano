@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 2,
+  "verse": 14,
+  "text_original": "Mas el hombre animal no percibe las cosas que son del Espíritu de Dios, porque le son locura: y no las puede entender, porque se han de examinar espiritualmente.",
+  "text_modernized": "Mas el hombre animal no percibe las cosas que son del Espíritu de Dios, porque le son locura: y no las puede entender, porque se han de examinar espiritualmente.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.826175Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

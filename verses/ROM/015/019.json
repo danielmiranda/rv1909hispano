@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 15,
+  "verse": 19,
+  "text_original": "Con potencia de milagros y prodigios, en virtud del Espíritu de Dios: de manera que desde Jerusalem, y por los alrededores hasta Ilírico, he llenado [todo] del evangelio de Cristo.",
+  "text_modernized": "Con potencia de milagros y prodigios, en virtud del Espíritu de Dios: de manera que desde Jerusalem, y por los alrededores hasta Ilírico, he llenado [todo] del evangelio de Cristo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.804554Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

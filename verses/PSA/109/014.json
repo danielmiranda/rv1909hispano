@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 109,
+  "verse": 14,
+  "text_original": "Venga en memoria cerca de Jehová la maldad de sus padres, y el pecado de su madre no sea borrado.",
+  "text_modernized": "Venga en memoria cerca de Jehová la maldad de sus padres, y el pecado de su madre no sea borrado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.287024Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

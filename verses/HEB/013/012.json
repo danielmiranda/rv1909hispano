@@ -1,0 +1,20 @@
+{
+  "book": "HEB",
+  "chapter": 13,
+  "verse": 12,
+  "text_original": "Por lo cual también Jesús, para santificar al pueblo por su propia sangre, padeció fuera de la puerta.",
+  "text_modernized": "Por lo cual también Jesús, para santificar al pueblo por su propia sangre, padeció fuera de la puerta.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.269379Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

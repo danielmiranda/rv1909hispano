@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 58,
+  "verse": 10,
+  "text_original": "Alegraráse el justo cuando viere la venganza: sus pies lavará en la sangre del impío.",
+  "text_modernized": "Alegraráse el justo cuando viere la venganza: sus pies lavará en la sangre del impío.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.911623Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

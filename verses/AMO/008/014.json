@@ -1,0 +1,20 @@
+{
+  "book": "AMO",
+  "chapter": 8,
+  "verse": 14,
+  "text_original": "Los que juran por el pecado de Samaria, y dicen, Vive tu Dios de Dan: y, Vive el camino de Beer-seba: caerán, y nunca más se levantarán.",
+  "text_modernized": "Los que juran por el pecado de Samaria, y dicen, Vive tu Dios de Dan: y, Vive el camino de Beer-seba: caerán, y nunca más se levantarán.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.430571Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

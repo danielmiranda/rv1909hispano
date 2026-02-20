@@ -1,0 +1,20 @@
+{
+  "book": "JOS",
+  "chapter": 7,
+  "verse": 11,
+  "text_original": "Israel ha pecado, y aun han quebrantado mi pacto que yo les había mandado; pues aun han tomado del anatema, y hasta han hurtado, y también han mentido, y aun lo han guardado entre sus enseres.",
+  "text_modernized": "Israel ha pecado, y aun han quebrantado mi pacto que yo les había mandado; pues aun han tomado del anatema, y hasta han hurtado, y también han mentido, y aun lo han guardado entre sus enseres.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.708978Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

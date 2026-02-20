@@ -1,0 +1,20 @@
+{
+  "book": "2CH",
+  "chapter": 18,
+  "verse": 21,
+  "text_original": "Y él dijo: Saldré y seré espíritu de mentira en la boca de todos sus profetas. Y [Jehová] dijo: Incita, y también prevalece: sal, y hazlo así.",
+  "text_modernized": "Y él dijo: Saldré y seré espíritu de mentira en la boca de todos sus profetas. Y [Jehová] dijo: Incita, y también prevalece: sal, y hazlo así.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.064437Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

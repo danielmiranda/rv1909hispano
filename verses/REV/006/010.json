@@ -1,0 +1,20 @@
+{
+  "book": "REV",
+  "chapter": 6,
+  "verse": 10,
+  "text_original": "Y clamaban en alta voz diciendo: ¿Hasta cuándo, Señor, santo y verdadero, no juzgas y vengas nuestra sangre de los que moran en la tierra?",
+  "text_modernized": "Y clamaban en alta voz diciendo: ¿Hasta cuándo, Señor, santo y verdadero, no juzgas y vengas nuestra sangre de los que moran en la tierra?",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.412864Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

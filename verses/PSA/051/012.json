@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 51,
+  "verse": 12,
+  "text_original": "Vuélveme el gozo de tu salud; y el espíritu libre me sustente.",
+  "text_modernized": "Vuélveme el gozo de tu salud; y el espíritu libre me sustente.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.879899Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

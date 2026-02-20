@@ -1,0 +1,20 @@
+{
+  "book": "MRK",
+  "chapter": 9,
+  "verse": 20,
+  "text_original": "Y se le trajeron: y como le vió, luego el espíritu le desgarraba; y cayendo en tierra, se revolcaba, echando espumarajos.",
+  "text_modernized": "Y se le trajeron: y como le vió, luego el espíritu le desgarraba; y cayendo en tierra, se revolcaba, echando espumarajos.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.906593Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

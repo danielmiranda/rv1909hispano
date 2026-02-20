@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 20,
+  "verse": 16,
+  "text_original": "No hablarás contra tu prójimo falso testimonio.",
+  "text_modernized": "No hablarás contra tu prójimo falso testimonio.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.253111Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

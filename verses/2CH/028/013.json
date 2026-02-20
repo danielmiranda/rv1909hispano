@@ -1,0 +1,20 @@
+{
+  "book": "2CH",
+  "chapter": 28,
+  "verse": 13,
+  "text_original": "Y dijéronles: No metáis acá la cautividad; porque el pecado contra Jehová será sobre nosotros. Vosotros tratáis de añadir sobre nuestros pecados y sobre nuestras culpas, siendo asaz grande nuestro delito, y la ira del furor sobre Israel.",
+  "text_modernized": "Y dijéronles: No metáis acá la cautividad; porque el pecado contra Jehová será sobre nosotros. Vosotros tratáis de añadir sobre nuestros pecados y sobre nuestras culpas, siendo asaz grande nuestro delito, y la ira del furor sobre Israel.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.130620Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "2KI",
+  "chapter": 9,
+  "verse": 7,
+  "text_original": "Y herirás la casa de Achâb tu señor, para que yo vengue la sangre de mis siervos los profetas, y la sangre de todos los siervos de Jehová, de la mano de Jezabel.",
+  "text_modernized": "Y herirás la casa de Achâb tu señor, para que yo vengue la sangre de mis siervos los profetas, y la sangre de todos los siervos de Jehová, de la mano de Jezabel.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.671408Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

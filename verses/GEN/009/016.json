@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 9,
+  "verse": 16,
+  "text_original": "Y estará el arco en las nubes, y verlo he para acordarme del pacto perpetuo entre Dios y toda alma viviente, con toda carne que hay sobre la tierra.",
+  "text_modernized": "Y estará el arco en las nubes, y verlo he para acordarme del pacto perpetuo entre Dios y toda alma viviente, con toda carne que hay sobre la tierra.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:02.795245Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

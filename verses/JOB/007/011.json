@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 7,
+  "verse": 11,
+  "text_original": "Por tanto yo no reprimiré mi boca; hablaré en la angustia de mi espíritu, y quejaréme con la amargura de mi alma.",
+  "text_modernized": "Por tanto yo no reprimiré mi boca; hablaré en la angustia de mi espíritu, y quejaréme con la amargura de mi alma.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.407188Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

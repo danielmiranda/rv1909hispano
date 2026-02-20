@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 16,
+  "verse": 14,
+  "text_original": "Tomará luego de la sangre del becerro, y rociará con su dedo hacia la cubierta al lado oriental: hacia la cubierta esparcirá siete veces de aquella sangre con su dedo.",
+  "text_modernized": "Tomará luego de la sangre del becerro, y rociará con su dedo hacia la cubierta al lado oriental: hacia la cubierta esparcirá siete veces de aquella sangre con su dedo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.543791Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

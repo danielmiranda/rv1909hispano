@@ -1,0 +1,20 @@
+{
+  "book": "JER",
+  "chapter": 16,
+  "verse": 18,
+  "text_original": "Mas primero pagaré al doble su iniquidad y su pecado; porque contaminaron mi tierra con los cuerpos muertos de sus abominaciones, y de sus abominaciones llenaron mi heredad.",
+  "text_modernized": "Mas primero pagaré al doble su iniquidad y su pecado; porque contaminaron mi tierra con los cuerpos muertos de sus abominaciones, y de sus abominaciones llenaron mi heredad.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.657073Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

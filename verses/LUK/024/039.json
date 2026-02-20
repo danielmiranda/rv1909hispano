@@ -1,0 +1,25 @@
+{
+  "book": "LUK",
+  "chapter": 24,
+  "verse": 39,
+  "text_original": "Mirad mis manos y mis pies, que yo mismo soy: palpad, y ved; que el espíritu ni tiene carne ni huesos, como veis que yo tengo.",
+  "text_modernized": "Mirad mis manos y mis pies, que yo mismo soy: palpad, y ved; que el espíritu ni tiene carne ni huesos, como veis que yo tengo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.280419Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

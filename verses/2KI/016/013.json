@@ -1,0 +1,20 @@
+{
+  "book": "2KI",
+  "chapter": 16,
+  "verse": 13,
+  "text_original": "Y encendió su holocausto, y su presente, y derramó sus libaciones, y esparció la sangre de sus pacíficos junto al altar.",
+  "text_modernized": "Y encendió su holocausto, y su presente, y derramó sus libaciones, y esparció la sangre de sus pacíficos junto al altar.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.722437Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

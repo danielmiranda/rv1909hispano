@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 15,
+  "verse": 23,
+  "text_original": "Porque como pecado de adivinación es la rebelión, y como ídolos é idolatría el infringir. Por cuanto tú desechaste la palabra de Jehová, él también te ha desechado para que no seas rey.",
+  "text_modernized": "Porque como pecado de adivinación es la rebelión, y como ídolos é idolatría el infringir. Por cuanto tú desechaste la palabra de Jehová, él también te ha desechado para que no seas rey.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.109621Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

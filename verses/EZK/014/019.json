@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 14,
+  "verse": 19,
+  "text_original": "O si pestilencia enviare sobre esa tierra, y derramare mi ira sobre ella en sangre, para talar de ella hombres y bestias,",
+  "text_modernized": "O si pestilencia enviare sobre esa tierra, y derramare mi ira sobre ella en sangre, para talar de ella hombres y bestias,",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.006688Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 8,
+  "verse": 7,
+  "text_original": "Por cuanto la intención de la carne es enemistad contra Dios; porque no se sujeta á la ley de Dios, ni tampoco puede.",
+  "text_modernized": "Por cuanto la intención de la carne es enemistad contra Dios; porque no se sujeta á la ley de Dios, ni tampoco puede.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.762059Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

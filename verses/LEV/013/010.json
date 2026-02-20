@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 13,
+  "verse": 10,
+  "text_original": "Y el sacerdote mirará, y si pareciere tumor blanco en la piel, el cual haya mudado el color del pelo, y se descubre asimismo la carne viva,",
+  "text_modernized": "Y el sacerdote mirará, y si pareciere tumor blanco en la piel, el cual haya mudado el color del pelo, y se descubre asimismo la carne viva,",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.505027Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

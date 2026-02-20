@@ -1,0 +1,20 @@
+{
+  "book": "ZEC",
+  "chapter": 8,
+  "verse": 16,
+  "text_original": "Estas son las cosas que habéis de hacer: Hablad verdad cada cual con su prójimo; juzgad en vuestras puertas verdad y juicio de paz:",
+  "text_modernized": "Estas son las cosas que habéis de hacer: Hablad verdad cada cual con su prójimo; juzgad en vuestras puertas verdad y juicio de paz:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.551144Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

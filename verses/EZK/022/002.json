@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 22,
+  "verse": 2,
+  "text_original": "Y tú, hijo del hombre, ¿no juzgarás tú, no juzgarás tú á la ciudad derramadora de sangre, y le mostrarás todas sus abominaciones?",
+  "text_modernized": "Y tú, hijo del hombre, ¿no juzgarás tú, no juzgarás tú á la ciudad derramadora de sangre, y le mostrarás todas sus abominaciones?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.075334Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

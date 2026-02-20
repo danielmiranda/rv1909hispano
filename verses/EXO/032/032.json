@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 32,
+  "verse": 32,
+  "text_original": "Que perdones ahora su pecado, y si no, ráeme ahora de tu libro que has escrito.",
+  "text_modernized": "Que perdones ahora su pecado, y si no, ráeme ahora de tu libro que has escrito.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.360885Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

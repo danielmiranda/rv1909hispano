@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 18,
+  "verse": 22,
+  "text_original": "Y no llegarán más los hijos de Israel al tabernáculo del testimonio, porque no lleven pecado, por el cual mueran.",
+  "text_modernized": "Y no llegarán más los hijos de Israel al tabernáculo del testimonio, porque no lleven pecado, por el cual mueran.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.299761Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "1KI",
+  "chapter": 8,
+  "verse": 35,
+  "text_original": "Cuando el cielo se cerrare, y no lloviere, por haber ellos pecado contra ti, y te rogaren en este lugar, y confesaren tu nombre, y se volvieren del pecado, cuando los hubieres afligido;",
+  "text_modernized": "Cuando el cielo se cerrare, y no lloviere, por haber ellos pecado contra ti, y te rogaren en este lugar, y confesaren tu nombre, y se volvieren del pecado, cuando los hubieres afligido;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.467070Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

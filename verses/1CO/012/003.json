@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 12,
+  "verse": 3,
+  "text_original": "Por tanto os hago saber, que nadie que hable por Espíritu de Dios, llama anatema á Jesús; y nadie puede llamar á Jesús Señor, sino por Espíritu Santo.",
+  "text_modernized": "Por tanto os hago saber, que nadie que hable por Espíritu de Dios, llama anatema á Jesús; y nadie puede llamar á Jesús Señor, sino por Espíritu Santo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.875927Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 34,
+  "verse": 18,
+  "text_original": "Cercano está Jehová á los quebrantados de corazón; y salvará á los contritos de espíritu.",
+  "text_modernized": "Cercano está Jehová á los quebrantados de corazón; y salvará á los contritos de espíritu.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.695882Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

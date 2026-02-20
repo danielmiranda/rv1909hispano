@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 51,
+  "verse": 5,
+  "text_original": "He aquí, en maldad he sido formado, y en pecado me concibió mi madre.",
+  "text_modernized": "He aquí, en maldad he sido formado, y en pecado me concibió mi madre.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.878507Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

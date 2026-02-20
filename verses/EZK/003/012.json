@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 3,
+  "verse": 12,
+  "text_original": "Y levantóme el espíritu, y oí detrás de mí una voz de grande estruendo, [que decía]: Bendita sea la gloria de Jehová desde su lugar.",
+  "text_modernized": "Y levantóme el espíritu, y oí detrás de mí una voz de grande estruendo, [que decía]: Bendita sea la gloria de Jehová desde su lugar.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.952843Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

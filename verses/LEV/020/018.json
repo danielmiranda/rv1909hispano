@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 20,
+  "verse": 18,
+  "text_original": "Y cualquiera que durmiere con mujer menstruosa, y descubriere su desnudez, su fuente descubrió, y ella descubrió la fuente de su sangre: ambos serán cortados de entre su pueblo.",
+  "text_modernized": "Y cualquiera que durmiere con mujer menstruosa, y descubriere su desnudez, su fuente descubrió, y ella descubrió la fuente de su sangre: ambos serán cortados de entre su pueblo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.088772Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

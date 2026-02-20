@@ -1,0 +1,20 @@
+{
+  "book": "MAT",
+  "chapter": 5,
+  "verse": 3,
+  "text_original": "Bienaventurados los pobres en espíritu: porque de ellos es el reino de los cielos.",
+  "text_modernized": "Bienaventurados los pobres en espíritu: porque de ellos es el reino de los cielos.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.623387Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

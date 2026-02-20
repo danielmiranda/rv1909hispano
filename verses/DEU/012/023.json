@@ -1,0 +1,25 @@
+{
+  "book": "DEU",
+  "chapter": 12,
+  "verse": 23,
+  "text_original": "Solamente que te esfuerces á no comer sangre: porque la sangre es el alma; y no has de comer el alma juntamente con su carne.",
+  "text_modernized": "Solamente que te esfuerces á no comer sangre: porque la sangre es el alma; y no has de comer el alma juntamente con su carne.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.544384Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    },
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

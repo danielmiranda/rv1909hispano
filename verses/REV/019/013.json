@@ -1,0 +1,20 @@
+{
+  "book": "REV",
+  "chapter": 19,
+  "verse": 13,
+  "text_original": "Y estaba vestido de una ropa teñida en sangre: y su nombre es llamado EL VERBO DE DIOS.",
+  "text_modernized": "Y estaba vestido de una ropa teñida en sangre: y su nombre es llamado EL VERBO DE Dios.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.513553Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

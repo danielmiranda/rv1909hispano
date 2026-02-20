@@ -1,0 +1,25 @@
+{
+  "book": "EZK",
+  "chapter": 39,
+  "verse": 18,
+  "text_original": "Comeréis carne de fuertes, y beberéis sangre de príncipes de la tierra; de carneros, de corderos, de machos de cabrío, de bueyes, de toros, engordados todos en Basán.",
+  "text_modernized": "Comeréis carne de fuertes, y beberéis sangre de príncipes de la tierra; de carneros, de corderos, de machos de cabrío, de bueyes, de toros, engordados todos en Basán.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.182753Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    },
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

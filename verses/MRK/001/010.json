@@ -1,0 +1,20 @@
+{
+  "book": "MRK",
+  "chapter": 1,
+  "verse": 10,
+  "text_original": "Y luego, subiendo del agua, vió abrirse los cielos, y al Espíritu como paloma, que descendía sobre él.",
+  "text_modernized": "Y luego, subiendo del agua, vió abrirse los cielos, y al Espíritu como paloma, que descendía sobre él.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.841391Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

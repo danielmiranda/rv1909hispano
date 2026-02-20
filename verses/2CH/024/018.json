@@ -1,0 +1,20 @@
+{
+  "book": "2CH",
+  "chapter": 24,
+  "verse": 18,
+  "text_original": "Y desampararon la casa de Jehová el Dios de sus padres, y sirvieron á los bosques y á las imágenes esculpidas; y la ira vino sobre Judá y Jerusalem por este su pecado.",
+  "text_modernized": "Y desampararon la casa de Jehová el Dios de sus padres, y sirvieron á los bosques y á las imágenes esculpidas; y la ira vino sobre Judá y Jerusalem por este su pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.093975Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

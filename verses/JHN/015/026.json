@@ -1,0 +1,20 @@
+{
+  "book": "JHN",
+  "chapter": 15,
+  "verse": 26,
+  "text_original": "Empero cuando viniere el Consolador, el cual yo os enviaré del Padre, el Espíritu de verdad, el cual procede del Padre, él dará testimonio de mí.",
+  "text_modernized": "Empero cuando viniere el Consolador, el cual yo os enviaré del Padre, el Espíritu de verdad, el cual procede del Padre, él dará testimonio de mí.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.418869Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

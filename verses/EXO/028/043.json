@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 28,
+  "verse": 43,
+  "text_original": "Y estarán sobre Aarón y sobre sus hijos cuando entraren en el tabernáculo del testimonio, ó cuando se llegaren al altar para servir en el santuario, porque no lleven pecado, y mueran. Estatuto perpetuo para él, y para su simiente después de él.",
+  "text_modernized": "Y estarán sobre Aarón y sobre sus hijos cuando entraren en el tabernáculo del testimonio, ó cuando se llegaren al altar para servir en el santuario, porque no lleven pecado, y mueran. Estatuto perpetuo para él, y para su simiente después de él.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.311601Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

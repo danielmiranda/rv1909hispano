@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 39,
+  "verse": 30,
+  "text_original": "¿Se remonta el águila por tu mandamiento, y pone en alto su nido? Ella habita y está en la piedra, en la cumbre del peñasco y de la roca. Desde allí acecha la comida: sus ojos observan de muy lejos. Sus pollos chupan la sangre: y donde hubiere cadáveres, allí está. A más de eso respondió Jehová á Job, y dijo: ¿Es sabiduría contender con el Omnipotente? El que disputa con Dios, responda á esto. Y respondió Job á Jehová, y dijo: He aquí que yo soy vil, ¿qué te responderé? Mi mano pongo sobre mi boca. Una vez hablé, y no responderé: aun dos veces, mas no tornaré á hablar.",
+  "text_modernized": "¿Se remonta el águila por tu mandamiento, y pone en alto su nido? Ella habita y está en la piedra, en la cumbre del peñasco y de la roca. Desde allí acecha la comida: sus ojos observan de muy lejos. Sus pollos chupan la sangre: y donde hubiere cadáveres, allí está. A más de eso respondió Jehová á Job, y dijo: ¿Es sabiduría contender con el Omnipotente? El que disputa con Dios, responda á esto. Y respondió Job á Jehová, y dijo: He aquí que yo soy vil, ¿qué te responderé? Mi mano pongo sobre mi boca. Una vez hablé, y no responderé: aun dos veces, mas no tornaré á hablar.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.571804Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

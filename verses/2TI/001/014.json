@@ -1,0 +1,20 @@
+{
+  "book": "2TI",
+  "chapter": 1,
+  "verse": 14,
+  "text_original": "Guarda el buen depósito por el Espíritu Santo que habita en nosotros.",
+  "text_modernized": "Guarda el buen depósito por el Espíritu Santo que habita en nosotros.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.169920Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

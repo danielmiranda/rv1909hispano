@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 5,
+  "verse": 18,
+  "text_original": "¡Ay de los que traen la iniquidad con cuerdas de vanidad, y el pecado como con coyundas de carreta,",
+  "text_modernized": "¡Ay de los que traen la iniquidad con cuerdas de vanidad, y el pecado como con coyundas de carreta,",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.243676Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

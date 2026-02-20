@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 25,
+  "verse": 31,
+  "text_original": "Entonces, señor mío, no te será esto en tropiezo y turbación de corazón, el que hayas derramado sangre sin causa, ó que mi señor se haya vengado por sí mismo. Guárdese pues mi señor, y cuando Jehová hiciere bien á mi señor, acuérdate de tu sierva.",
+  "text_modernized": "Entonces, señor mío, no te será esto en tropiezo y turbación de corazón, el que hayas derramado sangre sin causa, ó que mi señor se haya vengado por sí mismo. Guárdese pues mi señor, y cuando Jehová hiciere bien á mi señor, acuérdate de tu sierva.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.181112Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

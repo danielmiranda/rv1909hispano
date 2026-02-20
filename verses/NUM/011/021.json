@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 11,
+  "verse": 21,
+  "text_original": "Entonces dijo Moisés: Seiscientos mil de á pie es el pueblo en medio del cual yo estoy; y tú dices: Les daré carne, y comerán el tiempo de un mes.",
+  "text_modernized": "Entonces dijo Moisés: Seiscientos mil de á pie es el pueblo en medio del cual yo estoy; y tú dices: Les daré carne, y comerán el tiempo de un mes.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.249310Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

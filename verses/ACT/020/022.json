@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 20,
+  "verse": 22,
+  "text_original": "Y ahora, he aquí, ligado yo en espíritu, voy á Jerusalem, sin saber lo que allá me ha de acontecer:",
+  "text_modernized": "Y ahora, he aquí, ligado yo en espíritu, voy á Jerusalem, sin saber lo que allá me ha de acontecer:",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.651924Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

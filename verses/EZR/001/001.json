@@ -1,0 +1,20 @@
+{
+  "book": "EZR",
+  "chapter": 1,
+  "verse": 1,
+  "text_original": "Y EN el primer año de Ciro rey de Persia, para que se cumpliese la palabra de Jehová por boca de Jeremías, excitó Jehová el espíritu de Ciro rey de Persia, el cual hizo pasar pregón por todo su reino, y también por escrito, diciendo:",
+  "text_modernized": "Y EN el primer año de Ciro rey de Persia, para que se cumpliese la palabra de Jehová por boca de Jeremías, excitó Jehová el espíritu de Ciro rey de Persia, el cual hizo pasar pregón por todo su reino, y también por escrito, diciendo:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.186739Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

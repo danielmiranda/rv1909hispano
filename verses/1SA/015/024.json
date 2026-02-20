@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 15,
+  "verse": 24,
+  "text_original": "Entonces Saúl dijo á Samuel: Yo he pecado; que he quebrantado el dicho de Jehová y tus palabras: porque temí al pueblo, consentí á la voz de ellos. Perdona pues ahora mi pecado,",
+  "text_modernized": "Entonces Saúl dijo á Samuel: Yo he pecado; que he quebrantado el dicho de Jehová y tus palabras: porque temí al pueblo, consentí á la voz de ellos. Perdona pues ahora mi pecado,",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.109960Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

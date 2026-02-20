@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 34,
+  "verse": 14,
+  "text_original": "Si él pusiese sobre el [hombre] su corazón, y recogiese así su espíritu y su aliento,",
+  "text_modernized": "Si él pusiese sobre el [hombre] su corazón, y recogiese así su espíritu y su aliento,",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.540086Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

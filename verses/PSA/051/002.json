@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 51,
+  "verse": 2,
+  "text_original": "Lávame más y más de mi maldad, y límpiame de mi pecado.",
+  "text_modernized": "Lávame más y más de mi maldad, y límpiame de mi pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.875553Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

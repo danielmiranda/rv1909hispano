@@ -1,0 +1,20 @@
+{
+  "book": "MAT",
+  "chapter": 22,
+  "verse": 43,
+  "text_original": "El les dice: ¿Pues cómo David en Espíritu le llama Señor, diciendo:",
+  "text_modernized": "El les dice: ¿Pues cómo David en Espíritu le llama Señor, diciendo:",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.779385Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

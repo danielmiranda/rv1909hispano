@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 29,
+  "verse": 14,
+  "text_original": "Y Labán le dijo: Ciertamente hueso mío y carne mía eres. Y estuvo con él el tiempo de un mes.",
+  "text_modernized": "Y Labán le dijo: Ciertamente hueso mío y carne mía eres. Y estuvo con él el tiempo de un mes.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:02.923442Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

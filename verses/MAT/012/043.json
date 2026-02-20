@@ -1,0 +1,20 @@
+{
+  "book": "MAT",
+  "chapter": 12,
+  "verse": 43,
+  "text_original": "Cuando el espíritu inmundo ha salido del hombre, anda por lugares secos, buscando reposo, y no lo halla.",
+  "text_modernized": "Cuando el espíritu inmundo ha salido del hombre, anda por lugares secos, buscando reposo, y no lo halla.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.686868Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

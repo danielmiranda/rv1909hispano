@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 15,
+  "verse": 16,
+  "text_original": "Para ser ministro de Jesucristo á los Gentiles, ministrando el evangelio de Dios, para que la ofrenda de los Gentiles sea agradable, santificada por el Espíritu Santo.",
+  "text_modernized": "Para ser ministro de Jesucristo á los Gentiles, ministrando el evangelio de Dios, para que la ofrenda de los Gentiles sea agradable, santificada por el Espíritu Santo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.804021Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

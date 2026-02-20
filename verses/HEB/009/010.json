@@ -1,0 +1,20 @@
+{
+  "book": "HEB",
+  "chapter": 9,
+  "verse": 10,
+  "text_original": "[Consistiendo] sólo en viandas y en bebidas, y en diversos lavamientos, y ordenanzas acerca de la carne, impuestas hasta el tiempo de la corrección.",
+  "text_modernized": "[Consistiendo] sólo en viandas y en bebidas, y en diversos lavamientos, y ordenanzas acerca de la carne, impuestas hasta el tiempo de la corrección.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.239918Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

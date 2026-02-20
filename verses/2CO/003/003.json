@@ -1,0 +1,25 @@
+{
+  "book": "2CO",
+  "chapter": 3,
+  "verse": 3,
+  "text_original": "Siendo manifiesto que sois letra de Cristo administrada de nosotros, escrita no con tinta, mas con el Espíritu del Dios vivo; no en tablas de piedra, sino en tablas de carne del corazón.",
+  "text_modernized": "Siendo manifiesto que sois letra de Cristo administrada de nosotros, escrita no con tinta, mas con el Espíritu del Dios vivo; no en tablas de piedra, sino en tablas de carne del corazón.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.935091Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

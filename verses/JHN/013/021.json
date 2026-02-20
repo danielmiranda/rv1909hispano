@@ -1,0 +1,20 @@
+{
+  "book": "JHN",
+  "chapter": 13,
+  "verse": 21,
+  "text_original": "Como hubo dicho Jesús esto, fué conmovido en el espíritu, y protestó, y dijo: De cierto, de cierto os digo, que uno de vosotros me ha de entregar.",
+  "text_modernized": "Como hubo dicho Jesús esto, fue conmovido en el espíritu, y protestó, y dijo: De cierto, de cierto os digo, que uno de vosotros me ha de entregar.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.404178Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

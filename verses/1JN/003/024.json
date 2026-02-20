@@ -1,0 +1,20 @@
+{
+  "book": "1JN",
+  "chapter": 3,
+  "verse": 24,
+  "text_original": "Y el que guarda sus mandamientos, está en él, y él en él. Y en esto sabemos que él permanece en nosotros, por el Espíritu que nos ha dado.",
+  "text_modernized": "Y el que guarda sus mandamientos, está en él, y él en él. Y en esto sabemos que él permanece en nosotros, por el Espíritu que nos ha dado.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.353567Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

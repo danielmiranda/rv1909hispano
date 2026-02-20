@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 17,
+  "verse": 11,
+  "text_original": "Circuncidaréis, pues, la carne de vuestro prepucio, y será por señal del pacto entre mí y vosotros.",
+  "text_modernized": "Circuncidaréis, pues, la carne de vuestro prepucio, y será por señal del pacto entre mí y vosotros.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:02.835780Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 13,
+  "verse": 11,
+  "text_original": "Lepra es envejecida en la piel de su carne; y le dará por inmundo el sacerdote, y no le encerrará, porque es inmundo.",
+  "text_modernized": "Lepra es envejecida en la piel de su carne; y le dará por inmundo el sacerdote, y no le encerrará, porque es inmundo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.505251Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

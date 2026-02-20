@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 59,
+  "verse": 7,
+  "text_original": "Sus pies corren al mal, y se apresuran para derramar la sangre inocente; sus pensamientos, pensamientos de iniquidad, destrucción y quebrantamiento en sus caminos.",
+  "text_modernized": "Sus pies corren al mal, y se apresuran para derramar la sangre inocente; sus pensamientos, pensamientos de iniquidad, destrucción y quebrantamiento en sus caminos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.509729Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

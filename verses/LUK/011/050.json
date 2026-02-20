@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 11,
+  "verse": 50,
+  "text_original": "Para que de esta generación sea demandada la sangre de todos los profetas, que ha sido derramada desde la fundación del mundo;",
+  "text_modernized": "Para que de esta generación sea demandada la sangre de todos los profetas, que ha sido derramada desde la fundación del mundo;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.162384Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

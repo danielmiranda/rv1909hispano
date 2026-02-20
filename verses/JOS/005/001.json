@@ -1,0 +1,20 @@
+{
+  "book": "JOS",
+  "chapter": 5,
+  "verse": 1,
+  "text_original": "Y CUANDO todos los reyes de los Amorrheos, que estaban de la otra parte del Jordán al occidente, y todos los reyes de los Cananeos, que estaban cerca de la mar, oyeron como Jehová había secado las aguas del Jordán delante de los hijos de Israel hasta que hubieron pasado, desfalleció su corazón, y no hubo más espíritu en ellos delante de los hijos de Israel.",
+  "text_modernized": "Y CUANDO todos los reyes de los Amorrheos, que estaban de la otra parte del Jordán al occidente, y todos los reyes de los Cananeos, que estaban cerca de la mar, oyeron como Jehová había secado las aguas del Jordán delante de los hijos de Israel hasta que hubieron pasado, desfalleció su corazón, y no hubo más espíritu en ellos delante de los hijos de Israel.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.697596Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

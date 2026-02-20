@@ -1,0 +1,20 @@
+{
+  "book": "MAT",
+  "chapter": 12,
+  "verse": 32,
+  "text_original": "Y cualquiera que hablare contra el Hijo del hombre, le será perdonado: mas cualquiera que hablare contra el Espíritu Santo, no le será perdonado, ni en este siglo, ni en el venidero.",
+  "text_modernized": "Y cualquiera que hablare contra el Hijo del hombre, le será perdonado: mas cualquiera que hablare contra el Espíritu Santo, no le será perdonado, ni en este siglo, ni en el venidero.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.684425Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

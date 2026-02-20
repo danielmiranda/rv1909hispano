@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 26,
+  "verse": 35,
+  "text_original": "Y fueron amargura de espíritu á Isaac y á Rebeca.",
+  "text_modernized": "Y fueron amargura de espíritu á Isaac y á Rebeca.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:02.905731Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

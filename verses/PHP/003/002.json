@@ -1,0 +1,14 @@
+{
+  "book": "PHP",
+  "chapter": 3,
+  "verse": 2,
+  "text_original": "Guardaos de los perros, guardaos de los malos obreros, guardaos del cortamiento.",
+  "text_modernized": "Guardaos de los perros, guardaos de los malos obreros, guardaos del cortamiento.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "pending",
+  "updated_at": "2026-02-20T15:39:12.082063Z",
+  "updated_by": "system",
+  "complex_patterns": []
+}

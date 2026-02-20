@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 21,
+  "verse": 25,
+  "text_original": "Empero cuanto á los que de los Gentiles han creído, nosotros hemos escrito haberse acordado que no guarden nada de esto; solamente que se abstengan de lo que fuere sacrificado á los ídolos, y de sangre, y de ahogado, y de fornicación.",
+  "text_modernized": "Empero cuanto á los que de los Gentiles han creído, nosotros hemos escrito haberse acordado que no guarden nada de esto; solamente que se abstengan de lo que fuere sacrificado á los ídolos, y de sangre, y de ahogado, y de fornicación.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.662148Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

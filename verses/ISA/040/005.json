@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 40,
+  "verse": 5,
+  "text_original": "Y manifestaráse la gloria de Jehová, y toda carne juntamente la verá; que la boca de Jehová habló.",
+  "text_modernized": "Y manifestaráse la gloria de Jehová, y toda carne juntamente la verá; que la boca de Jehová habló.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.412135Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 5,
+  "verse": 9,
+  "text_original": "Y Pedro le dijo: ¿Por qué os concertasteis para tentar al Espíritu del Señor? He aquí á la puerta los pies de los que han sepultado á tu marido, y te sacarán.",
+  "text_modernized": "Y Pedro le dijo: ¿Por qué os concertasteis para tentar al Espíritu del Señor? He aquí á la puerta los pies de los que han sepultado á tu marido, y te sacarán.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.513731Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

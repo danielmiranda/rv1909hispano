@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 28,
+  "verse": 8,
+  "text_original": "Y disfrazóse Saúl, y púsose otros vestidos, y fuése con dos hombres, y vinieron á aquella mujer de noche; y él dijo: Yo te ruego que me adivines por el espíritu de pythón, y me hagas subir á quien yo te dijere.",
+  "text_modernized": "Y disfrazóse Saúl, y púsose otros vestidos, y fuése con dos hombres, y vinieron á aquella mujer de noche; y él dijo: Yo te ruego que me adivines por el espíritu de pythón, y me hagas subir á quien yo te dijere.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.205798Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

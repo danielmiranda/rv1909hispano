@@ -1,0 +1,20 @@
+{
+  "book": "2TI",
+  "chapter": 1,
+  "verse": 7,
+  "text_original": "Porque no nos ha dado Dios el espíritu de temor, sino [el] de fortaleza, y de amor, y de templanza.",
+  "text_modernized": "Porque no nos ha dado Dios el espíritu de temor, sino [el] de fortaleza, y de amor, y de templanza.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.168715Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

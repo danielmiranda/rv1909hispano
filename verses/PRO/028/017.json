@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 28,
+  "verse": 17,
+  "text_original": "El hombre que hace violencia con sangre de persona, huirá hasta el sepulcro, y nadie le detendrá.",
+  "text_modernized": "El hombre que hace violencia con sangre de persona, huirá hasta el sepulcro, y nadie le detendrá.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.601086Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

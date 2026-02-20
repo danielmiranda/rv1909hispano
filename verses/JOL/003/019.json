@@ -1,0 +1,20 @@
+{
+  "book": "JOL",
+  "chapter": 3,
+  "verse": 19,
+  "text_original": "Egipto será destruído, y Edom será vuelto en asolado desierto, por la injuria hecha á los hijos de Judá: porque derramaron en su tierra la sangre inocente.",
+  "text_modernized": "Egipto será destruído, y Edom será vuelto en asolado desierto, por la injuria hecha á los hijos de Judá: porque derramaron en su tierra la sangre inocente.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.402060Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

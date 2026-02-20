@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 24,
+  "verse": 37,
+  "text_original": "Entonces ellos espantados y asombrados, pensaban que veían espíritu.",
+  "text_modernized": "Entonces ellos espantados y asombrados, pensaban que veían espíritu.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.280113Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

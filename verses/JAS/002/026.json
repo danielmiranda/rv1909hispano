@@ -1,0 +1,20 @@
+{
+  "book": "JAS",
+  "chapter": 2,
+  "verse": 26,
+  "text_original": "Porque como el cuerpo sin espíritu está muerto, así también la fe sin obras es muerta.",
+  "text_modernized": "Porque como el cuerpo sin espíritu está muerto, así también la fe sin obras es muerta.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.283113Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

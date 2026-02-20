@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 12,
+  "verse": 7,
+  "text_original": "Y tomarán de la sangre, y pondrán en los dos postes y en el dintel de las casas en que lo han de comer.",
+  "text_modernized": "Y tomarán de la sangre, y pondrán en los dos postes y en el dintel de las casas en que lo han de comer.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.196957Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

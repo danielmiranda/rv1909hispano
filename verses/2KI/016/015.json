@@ -1,0 +1,20 @@
+{
+  "book": "2KI",
+  "chapter": 16,
+  "verse": 15,
+  "text_original": "Y mandó el rey Achâz al sacerdote Urías, diciendo: En el gran altar encenderás el holocausto de la mañana y el presente de la tarde, y el holocausto del rey y su presente, y asimismo el holocausto de todo el pueblo de la tierra y su presente y sus libaciones: y esparcirás sobre él toda la sangre de holocausto, y toda la sangre de sacrificio: y el altar de bronce será mío para preguntar [en él].",
+  "text_modernized": "Y mandó el rey Achâz al sacerdote Urías, diciendo: En el gran altar encenderás el holocausto de la mañana y el presente de la tarde, y el holocausto del rey y su presente, y asimismo el holocausto de todo el pueblo de la tierra y su presente y sus libaciones: y esparcirás sobre él toda la sangre de holocausto, y toda la sangre de sacrificio: y el altar de bronce será mío para preguntar [en él].",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.722895Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 6,
+  "verse": 9,
+  "text_original": "De esta manera habló Moisés á los hijos de Israel: mas ellos no escuchaban á Moisés á causa de la congoja de espíritu, y de la dura servidumbre.",
+  "text_modernized": "De esta manera habló Moisés á los hijos de Israel: mas ellos no escuchaban á Moisés á causa de la congoja de espíritu, y de la dura servidumbre.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.156014Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

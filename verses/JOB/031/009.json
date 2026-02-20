@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 31,
+  "verse": 9,
+  "text_original": "Si fué mi corazón engañado acerca de mujer, y si estuve acechando á la puerta de mi prójimo:",
+  "text_modernized": "Si fue mi corazón engañado acerca de mujer, y si estuve acechando á la puerta de mi prójimo:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.520699Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

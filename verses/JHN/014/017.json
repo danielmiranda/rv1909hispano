@@ -1,0 +1,20 @@
+{
+  "book": "JHN",
+  "chapter": 14,
+  "verse": 17,
+  "text_original": "Al Espíritu de verdad, al cual el mundo no puede recibir, porque no le ve, ni le conoce: mas vosotros le conocéis; porque está con vosotros, y será en vosotros.",
+  "text_modernized": "Al Espíritu de verdad, al cual el mundo no puede recibir, porque no le ve, ni le conoce: mas vosotros le conocéis; porque está con vosotros, y será en vosotros.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.410892Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

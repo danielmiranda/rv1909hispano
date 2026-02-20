@@ -1,0 +1,20 @@
+{
+  "book": "HEB",
+  "chapter": 11,
+  "verse": 28,
+  "text_original": "Por fe celebró la pascua y el derramamiento de la sangre, para que el que mataba los primogénitos no los tocase.",
+  "text_modernized": "Por fe celebró la pascua y el derramamiento de la sangre, para que el que mataba los primogénitos no los tocase.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.258282Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

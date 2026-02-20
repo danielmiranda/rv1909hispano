@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 1,
+  "verse": 47,
+  "text_original": "Y mi espíritu se alegró en Dios mi Salvador.",
+  "text_modernized": "Y mi espíritu se alegró en Dios mi Salvador.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.007908Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

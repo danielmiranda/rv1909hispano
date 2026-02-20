@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 15,
+  "verse": 13,
+  "text_original": "Pues haces frente á Dios con tu espíritu, y sacas [tales] palabras de tu boca?",
+  "text_modernized": "Pues haces frente á Dios con tu espíritu, y sacas [tales] palabras de tu boca?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.450088Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 6,
+  "verse": 17,
+  "text_original": "No se cocerá con levadura: helo dado á ellos por su porción de mis ofrendas encendidas; es cosa santísima, como la expiación por el pecado, y como la expiación por la culpa.",
+  "text_modernized": "No se cocerá con levadura: helo dado á ellos por su porción de mis ofrendas encendidas; es cosa santísima, como la expiación por el pecado, y como la expiación por la culpa.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.457237Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

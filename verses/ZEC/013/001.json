@@ -1,0 +1,20 @@
+{
+  "book": "ZEC",
+  "chapter": 13,
+  "verse": 1,
+  "text_original": "EN aquel tiempo habrá manantial abierto para la casa de David y para los moradores de Jerusalem, para el pecado y la inmundicia.",
+  "text_modernized": "EN aquel tiempo habrá manantial abierto para la casa de David y para los moradores de Jerusalem, para el pecado y la inmundicia.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.566339Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

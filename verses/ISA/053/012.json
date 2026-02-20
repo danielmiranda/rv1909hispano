@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 53,
+  "verse": 12,
+  "text_original": "Por tanto yo le daré parte con los grandes, y con los fuertes repartirá despojos; por cuanto derramó su vida hasta la muerte, y fué contado con los perversos, habiendo él llevado el pecado de muchos, y orado por los transgresores.",
+  "text_modernized": "Por tanto yo le daré parte con los grandes, y con los fuertes repartirá despojos; por cuanto derramó su vida hasta la muerte, y fue contado con los perversos, habiendo él llevado el pecado de muchos, y orado por los transgresores.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.489360Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

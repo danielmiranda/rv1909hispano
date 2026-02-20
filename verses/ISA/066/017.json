@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 66,
+  "verse": 17,
+  "text_original": "Los que se santifican y los que se purifican en los huertos, unos tras otros, los que comen carne de puerco, y abominación, y ratón; juntamente serán talados, dice Jehová.",
+  "text_modernized": "Los que se santifican y los que se purifican en los huertos, unos tras otros, los que comen carne de puerco, y abominación, y ratón; juntamente serán talados, dice Jehová.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.540402Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

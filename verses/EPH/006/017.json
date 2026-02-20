@@ -1,0 +1,20 @@
+{
+  "book": "EPH",
+  "chapter": 6,
+  "verse": 17,
+  "text_original": "Y tomad el yelmo de salud, y la espada del Espíritu; que es la palabra de Dios;",
+  "text_modernized": "Y tomad el yelmo de salud, y la espada del Espíritu; que es la palabra de Dios;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.048902Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

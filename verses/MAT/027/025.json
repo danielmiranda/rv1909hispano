@@ -1,0 +1,20 @@
+{
+  "book": "MAT",
+  "chapter": 27,
+  "verse": 25,
+  "text_original": "Y respondiendo todo el pueblo, dijo: Su sangre [sea] sobre nosotros, y sobre nuestros hijos.",
+  "text_modernized": "Y respondiendo todo el pueblo, dijo: Su sangre [sea] sobre nosotros, y sobre nuestros hijos.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.827256Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

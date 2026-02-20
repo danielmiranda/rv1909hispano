@@ -1,0 +1,20 @@
+{
+  "book": "JER",
+  "chapter": 36,
+  "verse": 3,
+  "text_original": "Quizá oirá la casa de Judá todo el mal que yo pienso hacerles, para volverse cada uno de su mal camino, y yo perdonaré su maldad y su pecado.",
+  "text_modernized": "Quizá oirá la casa de Judá todo el mal que yo pienso hacerles, para volverse cada uno de su mal camino, y yo perdonaré su maldad y su pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.786956Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

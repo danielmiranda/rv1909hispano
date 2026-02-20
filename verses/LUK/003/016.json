@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 3,
+  "verse": 16,
+  "text_original": "Respondió Juan, diciendo á todos: Yo, á la verdad, os bautizo en agua; mas viene quien es más poderoso que yo, de quien no soy digno de desatar la correa de sus zapatos: él os bautizará en Espíritu Santo y fuego;",
+  "text_modernized": "Respondió Juan, diciendo á todos: Yo, á la verdad, os bautizo en agua; mas viene quien es más poderoso que yo, de quien no soy digno de desatar la correa de sus zapatos: él os bautizará en Espíritu Santo y fuego;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.028798Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "1KI",
+  "chapter": 21,
+  "verse": 19,
+  "text_original": "Y hablarle has, diciendo: Así ha dicho Jehová: ¿No mataste y también has poseído? Y tornarás á hablarle, diciendo: Así ha dicho Jehová: En el mismo lugar donde lamieron los perros la sangre de Naboth, los perros lamerán también tu sangre, la tuya misma.",
+  "text_modernized": "Y hablarle has, diciendo: Así ha dicho Jehová: ¿No mataste y también has poseído? Y tornarás á hablarle, diciendo: Así ha dicho Jehová: En el mismo lugar donde lamieron los perros la sangre de Naboth, los perros lamerán también tu sangre, la tuya misma.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.569433Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

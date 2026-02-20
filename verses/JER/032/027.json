@@ -1,0 +1,20 @@
+{
+  "book": "JER",
+  "chapter": 32,
+  "verse": 27,
+  "text_original": "He aquí que yo soy Jehová, Dios de toda carne; ¿encubriráseme á mí alguna cosa?",
+  "text_modernized": "He aquí que yo soy Jehová, Dios de toda carne; ¿encubriráseme á mí alguna cosa?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.767482Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

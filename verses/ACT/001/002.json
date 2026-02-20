@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 1,
+  "verse": 2,
+  "text_original": "Hasta el día en que, habiendo dado mandamientos por el Espíritu Santo á los apóstoles que escogió, fué recibido arriba;",
+  "text_modernized": "Hasta el día en que, habiendo dado mandamientos por el Espíritu Santo á los apóstoles que escogió, fue recibido arriba;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.460469Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 22,
+  "verse": 44,
+  "text_original": "Y estando en agonía, oraba más intensamente: y fué su sudor como grandes gotas de sangre que caían hasta la tierra.",
+  "text_modernized": "Y estando en agonía, oraba más intensamente: y fue su sudor como grandes gotas de sangre que caían hasta la tierra.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.256001Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

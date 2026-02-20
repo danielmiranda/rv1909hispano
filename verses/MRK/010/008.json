@@ -1,0 +1,20 @@
+{
+  "book": "MRK",
+  "chapter": 10,
+  "verse": 8,
+  "text_original": "Y los que [eran] dos, serán hechos una carne: así que no son más dos, sino una carne.",
+  "text_modernized": "Y los que [eran] dos, serán hechos una carne: así que no son más dos, sino una carne.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.934998Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

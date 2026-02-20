@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 16,
+  "verse": 24,
+  "text_original": "Lavará luego su carne con agua en el lugar del santuario, y después de ponerse sus vestidos saldrá, y hará su holocausto, y el holocausto del pueblo, y hará la reconciliación por sí y por el pueblo.",
+  "text_modernized": "Lavará luego su carne con agua en el lugar del santuario, y después de ponerse sus vestidos saldrá, y hará su holocausto, y el holocausto del pueblo, y hará la reconciliación por sí y por el pueblo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.546135Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "REV",
+  "chapter": 16,
+  "verse": 3,
+  "text_original": "Y el segundo ángel derramó su copa sobre el mar, y se convirtió en sangre como de un muerto; y toda alma viviente fué muerta en el mar.",
+  "text_modernized": "Y el segundo ángel derramó su copa sobre el mar, y se convirtió en sangre como de un muerto; y toda alma viviente fue muerta en el mar.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.469527Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 13,
+  "verse": 16,
+  "text_original": "Mas cuando la carne viva se mudare y volviere blanca, entonces vendrá al sacerdote;",
+  "text_modernized": "Mas cuando la carne viva se mudare y volviere blanca, entonces vendrá al sacerdote;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.506316Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

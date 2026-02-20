@@ -1,0 +1,20 @@
+{
+  "book": "ECC",
+  "chapter": 11,
+  "verse": 10,
+  "text_original": "Quita pues el enojo de tu corazón, y aparta el mal de tu carne: porque la mocedad y la juventud son vanidad.",
+  "text_modernized": "Quita pues el enojo de tu corazón, y aparta el mal de tu carne: porque la mocedad y la juventud son vanidad.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.187994Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

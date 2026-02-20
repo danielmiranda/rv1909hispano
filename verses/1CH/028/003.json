@@ -1,0 +1,20 @@
+{
+  "book": "1CH",
+  "chapter": 28,
+  "verse": 3,
+  "text_original": "Mas Dios me dijo: Tú no edificarás casa á mi nombre: porque eres hombre de guerra, y has derramado mucha sangre.",
+  "text_modernized": "Mas Dios me dijo: Tú no edificarás casa á mi nombre: porque eres hombre de guerra, y has derramado mucha sangre.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.970513Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

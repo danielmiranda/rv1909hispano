@@ -1,0 +1,20 @@
+{
+  "book": "MAT",
+  "chapter": 12,
+  "verse": 28,
+  "text_original": "Y si por espíritu de Dios yo echo fuera los demonios, ciertamente ha llegado á vosotros el reino de Dios.",
+  "text_modernized": "Y si por espíritu de Dios yo echo fuera los demonios, ciertamente ha llegado á vosotros el reino de Dios.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.683503Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

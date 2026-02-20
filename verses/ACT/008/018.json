@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 8,
+  "verse": 18,
+  "text_original": "Y como vió Simón que por la imposición de las manos de los apóstoles se daba el Espíritu Santo, les ofreció dinero,",
+  "text_modernized": "Y como vió Simón que por la imposición de las manos de los apóstoles se daba el Espíritu Santo, les ofreció dinero,",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.541235Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

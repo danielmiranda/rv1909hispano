@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 19,
+  "verse": 15,
+  "text_original": "No harás agravio en el juicio: no tendrás respeto al pobre, ni honrarás la cara del grande: con justicia juzgarás á tu prójimo.",
+  "text_modernized": "No harás agravio en el juicio: no tendrás respeto al pobre, ni honrarás la cara del grande: con justicia juzgarás á tu prójimo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.562223Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

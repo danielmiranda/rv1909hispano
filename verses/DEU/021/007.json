@@ -1,0 +1,20 @@
+{
+  "book": "DEU",
+  "chapter": 21,
+  "verse": 7,
+  "text_original": "Y protestarán, y dirán: Nuestras manos no han derramado esta sangre, ni nuestros ojos lo vieron.",
+  "text_modernized": "Y protestarán, y dirán: Nuestras manos no han derramado esta sangre, ni nuestros ojos lo vieron.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.587133Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

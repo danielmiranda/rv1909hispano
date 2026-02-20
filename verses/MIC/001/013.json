@@ -1,0 +1,20 @@
+{
+  "book": "MIC",
+  "chapter": 1,
+  "verse": 13,
+  "text_original": "Unce al carro dromedarios, oh moradora de Lachîs, que fuiste principio de pecado á la hija de Sión; porque en ti se inventaron las rebeliones de Israel.",
+  "text_modernized": "Unce al carro dromedarios, oh moradora de Lachîs, que fuiste principio de pecado á la hija de Sión; porque en ti se inventaron las rebeliones de Israel.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.463040Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

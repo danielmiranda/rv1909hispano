@@ -1,0 +1,20 @@
+{
+  "book": "HEB",
+  "chapter": 9,
+  "verse": 21,
+  "text_original": "Y además de esto roció también con la sangre el tabernáculo y todos los vasos del ministerio.",
+  "text_modernized": "Y además de esto roció también con la sangre el tabernáculo y todos los vasos del ministerio.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.242610Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

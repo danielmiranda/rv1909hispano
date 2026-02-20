@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 145,
+  "verse": 21,
+  "text_original": "La alabanza de Jehová hablará mi boca; y bendiga toda carne su santo nombre por siglo y para siempre.",
+  "text_modernized": "La alabanza de Jehová hablará mi boca; y bendiga toda carne su santo nombre por siglo y para siempre.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.421439Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "DEU",
+  "chapter": 23,
+  "verse": 25,
+  "text_original": "Cuando entrares en la mies de tu prójimo, podrás cortar espigas con tu mano; mas no aplicarás hoz á la mies de tu prójimo.",
+  "text_modernized": "Cuando entrares en la mies de tu prójimo, podrás cortar espigas con tu mano; mas no aplicarás hoz á la mies de tu prójimo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.602345Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

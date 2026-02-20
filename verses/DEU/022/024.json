@@ -1,0 +1,20 @@
+{
+  "book": "DEU",
+  "chapter": 22,
+  "verse": 24,
+  "text_original": "Entonces los sacaréis á ambos á la puerta de aquella ciudad, y los apedrearéis con piedras, y morirán; la moza porque no dió voces en la ciudad, y el hombre porque humilló á la mujer de su prójimo: así quitarás el mal de en medio de ti.",
+  "text_modernized": "Entonces los sacaréis á ambos á la puerta de aquella ciudad, y los apedrearéis con piedras, y morirán; la moza porque no dió voces en la ciudad, y el hombre porque humilló á la mujer de su prójimo: así quitarás el mal de en medio de ti.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.595852Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

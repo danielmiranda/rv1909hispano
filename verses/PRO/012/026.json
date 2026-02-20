@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 12,
+  "verse": 26,
+  "text_original": "El justo hace ventaja á su prójimo: mas el camino de los impíos les hace errar.",
+  "text_modernized": "El justo hace ventaja á su prójimo: mas el camino de los impíos les hace errar.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.506089Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

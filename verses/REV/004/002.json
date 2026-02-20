@@ -1,0 +1,20 @@
+{
+  "book": "REV",
+  "chapter": 4,
+  "verse": 2,
+  "text_original": "Y luego yo fuí en Espíritu: y he aquí, un trono que estaba puesto en el cielo, y sobre el trono estaba uno sentado.",
+  "text_modernized": "Y luego yo fuí en Espíritu: y he aquí, un trono que estaba puesto en el cielo, y sobre el trono estaba uno sentado.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.404801Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

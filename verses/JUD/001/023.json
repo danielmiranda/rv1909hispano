@@ -1,0 +1,20 @@
+{
+  "book": "JUD",
+  "chapter": 1,
+  "verse": 23,
+  "text_original": "Mas haced salvos á los otros por temor, arrebatándolos del fuego; aborreciendo aun la ropa que es contaminada de la carne.",
+  "text_modernized": "Mas haced salvos á los otros por temor, arrebatándolos del fuego; aborreciendo aun la ropa que es contaminada de la carne.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.387850Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

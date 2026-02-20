@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 19,
+  "verse": 23,
+  "text_original": "Y fué allá á Najoth en Rama; y también vino sobre él el espíritu de Dios, é iba profetizando, hasta que llegó á Najoth en Rama.",
+  "text_modernized": "Y fue allá á Najoth en Rama; y también vino sobre él el espíritu de Dios, é iba profetizando, hasta que llegó á Najoth en Rama.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.144717Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

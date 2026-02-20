@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 2,
+  "verse": 27,
+  "text_original": "Y vino por Espíritu al templo. Y cuando metieron al niño Jesús sus padres en el templo, para hacer por él conforme á la costumbre de la ley,",
+  "text_modernized": "Y vino por Espíritu al templo. Y cuando metieron al niño Jesús sus padres en el templo, para hacer por él conforme á la costumbre de la ley,",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.020459Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

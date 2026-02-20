@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 26,
+  "verse": 13,
+  "text_original": "Su espíritu adornó los cielos; su mano crió la serpiente tortuosa.",
+  "text_modernized": "Su espíritu adornó los cielos; su mano crió la serpiente tortuosa.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.498771Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

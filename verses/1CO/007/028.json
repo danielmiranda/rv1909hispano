@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 7,
+  "verse": 28,
+  "text_original": "Mas también si tomares mujer, no pecaste; y si la doncella se casare, no pecó: pero aflicción de carne tendrán los tales: mas yo os dejo.",
+  "text_modernized": "Mas también si tomares mujer, no pecaste; y si la doncella se casare, no pecó: pero aflicción de carne tendrán los tales: mas yo os dejo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.849779Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

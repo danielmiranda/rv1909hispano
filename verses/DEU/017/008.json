@@ -1,0 +1,20 @@
+{
+  "book": "DEU",
+  "chapter": 17,
+  "verse": 8,
+  "text_original": "Cuando alguna cosa te fuere oculta en juicio entre sangre y sangre, entre causa y causa, y entre llaga y llaga, en negocios de litigio en tus ciudades; entonces te levantarás y recurrirás al lugar que Jehová tu Dios escogiere;",
+  "text_modernized": "Cuando alguna cosa te fuere oculta en juicio entre sangre y sangre, entre causa y causa, y entre llaga y llaga, en negocios de litigio en tus ciudades; entonces te levantarás y recurrirás al lugar que Jehová tu Dios escogiere;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.568649Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

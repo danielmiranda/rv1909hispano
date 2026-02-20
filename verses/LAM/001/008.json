@@ -1,0 +1,20 @@
+{
+  "book": "LAM",
+  "chapter": 1,
+  "verse": 8,
+  "text_original": "Pecado cometió Jerusalem; por lo cual ella ha sido removida: todos los que la honraban la han menospreciado, porque vieron su vergüenza; y ella suspira, y se vuelve atrás.",
+  "text_modernized": "Pecado cometió Jerusalem; por lo cual ella ha sido removida: todos los que la honraban la han menospreciado, porque vieron su vergüenza; y ella suspira, y se vuelve atrás.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.912124Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

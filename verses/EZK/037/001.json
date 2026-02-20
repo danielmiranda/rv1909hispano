@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 37,
+  "verse": 1,
+  "text_original": "Y LA mano de Jehová fué sobre mí, y sacóme en espíritu de Jehová, y púsome en medio de un campo que estaba lleno de huesos.",
+  "text_modernized": "Y LA mano de Jehová fue sobre mí, y sacóme en espíritu de Jehová, y púsome en medio de un campo que estaba lleno de huesos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.168116Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

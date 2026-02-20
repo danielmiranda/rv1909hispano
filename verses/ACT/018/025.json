@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 18,
+  "verse": 25,
+  "text_original": "Este era instruído en el camino del Señor; y ferviente de espíritu, hablaba y enseñaba diligentemente las cosas que son del Señor, enseñando solamente en el bautismo de Juan.",
+  "text_modernized": "Este era instruído en el camino del Señor; y ferviente de espíritu, hablaba y enseñaba diligentemente las cosas que son del Señor, enseñando solamente en el bautismo de Juan.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.637330Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

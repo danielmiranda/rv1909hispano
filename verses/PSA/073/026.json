@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 73,
+  "verse": 26,
+  "text_original": "Mi carne y mi corazón desfallecen: [mas] la roca de mi corazón y mi porción es Dios para siempre.",
+  "text_modernized": "Mi carne y mi corazón desfallecen: [mas] la roca de mi corazón y mi porción es Dios para siempre.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:07.642952Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

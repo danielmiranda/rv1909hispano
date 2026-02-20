@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 143,
+  "verse": 10,
+  "text_original": "Enséñame á hacer tu voluntad, porque tú eres mi Dios: tu buen espíritu me guíe á tierra de rectitud.",
+  "text_modernized": "Enséñame á hacer tu voluntad, porque tú eres mi Dios: tu buen espíritu me guíe á tierra de rectitud.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.413645Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

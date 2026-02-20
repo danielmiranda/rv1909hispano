@@ -1,0 +1,20 @@
+{
+  "book": "EPH",
+  "chapter": 6,
+  "verse": 18,
+  "text_original": "Orando en todo tiempo con toda deprecación y súplica en el Espíritu, y velando en ello con toda instancia y suplicación por todos los santos,",
+  "text_modernized": "Orando en todo tiempo con toda deprecación y súplica en el Espíritu, y velando en ello con toda instancia y suplicación por todos los santos,",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.049056Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

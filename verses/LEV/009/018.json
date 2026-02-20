@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 9,
+  "verse": 18,
+  "text_original": "Degolló también el buey y el carnero en sacrificio de paces, que era del pueblo: y los hijos de Aarón le presentaron la sangre (la cual roció él sobre el altar alrededor),",
+  "text_modernized": "Degolló también el buey y el carnero en sacrificio de paces, que era del pueblo: y los hijos de Aarón le presentaron la sangre (la cual roció él sobre el altar alrededor),",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.481914Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

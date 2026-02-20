@@ -1,0 +1,20 @@
+{
+  "book": "JHN",
+  "chapter": 7,
+  "verse": 39,
+  "text_original": "(Y esto dijo del Espíritu que habían de recibir los que creyesen en él: pues aun no había [venido] el Espíritu Santo; porque Jesús no estaba aún glorificado.)",
+  "text_modernized": "(Y esto dijo del Espíritu que habían de recibir los que creyesen en él: pues aun no había [venido] el Espíritu Santo; porque Jesús no estaba aún glorificado.)",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.348539Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

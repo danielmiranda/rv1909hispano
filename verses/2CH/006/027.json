@@ -1,0 +1,20 @@
+{
+  "book": "2CH",
+  "chapter": 6,
+  "verse": 27,
+  "text_original": "Tú [los] oirás en los cielos, y perdonarás el pecado de tus siervos y de tu pueblo Israel, y les enseñarás el buen camino para que anden en él, y darás lluvia sobre tu tierra, la cual diste por heredad á tu pueblo.",
+  "text_modernized": "Tú [los] oirás en los cielos, y perdonarás el pecado de tus siervos y de tu pueblo Israel, y les enseñarás el buen camino para que anden en él, y darás lluvia sobre tu tierra, la cual diste por heredad á tu pueblo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.009581Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

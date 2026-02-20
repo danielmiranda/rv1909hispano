@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 17,
+  "verse": 12,
+  "text_original": "Por tanto, he dicho á los hijos de Israel: Ninguna persona de vosotros comerá sangre, ni el extranjero que peregrina entre vosotros comerá sangre.",
+  "text_modernized": "Por tanto, he dicho á los hijos de Israel: Ninguna persona de vosotros comerá sangre, ni el extranjero que peregrina entre vosotros comerá sangre.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.551491Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

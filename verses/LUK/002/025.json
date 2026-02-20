@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 2,
+  "verse": 25,
+  "text_original": "Y he aquí, había un hombre en Jerusalem, llamado Simeón, y este hombre, justo y pío, esperaba la consolación de Israel: y el Espíritu Santo era sobre él.",
+  "text_modernized": "Y he aquí, había un hombre en Jerusalem, llamado Simeón, y este hombre, justo y pío, esperaba la consolación de Israel: y el Espíritu Santo era sobre él.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.020092Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

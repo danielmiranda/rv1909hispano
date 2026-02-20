@@ -1,0 +1,20 @@
+{
+  "book": "2CH",
+  "chapter": 30,
+  "verse": 16,
+  "text_original": "Y pusiéronse en su orden conforme á su costumbre, conforme á la ley de Moisés varón de Dios; los sacerdotes esparcían la sangre [que recibían] de manos de los Levitas:",
+  "text_modernized": "Y pusiéronse en su orden conforme á su costumbre, conforme á la ley de Moisés varón de Dios; los sacerdotes esparcían la sangre [que recibían] de manos de los Levitas:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.145875Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

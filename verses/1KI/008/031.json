@@ -1,0 +1,25 @@
+{
+  "book": "1KI",
+  "chapter": 8,
+  "verse": 31,
+  "text_original": "Cuando alguno hubiere pecado contra su prójimo, y le tomaren juramento haciéndole jurar, y viniere el juramento delante de tu altar en esta casa;",
+  "text_modernized": "Cuando alguno hubiere pecado contra su prójimo, y le tomaren juramento haciéndole jurar, y viniere el juramento delante de tu altar en esta casa;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.466141Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    },
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

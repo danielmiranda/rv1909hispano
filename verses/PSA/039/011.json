@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 39,
+  "verse": 11,
+  "text_original": "Con castigos sobre el pecado corriges al hombre, y haces consumirse como de polilla su grandeza: ciertamente vanidad es todo hombre. (Selah.)",
+  "text_modernized": "Con castigos sobre el pecado corriges al hombre, y haces consumirse como de polilla su grandeza: ciertamente vanidad es todo hombre. (Selah.)",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.783149Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

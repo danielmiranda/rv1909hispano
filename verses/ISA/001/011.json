@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 1,
+  "verse": 11,
+  "text_original": "¿Para qué á mí, dice Jehová, la multitud de vuestros sacrificios? Harto estoy de holocaustos de carneros, y de sebo de animales gruesos: no quiero sangre de bueyes, ni de ovejas, ni de machos cabríos.",
+  "text_modernized": "¿Para qué á mí, dice Jehová, la multitud de vuestros sacrificios? Harto estoy de holocaustos de carneros, y de sebo de animales gruesos: no quiero sangre de bueyes, ni de ovejas, ni de machos cabríos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.222126Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

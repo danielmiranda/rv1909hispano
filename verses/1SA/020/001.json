@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 20,
+  "verse": 1,
+  "text_original": "Y DAVID huyó de Najoth [que es] en Rama, y vínose delante de Jonathán, y dijo: ¿Qué he hecho yo? ¿cuál es mi maldad, ó cuál mi pecado contra tu padre, que él busca mi vida?",
+  "text_modernized": "Y DAVID huyó de Najoth [que es] en Rama, y vínose delante de Jonathán, y dijo: ¿Qué he hecho yo? ¿cuál es mi maldad, ó cuál mi pecado contra tu padre, que él busca mi vida?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.145196Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

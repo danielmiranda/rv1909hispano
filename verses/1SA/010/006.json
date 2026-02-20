@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 10,
+  "verse": 6,
+  "text_original": "Y el espíritu de Jehová te arrebatará, y profetizarás con ellos, y serás mudado en otro hombre.",
+  "text_modernized": "Y el espíritu de Jehová te arrebatará, y profetizarás con ellos, y serás mudado en otro hombre.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.074681Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

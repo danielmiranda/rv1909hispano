@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 28,
+  "verse": 42,
+  "text_original": "Y les harás pañetes de lino para cubrir la carne vergonzosa; serán desde los lomos hasta los muslos:",
+  "text_modernized": "Y les harás pañetes de lino para cubrir la carne vergonzosa; serán desde los lomos hasta los muslos:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.311354Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

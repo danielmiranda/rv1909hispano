@@ -1,0 +1,25 @@
+{
+  "book": "ZEP",
+  "chapter": 1,
+  "verse": 17,
+  "text_original": "Y atribularé los hombres, y andarán como ciegos, porque pecaron contra Jehová: y la sangre de ellos será derramada como polvo, y su carne como estiércol.",
+  "text_modernized": "Y atribularé los hombres, y andarán como ciegos, porque pecaron contra Jehová: y la sangre de ellos será derramada como polvo, y su carne como estiércol.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.510734Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    },
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

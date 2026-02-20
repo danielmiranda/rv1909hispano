@@ -1,0 +1,20 @@
+{
+  "book": "HOS",
+  "chapter": 9,
+  "verse": 9,
+  "text_original": "Llegaron al profundo, corrompiéronse, como en los días de Gabaa: ahora se acordará de su iniquidad; visitará su pecado.",
+  "text_modernized": "Llegaron al profundo, corrompiéronse, como en los días de Gabaa: ahora se acordará de su iniquidad; visitará su pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.371680Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

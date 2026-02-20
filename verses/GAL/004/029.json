@@ -1,0 +1,25 @@
+{
+  "book": "GAL",
+  "chapter": 4,
+  "verse": 29,
+  "text_original": "Empero como entonces el que era engendrado según la carne, perseguía al que [había nacido] según el Espíritu, así también ahora.",
+  "text_modernized": "Empero como entonces el que era engendrado según la carne, perseguía al que [había nacido] según el Espíritu, así también ahora.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.007918Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

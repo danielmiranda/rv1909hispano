@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 5,
+  "verse": 15,
+  "text_original": "Cuando alguna persona cometiere falta, y pecare por yerro en las cosas santificadas á Jehová, traerá su expiación á Jehová, un carnero sin tacha de los rebaños, conforme á tu estimación, en siclos de plata del siclo del santuario, en ofrenda por el pecado:",
+  "text_modernized": "Cuando alguna persona cometiere falta, y pecare por yerro en las cosas santificadas á Jehová, traerá su expiación á Jehová, un carnero sin tacha de los rebaños, conforme á tu estimación, en siclos de plata del siclo del santuario, en ofrenda por el pecado:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.452657Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

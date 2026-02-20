@@ -1,0 +1,20 @@
+{
+  "book": "REV",
+  "chapter": 5,
+  "verse": 9,
+  "text_original": "Y cantaban un nuevo cántico, diciendo: Digno eres de tomar el libro, y de abrir sus sellos; porque tú fuiste inmolado, y nos has redimido para Dios con tu sangre, de todo linaje y lengua y pueblo y nación;",
+  "text_modernized": "Y cantaban un nuevo cántico, diciendo: Digno eres de tomar el libro, y de abrir sus sellos; porque tú fuiste inmolado, y nos has redimido para Dios con tu sangre, de todo linaje y lengua y pueblo y nación;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.409009Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

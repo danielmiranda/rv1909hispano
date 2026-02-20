@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 7,
+  "verse": 33,
+  "text_original": "El que de los hijos de Aarón ofreciere la sangre de las paces, y el sebo, de él será en porción la espaldilla derecha;",
+  "text_modernized": "El que de los hijos de Aarón ofreciere la sangre de las paces, y el sebo, de él será en porción la espaldilla derecha;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.467757Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

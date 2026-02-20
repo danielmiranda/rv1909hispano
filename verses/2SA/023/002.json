@@ -1,0 +1,20 @@
+{
+  "book": "2SA",
+  "chapter": 23,
+  "verse": 2,
+  "text_original": "El espíritu de Jehová ha hablado por mí, y su palabra ha sido en mi lengua.",
+  "text_modernized": "El espíritu de Jehová ha hablado por mí, y su palabra ha sido en mi lengua.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.388157Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

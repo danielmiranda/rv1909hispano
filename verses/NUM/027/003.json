@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 27,
+  "verse": 3,
+  "text_original": "Nuestro padre murió en el desierto, el cual no estuvo en la junta que se reunió contra Jehová en la compañía de Coré: sino que en su pecado murió, y no tuvo hijos.",
+  "text_modernized": "Nuestro padre murió en el desierto, el cual no estuvo en la junta que se reunió contra Jehová en la compañía de Coré: sino que en su pecado murió, y no tuvo hijos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.382319Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

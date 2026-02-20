@@ -1,0 +1,20 @@
+{
+  "book": "EPH",
+  "chapter": 6,
+  "verse": 5,
+  "text_original": "Siervos, obedeced á vuestros amos según la carne con temor y temblor, con sencillez de vuestro corazón, como á Cristo;",
+  "text_modernized": "Siervos, obedeced á vuestros amos según la carne con temor y temblor, con sencillez de vuestro corazón, como á Cristo;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.047002Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

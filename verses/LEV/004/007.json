@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 4,
+  "verse": 7,
+  "text_original": "Y pondrá el sacerdote de la sangre sobre los cuernos del altar del perfume aromático, que está en el tabernáculo del testimonio delante de Jehová: y echará toda la sangre del becerro al pie del altar del holocausto, que está á la puerta del tabernáculo del testimonio.",
+  "text_modernized": "Y pondrá el sacerdote de la sangre sobre los cuernos del altar del perfume aromático, que está en el tabernáculo del testimonio delante de Jehová: y echará toda la sangre del becerro al pie del altar del holocausto, que está á la puerta del tabernáculo del testimonio.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.442651Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "1KI",
+  "chapter": 11,
+  "verse": 14,
+  "text_original": "Y Jehová suscitó un adversario á Salomón, á Adad, Idumeo, de la sangre real, el cual estaba en Edom.",
+  "text_modernized": "Y Jehová suscitó un adversario á Salomón, á Adad, Idumeo, de la sangre real, el cual estaba en Edom.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.490774Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 25,
+  "verse": 8,
+  "text_original": "Alegando él por su parte: Ni contra la ley de los Judíos, ni contra el templo, ni contra César he pecado en nada.",
+  "text_modernized": "Alegando él por su parte: Ni contra la ley de los Judíos, ni contra el templo, ni contra César he pecado en nada.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.686822Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

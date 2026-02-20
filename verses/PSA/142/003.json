@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 142,
+  "verse": 3,
+  "text_original": "Cuando mi espíritu se angustiaba dentro de mí, tú conociste mi senda. En el camino en que andaba, me escondieron lazo.",
+  "text_modernized": "Cuando mi espíritu se angustiaba dentro de mí, tú conociste mi senda. En el camino en que andaba, me escondieron lazo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.410667Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

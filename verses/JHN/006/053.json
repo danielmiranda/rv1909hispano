@@ -1,0 +1,25 @@
+{
+  "book": "JHN",
+  "chapter": 6,
+  "verse": 53,
+  "text_original": "Y Jesús les dijo: De cierto, de cierto os digo: Si no comiereis la carne del Hijo del hombre, y bebiereis su sangre, no tendréis vida en vosotros.",
+  "text_modernized": "Y Jesús les dijo: De cierto, de cierto os digo: Si no comiereis la carne del Hijo del hombre, y bebiereis su sangre, no tendréis vida en vosotros.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.337006Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    },
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

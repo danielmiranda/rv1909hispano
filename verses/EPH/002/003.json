@@ -1,0 +1,20 @@
+{
+  "book": "EPH",
+  "chapter": 2,
+  "verse": 3,
+  "text_original": "Entre los cuales todos nosotros también vivimos en otro tiempo en los deseos de nuestra carne, haciendo la voluntad de la carne y de los pensamientos; y éramos por naturaleza hijos de ira, también como los demás.",
+  "text_modernized": "Entre los cuales todos nosotros también vivimos en otro tiempo en los deseos de nuestra carne, haciendo la voluntad de la carne y de los pensamientos; y éramos por naturaleza hijos de ira, también como los demás.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.023808Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

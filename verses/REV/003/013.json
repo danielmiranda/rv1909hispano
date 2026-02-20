@@ -1,0 +1,20 @@
+{
+  "book": "REV",
+  "chapter": 3,
+  "verse": 13,
+  "text_original": "El que tiene oído, oiga lo que el Espíritu dice á las iglesias.",
+  "text_modernized": "El que tiene oído, oiga lo que el Espíritu dice á las iglesias.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.402366Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

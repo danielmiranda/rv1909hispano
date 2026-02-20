@@ -1,0 +1,20 @@
+{
+  "book": "JDG",
+  "chapter": 11,
+  "verse": 29,
+  "text_original": "Y el espíritu de Jehová fué sobre Jephté: y pasó por Galaad y Manasés; y de allí pasó á Mizpa de Galaad; y de Mizpa de Galaad pasó á los hijos de Ammón.",
+  "text_modernized": "Y el espíritu de Jehová fue sobre Jephté: y pasó por Galaad y Manasés; y de allí pasó á Mizpa de Galaad; y de Mizpa de Galaad pasó á los hijos de Ammón.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.944060Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

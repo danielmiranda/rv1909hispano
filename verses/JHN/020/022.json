@@ -1,0 +1,20 @@
+{
+  "book": "JHN",
+  "chapter": 20,
+  "verse": 22,
+  "text_original": "Y como hubo dicho esto, sopló, y díjoles: Tomad el Espíritu Santo:",
+  "text_modernized": "Y como hubo dicho esto, sopló, y díjoles: Tomad el Espíritu Santo:",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.451755Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 14,
+  "verse": 22,
+  "text_original": "Mas su carne sobre él se dolerá, y entristecerse ha en él su alma.",
+  "text_modernized": "Mas su carne sobre él se dolerá, y entristecerse ha en él su alma.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.447762Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

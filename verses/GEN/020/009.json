@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 20,
+  "verse": 9,
+  "text_original": "Después llamó Abimelech á Abraham, y le dijo: ¿Qué nos has hecho? ¿y en qué pequé yo contra ti, que has atraído sobre mí y sobre mi reino tan gran pecado? lo que no debiste hacer has hecho conmigo.",
+  "text_modernized": "Después llamó Abimelech á Abraham, y le dijo: ¿Qué nos has hecho? ¿y en qué pequé yo contra ti, que has atraído sobre mí y sobre mi reino tan gran pecado? lo que no debiste hacer has hecho conmigo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:02.857068Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "book": "EZK",
+  "chapter": 39,
+  "verse": 17,
+  "text_original": "Y tú, hijo del hombre, así ha dicho el Señor Jehová: Di á las aves, á todo volátil, y á toda bestia del campo: Juntaos, y venid; reuníos de todas partes á mi víctima que os sacrifico, un sacrificio grande sobre los montes de Israel, y comeréis carne y beberéis sangre.",
+  "text_modernized": "Y tú, hijo del hombre, así ha dicho el Señor Jehová: Di á las aves, á todo volátil, y á toda bestia del campo: Juntaos, y venid; reuníos de todas partes á mi víctima que os sacrifico, un sacrificio grande sobre los montes de Israel, y comeréis carne y beberéis sangre.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.182562Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    },
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "JER",
+  "chapter": 17,
+  "verse": 1,
+  "text_original": "EL pecado de Judá escrito está con cincel de hierro, [y] con punta de diamante: esculpido está en la tabla de su corazón, y en los lados de vuestros altares;",
+  "text_modernized": "EL pecado de Judá escrito está con cincel de hierro, [y] con punta de diamante: esculpido está en la tabla de su corazón, y en los lados de vuestros altares;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.658169Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

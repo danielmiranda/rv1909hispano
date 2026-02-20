@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 8,
+  "verse": 24,
+  "text_original": "Hizo llegar luego los hijos de Aarón, y puso Moisés de la sangre sobre la ternilla de sus orejas derechas, y sobre los pulgares de sus manos derechas, y sobre los pulgares de sus pies derechos: y roció Moisés la sangre sobre el altar en derredor;",
+  "text_modernized": "Hizo llegar luego los hijos de Aarón, y puso Moisés de la sangre sobre la ternilla de sus orejas derechas, y sobre los pulgares de sus manos derechas, y sobre los pulgares de sus pies derechos: y roció Moisés la sangre sobre el altar en derredor;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.474330Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

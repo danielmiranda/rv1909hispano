@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 61,
+  "verse": 1,
+  "text_original": "EL espíritu del Señor Jehová es sobre mí, porque me ungió Jehová; hame enviado á predicar buenas nuevas á los abatidos, á vendar á los quebrantados de corazón, á publicar libertad á los cautivos, y á los presos abertura de la cárcel;",
+  "text_modernized": "EL espíritu del Señor Jehová es sobre mí, porque me ungió Jehová; hame enviado á predicar buenas nuevas á los abatidos, á vendar á los quebrantados de corazón, á publicar libertad á los cautivos, y á los presos abertura de la cárcel;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.518495Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

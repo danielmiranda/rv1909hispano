@@ -1,0 +1,25 @@
+{
+  "book": "ROM",
+  "chapter": 8,
+  "verse": 4,
+  "text_original": "Para que la justicia de la ley fuese cumplida en nosotros, que no andamos conforme á la carne, mas conforme al espíritu.",
+  "text_modernized": "Para que la justicia de la ley fuese cumplida en nosotros, que no andamos conforme á la carne, mas conforme al espíritu.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.761339Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

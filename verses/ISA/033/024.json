@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 33,
+  "verse": 24,
+  "text_original": "No dirá el morador: Estoy enfermo: el pueblo que morare en ella será absuelto de pecado.",
+  "text_modernized": "No dirá el morador: Estoy enfermo: el pueblo que morare en ella será absuelto de pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.383237Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

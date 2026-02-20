@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 6,
+  "verse": 11,
+  "text_original": "Y esto erais algunos: mas [ya] sois lavados, mas [ya] sois santificados, mas [ya] sois justificados en el nombre del Señor Jesús, y por el Espíritu de nuestro Dios.",
+  "text_modernized": "Y esto erais algunos: mas [ya] sois lavados, mas [ya] sois santificados, mas [ya] sois justificados en el nombre del Señor Jesús, y por el Espíritu de nuestro Dios.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.841451Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

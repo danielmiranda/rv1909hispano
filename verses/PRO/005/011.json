@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 5,
+  "verse": 11,
+  "text_original": "Y gimas en tus postrimerías, cuando se consumiere tu carne y tu cuerpo,",
+  "text_modernized": "Y gimas en tus postrimerías, cuando se consumiere tu carne y tu cuerpo,",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.460462Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "HEB",
+  "chapter": 9,
+  "verse": 22,
+  "text_original": "Y casi todo es purificado según la ley con sangre; y sin derramamiento de sangre no se hace remisión.",
+  "text_modernized": "Y casi todo es purificado según la ley con sangre; y sin derramamiento de sangre no se hace remisión.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.242799Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

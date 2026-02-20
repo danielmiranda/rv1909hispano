@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 16,
+  "verse": 18,
+  "text_original": "¡Oh tierra! no cubras mi sangre, y no haya lugar á mi clamor.",
+  "text_modernized": "¡Oh tierra! no cubras mi sangre, y no haya lugar á mi clamor.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.457223Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

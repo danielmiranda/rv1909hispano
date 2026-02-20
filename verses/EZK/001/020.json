@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 1,
+  "verse": 20,
+  "text_original": "Hacia donde el espíritu era que anduviesen, andaban; hacia donde era el espíritu que anduviesen, las ruedas también se levantaban tras ellos; porque el espíritu de los animales estaba en las ruedas.",
+  "text_modernized": "Hacia donde el espíritu era que anduviesen, andaban; hacia donde era el espíritu que anduviesen, las ruedas también se levantaban tras ellos; porque el espíritu de los animales estaba en las ruedas.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.946334Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

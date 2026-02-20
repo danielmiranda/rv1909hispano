@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 17,
+  "verse": 4,
+  "text_original": "Y será que en aquel tiempo la gloria de Jacob se atenuará, y enflaqueceráse la grosura de su carne.",
+  "text_modernized": "Y será que en aquel tiempo la gloria de Jacob se atenuará, y enflaqueceráse la grosura de su carne.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.303193Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

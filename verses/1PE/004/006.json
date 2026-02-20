@@ -1,0 +1,25 @@
+{
+  "book": "1PE",
+  "chapter": 4,
+  "verse": 6,
+  "text_original": "Porque por esto también ha sido predicado el evangelio á los muertos; para que sean juzgados en carne según los hombres, y vivan en espíritu según Dios.",
+  "text_modernized": "Porque por esto también ha sido predicado el evangelio á los muertos; para que sean juzgados en carne según los hombres, y vivan en espíritu según Dios.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.315569Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 2,
+  "verse": 33,
+  "text_original": "Así que, levantado por la diestra de Dios, y recibiendo del Padre la promesa del Espíritu Santo, ha derramado esto que vosotros veis y oís.",
+  "text_modernized": "Así que, levantado por la diestra de Dios, y recibiendo del Padre la promesa del Espíritu Santo, ha derramado esto que vosotros veis y oís.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.494650Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

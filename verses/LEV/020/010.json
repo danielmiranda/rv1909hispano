@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 20,
+  "verse": 10,
+  "text_original": "Y el hombre que adulterare con la mujer de otro, el que cometiere adulterio con la mujer de su prójimo, indefectiblemente se hará morir al adúltero y á la adúltera.",
+  "text_modernized": "Y el hombre que adulterare con la mujer de otro, el que cometiere adulterio con la mujer de su prójimo, indefectiblemente se hará morir al adúltero y á la adúltera.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.087005Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 46,
+  "verse": 20,
+  "text_original": "Y díjome: Este es el lugar donde los sacerdotes cocerán el [sacrificio por] el pecado y la expiación: allí cocerán el presente, por no sacarlo al atrio de afuera para santificar al pueblo.",
+  "text_modernized": "Y díjome: Este es el lugar donde los sacerdotes cocerán el [sacrificio por] el pecado y la expiación: allí cocerán el presente, por no sacarlo al atrio de afuera para santificar al pueblo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.232134Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

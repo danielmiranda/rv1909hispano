@@ -1,0 +1,20 @@
+{
+  "book": "GAL",
+  "chapter": 3,
+  "verse": 14,
+  "text_original": "Para que la bendición de Abraham fuese sobre los Gentiles en Cristo Jesús; para que por la fe recibamos la promesa del Espíritu.",
+  "text_modernized": "Para que la bendición de Abraham fuese sobre los Gentiles en Cristo Jesús; para que por la fe recibamos la promesa del Espíritu.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.997354Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

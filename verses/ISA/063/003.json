@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 63,
+  "verse": 3,
+  "text_original": "Pisado he yo solo el lagar, y de los pueblos nadie fué conmigo: pisélos con mi ira, y hollélos con mi furor; y su sangre salpicó mis vestidos, y ensucié todas mis ropas.",
+  "text_modernized": "Pisado he yo solo el lagar, y de los pueblos nadie fue conmigo: pisélos con mi ira, y hollélos con mi furor; y su sangre salpicó mis vestidos, y ensucié todas mis ropas.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.523938Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 4,
+  "verse": 7,
+  "text_original": "Si bien hicieres, ¿no serás ensalzado? y si no hicieres bien, el pecado está á la puerta: con todo esto, á ti será su deseo, y tú te enseñorearás de él.",
+  "text_modernized": "Si bien hicieres, ¿no serás ensalzado? y si no hicieres bien, el pecado está á la puerta: con todo esto, á ti será su deseo, y tú te enseñorearás de él.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:02.762659Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

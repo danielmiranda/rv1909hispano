@@ -1,0 +1,20 @@
+{
+  "book": "JDG",
+  "chapter": 11,
+  "verse": 27,
+  "text_original": "Así que, yo nada he pecado contra ti, mas tú haces mal conmigo haciéndome guerra: Jehová, que es el juez, juzgue hoy entre los hijos de Israel y los hijos de Ammón.",
+  "text_modernized": "Así que, yo nada he pecado contra ti, mas tú haces mal conmigo haciéndome guerra: Jehová, que es el juez, juzgue hoy entre los hijos de Israel y los hijos de Ammón.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.943494Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

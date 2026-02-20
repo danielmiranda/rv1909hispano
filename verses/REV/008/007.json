@@ -1,0 +1,20 @@
+{
+  "book": "REV",
+  "chapter": 8,
+  "verse": 7,
+  "text_original": "Y el primer ángel tocó la trompeta, y fué hecho granizo y fuego, mezclado con sangre, y fueron arrojados á la tierra; y la tercera parte de los árboles fué quemada, y quemóse toda la hierba verde.",
+  "text_modernized": "Y el primer ángel tocó la trompeta, y fue hecho granizo y fuego, mezclado con sangre, y fueron arrojados á la tierra; y la tercera parte de los árboles fue quemada, y quemóse toda la hierba verde.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.419240Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

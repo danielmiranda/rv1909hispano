@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 17,
+  "verse": 16,
+  "text_original": "Y esperándolos Pablo en Atenas, su espíritu se deshacía en él viendo la ciudad dada á idolatría.",
+  "text_modernized": "Y esperándolos Pablo en Atenas, su espíritu se deshacía en él viendo la ciudad dada á idolatría.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.628252Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

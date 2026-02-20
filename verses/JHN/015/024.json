@@ -1,0 +1,20 @@
+{
+  "book": "JHN",
+  "chapter": 15,
+  "verse": 24,
+  "text_original": "Si no hubiese hecho entre ellos obras cuales ningún otro ha hecho, no tendrían pecado; mas ahora, y [las] han visto, y me aborrecen á mí y á mi Padre.",
+  "text_modernized": "Si no hubiese hecho entre ellos obras cuales ningún otro ha hecho, no tendrían pecado; mas ahora, y [las] han visto, y me aborrecen á mí y á mi Padre.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.418490Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

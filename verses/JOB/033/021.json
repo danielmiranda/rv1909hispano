@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 33,
+  "verse": 21,
+  "text_original": "Su carne desfallece sin verse, y sus huesos, que antes no se veían, aparecen.",
+  "text_modernized": "Su carne desfallece sin verse, y sus huesos, que antes no se veían, aparecen.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.535864Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 25,
+  "verse": 14,
+  "text_original": "Y cuando vendiereis algo á vuestro prójimo, ó comprareis de mano de vuestro prójimo, no engañe ninguno á su hermano:",
+  "text_modernized": "Y cuando vendiereis algo á vuestro prójimo, ó comprareis de mano de vuestro prójimo, no engañe ninguno á su hermano:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.122634Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

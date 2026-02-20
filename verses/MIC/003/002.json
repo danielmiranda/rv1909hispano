@@ -1,0 +1,20 @@
+{
+  "book": "MIC",
+  "chapter": 3,
+  "verse": 2,
+  "text_original": "Que aborrecen lo bueno y aman lo malo, que les quitan su piel y su carne de sobre los huesos;",
+  "text_modernized": "Que aborrecen lo bueno y aman lo malo, que les quitan su piel y su carne de sobre los huesos;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.467019Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

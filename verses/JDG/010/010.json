@@ -1,0 +1,20 @@
+{
+  "book": "JDG",
+  "chapter": 10,
+  "verse": 10,
+  "text_original": "Y los hijos de Israel clamaron á Jehová, diciendo: Nosotros hemos pecado contra ti; porque hemos dejado á nuestro Dios, y servido á los Baales.",
+  "text_modernized": "Y los hijos de Israel clamaron á Jehová, diciendo: Nosotros hemos pecado contra ti; porque hemos dejado á nuestro Dios, y servido á los Baales.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.934886Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

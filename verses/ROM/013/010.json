@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 13,
+  "verse": 10,
+  "text_original": "La caridad no hace mal al prójimo: así que, el cumplimento de la ley es la caridad.",
+  "text_modernized": "La caridad no hace mal al prójimo: así que, el cumplimento de la ley es la caridad.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.795287Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

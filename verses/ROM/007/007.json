@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 7,
+  "verse": 7,
+  "text_original": "¿Qué pues diremos? ¿La ley es pecado? En ninguna manera. Empero yo no conocí el pecado sino por la ley: porque tampoco conociera la concupiscencia, si la ley no dijera: No codiciarás.",
+  "text_modernized": "¿Qué pues diremos? ¿La ley es pecado? En ninguna manera. Empero yo no conocí el pecado sino por la ley: porque tampoco conociera la concupiscencia, si la ley no dijera: No codiciarás.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.755344Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

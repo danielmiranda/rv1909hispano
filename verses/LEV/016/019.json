@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 16,
+  "verse": 19,
+  "text_original": "Y esparcirá sobre él de la sangre con su dedo siete veces, y lo limpiará, y lo santificará de las inmundicias de los hijos de Israel.",
+  "text_modernized": "Y esparcirá sobre él de la sangre con su dedo siete veces, y lo limpiará, y lo santificará de las inmundicias de los hijos de Israel.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.544905Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

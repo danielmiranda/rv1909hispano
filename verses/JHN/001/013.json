@@ -1,0 +1,25 @@
+{
+  "book": "JHN",
+  "chapter": 1,
+  "verse": 13,
+  "text_original": "Los cuales no son engendrados de sangre, ni de voluntad de carne, ni de voluntad de varón, mas de Dios.",
+  "text_modernized": "Los cuales no son engendrados de sangre, ni de voluntad de carne, ni de voluntad de varón, mas de Dios.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.285691Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    },
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

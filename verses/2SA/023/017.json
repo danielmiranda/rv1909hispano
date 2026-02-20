@@ -1,0 +1,20 @@
+{
+  "book": "2SA",
+  "chapter": 23,
+  "verse": 17,
+  "text_original": "Lejos sea de mí, oh Jehová, que yo haga esto. ¿[He de beber yo] la sangre de los varones que fueron con peligro de su vida? Y no quiso beberla. Los tres valientes hicieron esto.",
+  "text_modernized": "Lejos sea de mí, oh Jehová, que yo haga esto. ¿[He de beber yo] la sangre de los varones que fueron con peligro de su vida? Y no quiso beberla. Los tres valientes hicieron esto.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.391180Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

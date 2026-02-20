@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 23,
+  "verse": 9,
+  "text_original": "Y levantóse un gran clamor: y levantándose los escribas de la parte de los Fariseos, contendían diciendo: Ningún mal hallamos en este hombre; que si espíritu le ha hablado, ó ángel, no resistamos á Dios.",
+  "text_modernized": "Y levantóse un gran clamor: y levantándose los escribas de la parte de los Fariseos, contendían diciendo: Ningún mal hallamos en este hombre; que si espíritu le ha hablado, ó ángel, no resistamos á Dios.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.673320Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

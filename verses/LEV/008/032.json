@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 8,
+  "verse": 32,
+  "text_original": "Y lo que sobrare de la carne y del pan, habéis de quemarlo al fuego.",
+  "text_modernized": "Y lo que sobrare de la carne y del pan, habéis de quemarlo al fuego.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.476529Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

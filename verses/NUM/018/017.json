@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 18,
+  "verse": 17,
+  "text_original": "Mas el primogénito de vaca, y el primogénito de oveja, y el primogénito de cabra, no redimirás; santificados son: la sangre de ellos rociarás sobre el altar, y quemarás la grosura de ellos, ofrenda encendida en olor suave á Jehová.",
+  "text_modernized": "Mas el primogénito de vaca, y el primogénito de oveja, y el primogénito de cabra, no redimirás; santificados son: la sangre de ellos rociarás sobre el altar, y quemarás la grosura de ellos, ofrenda encendida en olor suave á Jehová.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.298443Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

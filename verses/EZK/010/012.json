@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 10,
+  "verse": 12,
+  "text_original": "Y toda su carne, y sus costillas, y sus manos, y sus alas, y las ruedas, lleno estaba de ojos alrededor en sus cuatro ruedas.",
+  "text_modernized": "Y toda su carne, y sus costillas, y sus manos, y sus alas, y las ruedas, lleno estaba de ojos alrededor en sus cuatro ruedas.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.982214Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 9,
+  "verse": 42,
+  "text_original": "Y como aun se acercaba, el demonio le derribó y despedazó: mas Jesús increpó al espíritu inmundo, y sanó al muchacho, y se lo volvió á su padre.",
+  "text_modernized": "Y como aun se acercaba, el demonio le derribó y despedazó: mas Jesús increpó al espíritu inmundo, y sanó al muchacho, y se lo volvió á su padre.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.122393Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

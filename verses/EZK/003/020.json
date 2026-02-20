@@ -1,0 +1,25 @@
+{
+  "book": "EZK",
+  "chapter": 3,
+  "verse": 20,
+  "text_original": "Y cuando el justo se apartare de su justicia, é hiciere maldad, y pusiere yo tropiezo delante de él, él morirá, porque tú no le amonestaste; en su pecado morirá, y sus justicias que había hecho no vendrán en memoria; mas su sangre demandaré de tu mano.",
+  "text_modernized": "Y cuando el justo se apartare de su justicia, é hiciere maldad, y pusiere yo tropiezo delante de él, él morirá, porque tú no le amonestaste; en su pecado morirá, y sus justicias que había hecho no vendrán en memoria; mas su sangre demandaré de tu mano.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.954396Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    },
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

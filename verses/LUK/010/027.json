@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 10,
+  "verse": 27,
+  "text_original": "Y él respondiendo, dijo: Amarás al Señor tu Dios de todo tu corazón, y de toda tu alma, y de todas tus fuerzas, y de todo tu entendimiento; y á tu prójimo como á ti mismo.",
+  "text_modernized": "Y él respondiendo, dijo: Amarás al Señor tu Dios de todo tu corazón, y de toda tu alma, y de todas tus fuerzas, y de todo tu entendimiento; y á tu prójimo como á ti mismo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.148806Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

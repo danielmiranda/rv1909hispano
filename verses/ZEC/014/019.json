@@ -1,0 +1,20 @@
+{
+  "book": "ZEC",
+  "chapter": 14,
+  "verse": 19,
+  "text_original": "Esta será [la pena] del pecado de Egipto, y del pecado de todas las gentes que no subieren á celebrar la fiesta de las Cabañas.",
+  "text_modernized": "Esta será [la pena] del pecado de Egipto, y del pecado de todas las gentes que no subieren á celebrar la fiesta de las Cabañas.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.571835Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 12,
+  "verse": 11,
+  "text_original": "En el cuidado no perezosos; ardientes en espíritu; sirviendo al Señor;",
+  "text_modernized": "En el cuidado no perezosos; ardientes en espíritu; sirviendo al Señor;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.790443Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

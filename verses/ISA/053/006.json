@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 53,
+  "verse": 6,
+  "text_original": "Todos nosotros nos descarriamos como ovejas, cada cual se apartó por su camino: mas Jehová cargó en él el pecado de todos nosotros.",
+  "text_modernized": "Todos nosotros nos descarriamos como ovejas, cada cual se apartó por su camino: mas Jehová cargó en él el pecado de todos nosotros.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.487883Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

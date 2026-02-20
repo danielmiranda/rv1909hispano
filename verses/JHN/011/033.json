@@ -1,0 +1,20 @@
+{
+  "book": "JHN",
+  "chapter": 11,
+  "verse": 33,
+  "text_original": "Jesús entonces, como la vió llorando, y á los Judíos que habían venido juntamente con ella llorando, se conmovió en espíritu, y turbóse,",
+  "text_modernized": "Jesús entonces, como la vió llorando, y á los Judíos que habían venido juntamente con ella llorando, se conmovió en espíritu, y turbóse,",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.385500Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

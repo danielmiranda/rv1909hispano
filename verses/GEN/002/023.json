@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 2,
+  "verse": 23,
+  "text_original": "Y dijo Adam: Esto es ahora hueso de mis huesos, y carne de mi carne: ésta será llamada Varona, porque del varón fué tomada.",
+  "text_modernized": "Y dijo Adam: Esto es ahora hueso de mis huesos, y carne de mi carne: ésta será llamada Varona, porque del varón fue tomada.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:02.753053Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

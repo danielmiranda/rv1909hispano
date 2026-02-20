@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 8,
+  "verse": 13,
+  "text_original": "Por lo cual, si la comida es á mi hermano ocasión de caer, jamás comeré carne por no escandalizar á mi hermano.",
+  "text_modernized": "Por lo cual, si la comida es á mi hermano ocasión de caer, jamás comeré carne por no escandalizar á mi hermano.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.855193Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

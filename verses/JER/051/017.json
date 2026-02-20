@@ -1,0 +1,20 @@
+{
+  "book": "JER",
+  "chapter": 51,
+  "verse": 17,
+  "text_original": "Todo hombre se ha infatuado y [es] sin ciencia: avergüénzase todo artífice de la escultura, porque mentira es su vaciadizo, que no tiene espíritu.",
+  "text_modernized": "Todo hombre se ha infatuado y [es] sin ciencia: avergüénzase todo artífice de la escultura, porque mentira es su vaciadizo, que no tiene espíritu.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.892343Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

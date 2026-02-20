@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 8,
+  "verse": 14,
+  "text_original": "Porque todos los que son guiados por el Espíritu de Dios, los tales son hijos de Dios.",
+  "text_modernized": "Porque todos los que son guiados por el Espíritu de Dios, los tales son hijos de Dios.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.763313Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

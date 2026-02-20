@@ -1,0 +1,20 @@
+{
+  "book": "MRK",
+  "chapter": 5,
+  "verse": 8,
+  "text_original": "Porque le decía: Sal de este hombre, espíritu inmundo.",
+  "text_modernized": "Porque le decía: Sal de este hombre, espíritu inmundo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.870072Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

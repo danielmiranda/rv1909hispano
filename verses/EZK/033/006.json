@@ -1,0 +1,25 @@
+{
+  "book": "EZK",
+  "chapter": 33,
+  "verse": 6,
+  "text_original": "Pero si el atalaya viere venir la espada, y no tocare la corneta, y el pueblo no se apercibiere, y viniendo la espada, tomare de él alguno; él por causa de su pecado fué tomado, mas demandaré su sangre de mano del atalaya.",
+  "text_modernized": "Pero si el atalaya viere venir la espada, y no tocare la corneta, y el pueblo no se apercibiere, y viniendo la espada, tomare de él alguno; él por causa de su pecado fue tomado, mas demandaré su sangre de mano del atalaya.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.142673Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    },
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "NEH",
+  "chapter": 4,
+  "verse": 5,
+  "text_original": "Y no cubras su iniquidad, ni su pecado sea raído delante de tu rostro; porque se airaron contra los que edificaban.",
+  "text_modernized": "Y no cubras su iniquidad, ni su pecado sea raído delante de tu rostro; porque se airaron contra los que edificaban.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.264622Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

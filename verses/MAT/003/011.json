@@ -1,0 +1,20 @@
+{
+  "book": "MAT",
+  "chapter": 3,
+  "verse": 11,
+  "text_original": "Yo á la verdad os bautizo en agua para arrepentimiento; mas el que viene tras mí, más poderoso es que yo; los zapatos del cual yo no soy digno de llevar; él os bautizará en Espíritu Santo y [en] fuego.",
+  "text_modernized": "Yo á la verdad os bautizo en agua para arrepentimiento; mas el que viene tras mí, más poderoso es que yo; los zapatos del cual yo no soy digno de llevar; él os bautizará en Espíritu Santo y [en] fuego.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.617050Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

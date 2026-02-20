@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 37,
+  "verse": 7,
+  "text_original": "He aquí que yo doy en él un espíritu, y oirá un rumor, y volveráse á su tierra: y yo haré que en su tierra caiga á cuchillo.",
+  "text_modernized": "He aquí que yo doy en él un espíritu, y oirá un rumor, y volveráse á su tierra: y yo haré que en su tierra caiga á cuchillo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.396538Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

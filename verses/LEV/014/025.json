@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 14,
+  "verse": 25,
+  "text_original": "Luego degollará el cordero de la culpa, y tomará el sacerdote de la sangre de la culpa, y pondrá sobre la ternilla de la oreja derecha del que se purifica, y sobre el pulgar de su mano derecha, y sobre el pulgar de su pie derecho.",
+  "text_modernized": "Luego degollará el cordero de la culpa, y tomará el sacerdote de la sangre de la culpa, y pondrá sobre la ternilla de la oreja derecha del que se purifica, y sobre el pulgar de su mano derecha, y sobre el pulgar de su pie derecho.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.522597Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

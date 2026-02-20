@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 45,
+  "verse": 19,
+  "text_original": "Y el sacerdote tomará de la sangre de la expiación, y pondrá sobre los postes de la casa, y sobre los cuatro ángulos del área del altar, y sobre los postes de las puertas del atrio de adentro.",
+  "text_modernized": "Y el sacerdote tomará de la sangre de la expiación, y pondrá sobre los postes de la casa, y sobre los cuatro ángulos del área del altar, y sobre los postes de las puertas del atrio de adentro.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.225192Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

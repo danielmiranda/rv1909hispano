@@ -1,0 +1,20 @@
+{
+  "book": "DEU",
+  "chapter": 19,
+  "verse": 15,
+  "text_original": "No valdrá un testigo contra ninguno en cualquier delito, ó en cualquier pecado, en cualquier pecado que se cometiere. En el dicho de dos testigos, ó en el dicho de tres testigos consistirá el negocio.",
+  "text_modernized": "No valdrá un testigo contra ninguno en cualquier delito, ó en cualquier pecado, en cualquier pecado que se cometiere. En el dicho de dos testigos, ó en el dicho de tres testigos consistirá el negocio.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.579727Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

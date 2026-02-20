@@ -1,0 +1,20 @@
+{
+  "book": "1KI",
+  "chapter": 18,
+  "verse": 9,
+  "text_original": "Pero él dijo: ¿En qué he pecado, para que tú entregues tu siervo en mano de Achâb para que me mate?",
+  "text_modernized": "Pero él dijo: ¿En qué he pecado, para que tú entregues tu siervo en mano de Achâb para que me mate?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.541488Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

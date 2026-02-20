@@ -1,0 +1,25 @@
+{
+  "book": "ROM",
+  "chapter": 7,
+  "verse": 23,
+  "text_original": "Mas veo otra ley en mis miembros, que se rebela contra la ley de mi espíritu, y que me lleva cautivo á la ley del pecado que está en mis miembros.",
+  "text_modernized": "Mas veo otra ley en mis miembros, que se rebela contra la ley de mi espíritu, y que me lleva cautivo á la ley del pecado que está en mis miembros.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.759425Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

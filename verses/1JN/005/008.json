@@ -1,0 +1,25 @@
+{
+  "book": "1JN",
+  "chapter": 5,
+  "verse": 8,
+  "text_original": "Y tres son los que dan testimonio en la tierra, el Espíritu, y el agua, y la sangre: y estos tres concuerdan en uno.",
+  "text_modernized": "Y tres son los que dan testimonio en la tierra, el Espíritu, y el agua, y la sangre: y estos tres concuerdan en uno.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.373790Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 42,
+  "verse": 5,
+  "text_original": "Así dice el Dios Jehová, el Criador de los cielos, y el que los extiende; el que extiende la tierra y sus verduras; el que da respiración al pueblo que [mora] sobre ella, y espíritu á los que por ella andan:",
+  "text_modernized": "Así dice el Dios Jehová, el Criador de los cielos, y el que los extiende; el que extiende la tierra y sus verduras; el que da respiración al pueblo que [mora] sobre ella, y espíritu á los que por ella andan:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.425117Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

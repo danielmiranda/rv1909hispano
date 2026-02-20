@@ -1,0 +1,20 @@
+{
+  "book": "1CH",
+  "chapter": 12,
+  "verse": 18,
+  "text_original": "Entonces se envistió el espíritu en Amasai, príncipe de treinta, [y dijo]: Por ti, oh David, y contigo, oh hijo de Isaí. Paz, paz contigo, y paz con tus ayudadores; pues que también tu Dios te ayuda. Y David los recibió, y púsolos entre los capitanes de la cuadrilla.",
+  "text_modernized": "Entonces se envistió el espíritu en Amasai, príncipe de treinta, [y dijo]: Por ti, oh David, y contigo, oh hijo de Isaí. Paz, paz contigo, y paz con tus ayudadores; pues que también tu Dios te ayuda. Y David los recibió, y púsolos entre los capitanes de la cuadrilla.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.883697Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

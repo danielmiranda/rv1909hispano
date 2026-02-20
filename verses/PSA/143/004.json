@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 143,
+  "verse": 4,
+  "text_original": "Y mi espíritu se angustió dentro de mí; pasmóse mi corazón.",
+  "text_modernized": "Y mi espíritu se angustió dentro de mí; pasmóse mi corazón.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.412417Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

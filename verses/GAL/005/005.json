@@ -1,0 +1,20 @@
+{
+  "book": "GAL",
+  "chapter": 5,
+  "verse": 5,
+  "text_original": "Porque nosotros por el Espíritu esperamos la esperanza de la justicia por la fe.",
+  "text_modernized": "Porque nosotros por el Espíritu esperamos la esperanza de la justicia por la fe.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.010258Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

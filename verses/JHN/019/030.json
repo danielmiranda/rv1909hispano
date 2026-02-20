@@ -1,0 +1,20 @@
+{
+  "book": "JHN",
+  "chapter": 19,
+  "verse": 30,
+  "text_original": "Y como Jesús tomó el vinagre, dijo: Consumado es. Y habiendo inclinado la cabeza, dió el espíritu.",
+  "text_modernized": "Y como Jesús tomó el vinagre, dijo: Consumado es. Y habiendo inclinado la cabeza, dió el espíritu.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.445081Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

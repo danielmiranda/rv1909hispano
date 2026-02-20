@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 1,
+  "verse": 11,
+  "text_original": "Si dijeren: Ven con nosotros, pongamos asechanzas á la sangre, acechemos sin motivo al inocente;",
+  "text_modernized": "Si dijeren: Ven con nosotros, pongamos asechanzas á la sangre, acechemos sin motivo al inocente;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.436199Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "JHN",
+  "chapter": 16,
+  "verse": 13,
+  "text_original": "Pero cuando viniere aquel Espíritu de verdad, él os guiará á toda verdad; porque no hablará de sí mismo, sino que hablará todo lo que oyere, y os hará saber las cosas que han de venir.",
+  "text_modernized": "Pero cuando viniere aquel Espíritu de verdad, él os guiará á toda verdad; porque no hablará de sí mismo, sino que hablará todo lo que oyere, y os hará saber las cosas que han de venir.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.421402Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

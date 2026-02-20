@@ -1,0 +1,20 @@
+{
+  "book": "DEU",
+  "chapter": 19,
+  "verse": 14,
+  "text_original": "No reducirás el término de tu prójimo, el cual señalaron los antiguos en tu heredad, la que poseyeres en la tierra que Jehová tu Dios te da para que la poseas.",
+  "text_modernized": "No reducirás el término de tu prójimo, el cual señalaron los antiguos en tu heredad, la que poseyeres en la tierra que Jehová tu Dios te da para que la poseas.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.579532Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

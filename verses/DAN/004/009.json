@@ -1,0 +1,20 @@
+{
+  "book": "DAN",
+  "chapter": 4,
+  "verse": 9,
+  "text_original": "Beltsasar, príncipe de los magos, ya que he entendido que hay en ti espíritu de los dioses santos, y que ningún misterio se te esconde, exprésame las visiones de mi sueño que he visto, y su declaración.",
+  "text_modernized": "Beltsasar, príncipe de los magos, ya que he entendido que hay en ti espíritu de los dioses santos, y que ningún misterio se te esconde, exprésame las visiones de mi sueño que he visto, y su declaración.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.271236Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

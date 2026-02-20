@@ -1,0 +1,20 @@
+{
+  "book": "JHN",
+  "chapter": 1,
+  "verse": 33,
+  "text_original": "Y yo no le conocía; mas el que me envió á bautizar con agua, aquél me dijo: Sobre quien vieres descender el Espíritu, y que reposa sobre él, éste es el que bautiza con Espíritu Santo.",
+  "text_modernized": "Y yo no le conocía; mas el que me envió á bautizar con agua, aquél me dijo: Sobre quien vieres descender el Espíritu, y que reposa sobre él, éste es el que bautiza con Espíritu Santo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.289654Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 30,
+  "verse": 16,
+  "text_original": "Mas si las anulare después de haberlas oído, entonces él llevará el pecado de ella. Estas son las ordenanzas que Jehová mandó á Moisés entre el varón y su mujer, entre el padre y su hija, durante su mocedad en casa de su padre.",
+  "text_modernized": "Mas si las anulare después de haberlas oído, entonces él llevará el pecado de ella. Estas son las ordenanzas que Jehová mandó á Moisés entre el varón y su mujer, entre el padre y su hija, durante su mocedad en casa de su padre.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.403484Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

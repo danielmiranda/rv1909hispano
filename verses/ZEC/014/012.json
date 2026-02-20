@@ -1,0 +1,20 @@
+{
+  "book": "ZEC",
+  "chapter": 14,
+  "verse": 12,
+  "text_original": "Y esta será la plaga con que herirá Jehová á todos los pueblos que pelearon contra Jerusalem: la carne de ellos se disolverá estando ellos sobre sus pies, y se consumirán sus ojos en sus cuencas, y su lengua se les deshará en su boca.",
+  "text_modernized": "Y esta será la plaga con que herirá Jehová á todos los pueblos que pelearon contra Jerusalem: la carne de ellos se disolverá estando ellos sobre sus pies, y se consumirán sus ojos en sus cuencas, y su lengua se les deshará en su boca.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.570594Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

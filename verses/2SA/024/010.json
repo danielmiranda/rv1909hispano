@@ -1,0 +1,20 @@
+{
+  "book": "2SA",
+  "chapter": 24,
+  "verse": 10,
+  "text_original": "Y después que David hubo contado el pueblo, punzóle su corazón; y dijo David á Jehová: Yo he pecado gravemente por haber hecho [esto]; mas ahora, oh Jehová, ruégote que quites el pecado de tu siervo, porque yo he obrado muy neciamente.",
+  "text_modernized": "Y después que David hubo contado el pueblo, punzóle su corazón; y dijo David á Jehová: Yo he pecado gravemente por haber hecho [esto]; mas ahora, oh Jehová, ruégote que quites el pecado de tu siervo, porque yo he obrado muy neciamente.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.398400Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 4,
+  "verse": 26,
+  "text_original": "Y quemará todo su sebo sobre el altar, como el sebo del sacrificio de las paces: así hará el sacerdote por él la expiación de su pecado, y tendrá perdón.",
+  "text_modernized": "Y quemará todo su sebo sobre el altar, como el sebo del sacrificio de las paces: así hará el sacerdote por él la expiación de su pecado, y tendrá perdón.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.447104Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

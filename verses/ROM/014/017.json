@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 14,
+  "verse": 17,
+  "text_original": "Que el reino de Dios no es comida ni bebida, sino justicia y paz y gozo por el Espíritu Santo.",
+  "text_modernized": "Que el reino de Dios no es comida ni bebida, sino justicia y paz y gozo por el Espíritu Santo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.799629Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "book": "ROM",
+  "chapter": 8,
+  "verse": 10,
+  "text_original": "Empero si Cristo está en vosotros, el cuerpo á la verdad está muerto á causa del pecado; mas el espíritu vive á causa de la justicia.",
+  "text_modernized": "Empero si Cristo está en vosotros, el cuerpo á la verdad está muerto á causa del pecado; mas el espíritu vive á causa de la justicia.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.762591Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

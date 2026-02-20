@@ -1,0 +1,20 @@
+{
+  "book": "ZEC",
+  "chapter": 7,
+  "verse": 12,
+  "text_original": "Y pusieron su corazón como diamante, para no oir la ley ni las palabras que Jehová de los ejércitos enviaba por su espíritu, por mano de los profetas primeros: fué, por tanto, hecho grande castigo por Jehová de los ejércitos.",
+  "text_modernized": "Y pusieron su corazón como diamante, para no oir la ley ni las palabras que Jehová de los ejércitos enviaba por su espíritu, por mano de los profetas primeros: fue, por tanto, hecho grande castigo por Jehová de los ejércitos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.547403Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "2SA",
+  "chapter": 14,
+  "verse": 32,
+  "text_original": "Y Absalom respondió á Joab: He aquí, yo he enviado por ti, diciendo que vinieses acá, á fin de enviarte yo al rey á que le dijeses: ¿Para qué vine de Gessur? mejor me fuera estar aún allá. Vea yo ahora la cara del rey; y si hay en mí pecado, máteme.",
+  "text_modernized": "Y Absalom respondió á Joab: He aquí, yo he enviado por ti, diciendo que vinieses acá, á fin de enviarte yo al rey á que le dijeses: ¿Para qué vine de Gessur? mejor me fuera estar aún allá. Vea yo ahora la cara del rey; y si hay en mí pecado, máteme.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.304965Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "MRK",
+  "chapter": 1,
+  "verse": 26,
+  "text_original": "Y el espíritu inmundo, haciéndole pedazos, y clamando á gran voz, salió de él.",
+  "text_modernized": "Y el espíritu inmundo, haciéndole pedazos, y clamando á gran voz, salió de él.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.844909Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

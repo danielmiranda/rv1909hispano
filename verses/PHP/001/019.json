@@ -1,0 +1,20 @@
+{
+  "book": "PHP",
+  "chapter": 1,
+  "verse": 19,
+  "text_original": "Porque sé que esto se me tornará á salud, por vuestra oración, y por la suministración del Espíritu de Jesucristo;",
+  "text_modernized": "Porque sé que esto se me tornará á salud, por vuestra oración, y por la suministración del Espíritu de Jesucristo;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.069157Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

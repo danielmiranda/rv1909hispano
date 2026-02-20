@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 29,
+  "verse": 5,
+  "text_original": "El hombre que lisonjea á su prójimo, red tiende delante de sus pasos.",
+  "text_modernized": "El hombre que lisonjea á su prójimo, red tiende delante de sus pasos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.604429Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

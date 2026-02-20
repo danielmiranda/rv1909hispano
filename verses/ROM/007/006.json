@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 7,
+  "verse": 6,
+  "text_original": "Mas ahora estamos libres de la ley, habiendo muerto á aquella en la cual estábamos detenidos, para que sirvamos en novedad de espíritu, y no en vejez de letra.",
+  "text_modernized": "Mas ahora estamos libres de la ley, habiendo muerto á aquella en la cual estábamos detenidos, para que sirvamos en novedad de espíritu, y no en vejez de letra.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.755156Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

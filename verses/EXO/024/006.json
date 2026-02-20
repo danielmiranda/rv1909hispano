@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 24,
+  "verse": 6,
+  "text_original": "Y Moisés tomó la mitad de la sangre, y púsola en tazones, y esparció la otra mitad de la sangre sobre el altar.",
+  "text_modernized": "Y Moisés tomó la mitad de la sangre, y púsola en tazones, y esparció la otra mitad de la sangre sobre el altar.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.278909Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

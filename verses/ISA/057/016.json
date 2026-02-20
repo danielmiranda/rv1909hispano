@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 57,
+  "verse": 16,
+  "text_original": "Porque no tengo de contender para siempre, ni para siempre me he de enojar: pues decaería ante mí el espíritu, y las almas que yo he criado.",
+  "text_modernized": "Porque no tengo de contender para siempre, ni para siempre me he de enojar: pues decaería ante mí el espíritu, y las almas que yo he criado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.503737Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

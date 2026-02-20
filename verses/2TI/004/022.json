@@ -1,0 +1,20 @@
+{
+  "book": "2TI",
+  "chapter": 4,
+  "verse": 22,
+  "text_original": "El Señor Jesucristo sea con tu espíritu. La gracia sea con vosotros. Amén. La segunda [epístola] á Timoteo, el cual fué el primer obispo ordenado en Efeso, fué escrita de Roma, cuando Pablo fué presentado la segunda vez á César Nerón.",
+  "text_modernized": "El Señor Jesucristo sea con tu espíritu. La gracia sea con vosotros. Amén. La segunda [epístola] á Timoteo, el cual fue el primer obispo ordenado en Efeso, fue escrita de Roma, cuando Pablo fue presentado la segunda vez á César Nerón.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.186107Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

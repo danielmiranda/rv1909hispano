@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 29,
+  "verse": 16,
+  "text_original": "Y no será más á la casa de Israel por confianza, que haga acordar el pecado, mirando en pos de ellos; y sabrán que yo soy el Señor Jehová.",
+  "text_modernized": "Y no será más á la casa de Israel por confianza, que haga acordar el pecado, mirando en pos de ellos; y sabrán que yo soy el Señor Jehová.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.124381Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

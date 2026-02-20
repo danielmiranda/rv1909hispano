@@ -1,0 +1,25 @@
+{
+  "book": "JER",
+  "chapter": 31,
+  "verse": 34,
+  "text_original": "Y no enseñará más ninguno á su prójimo, ni ninguno á su hermano, diciendo: Conoce á Jehová: porque todos me conocerán, desde el más pequeño de ellos hasta el más grande, dice Jehová: porque perdonaré la maldad de ellos, y no me acordaré más de su pecado.",
+  "text_modernized": "Y no enseñará más ninguno á su prójimo, ni ninguno á su hermano, diciendo: Conoce á Jehová: porque todos me conocerán, desde el más pequeño de ellos hasta el más grande, dice Jehová: porque perdonaré la maldad de ellos, y no me acordaré más de su pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.756146Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    },
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

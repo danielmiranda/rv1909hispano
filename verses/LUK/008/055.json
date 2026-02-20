@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 8,
+  "verse": 55,
+  "text_original": "Entonces su espíritu volvió, y se levantó luego: y él mandó que le diesen de comer.",
+  "text_modernized": "Entonces su espíritu volvió, y se levantó luego: y él mandó que le diesen de comer.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.105441Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

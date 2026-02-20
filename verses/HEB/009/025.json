@@ -1,0 +1,20 @@
+{
+  "book": "HEB",
+  "chapter": 9,
+  "verse": 25,
+  "text_original": "Y no para ofrecerse muchas veces á sí mismo, como entra el pontífice en el santuario cada año con sangre ajena;",
+  "text_modernized": "Y no para ofrecerse muchas veces á sí mismo, como entra el pontífice en el santuario cada año con sangre ajena;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.243603Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

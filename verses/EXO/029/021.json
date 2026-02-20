@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 29,
+  "verse": 21,
+  "text_original": "Y tomarás de la sangre que hay sobre el altar, y del aceite de la unción, y esparcirás sobre Aarón, y sobre sus vestiduras, y sobre sus hijos, y sobre las vestimentas de éstos; y él será santificado, y sus vestiduras, y sus hijos, y las vestimentas de sus hijos con él.",
+  "text_modernized": "Y tomarás de la sangre que hay sobre el altar, y del aceite de la unción, y esparcirás sobre Aarón, y sobre sus vestiduras, y sobre sus hijos, y sobre las vestimentas de éstos; y él será santificado, y sus vestiduras, y sus hijos, y las vestimentas de sus hijos con él.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.316093Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

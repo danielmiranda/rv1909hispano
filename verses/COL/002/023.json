@@ -1,0 +1,20 @@
+{
+  "book": "COL",
+  "chapter": 2,
+  "verse": 23,
+  "text_original": "Tales cosas tienen á la verdad cierta reputación de sabiduría en culto voluntario, y humildad, y en duro trato del cuerpo; no en alguna honra para el saciar de la carne.",
+  "text_modernized": "Tales cosas tienen á la verdad cierta reputación de sabiduría en culto voluntario, y humildad, y en duro trato del cuerpo; no en alguna honra para el saciar de la carne.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.102438Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

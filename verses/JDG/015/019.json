@@ -1,0 +1,20 @@
+{
+  "book": "JDG",
+  "chapter": 15,
+  "verse": 19,
+  "text_original": "Entonces quebró Dios una muela que estaba en la quijada, y salieron de allí aguas, y bebió, y recobró su espíritu, y reanimóse. Por tanto llamó su nombre [de aquel lugar], En-haccore, el cual es en Lehi, hasta hoy.",
+  "text_modernized": "Entonces quebró Dios una muela que estaba en la quijada, y salieron de allí aguas, y bebió, y recobró su espíritu, y reanimóse. Por tanto llamó su nombre [de aquel lugar], En-haccore, el cual es en Lehi, hasta hoy.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.964663Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

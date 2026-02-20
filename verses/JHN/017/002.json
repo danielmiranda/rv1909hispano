@@ -1,0 +1,20 @@
+{
+  "book": "JHN",
+  "chapter": 17,
+  "verse": 2,
+  "text_original": "Como le has dado la potestad de toda carne, para que dé vida eterna á todos los que le diste.",
+  "text_modernized": "Como le has dado la potestad de toda carne, para que dé vida eterna á todos los que le diste.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.425936Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

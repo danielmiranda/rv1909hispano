@@ -1,0 +1,20 @@
+{
+  "book": "JER",
+  "chapter": 22,
+  "verse": 13,
+  "text_original": "¡Ay del que edifica su casa y no en justicia, y sus salas y no en juicio, sirviéndose de su prójimo de balde, y no dándole [el salario de] su trabajo!",
+  "text_modernized": "¡Ay del que edifica su casa y no en justicia, y sus salas y no en juicio, sirviéndose de su prójimo de balde, y no dándole [el salario de] su trabajo!",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.682278Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

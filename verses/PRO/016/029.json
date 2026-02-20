@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 16,
+  "verse": 29,
+  "text_original": "El hombre malo lisonjea á su prójimo, y le hace andar por el camino no bueno:",
+  "text_modernized": "El hombre malo lisonjea á su prójimo, y le hace andar por el camino no bueno:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.531963Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

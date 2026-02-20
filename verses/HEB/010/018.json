@@ -1,0 +1,20 @@
+{
+  "book": "HEB",
+  "chapter": 10,
+  "verse": 18,
+  "text_original": "Pues donde hay remisión de éstos, no hay más ofrenda por pecado.",
+  "text_modernized": "Pues donde hay remisión de éstos, no hay más ofrenda por pecado.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.248017Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

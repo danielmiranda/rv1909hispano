@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 12,
+  "verse": 8,
+  "text_original": "Porque á la verdad, á éste es dada por el Espíritu palabra de sabiduría; á otro, palabra de ciencia según el mismo Espíritu;",
+  "text_modernized": "Porque á la verdad, á éste es dada por el Espíritu palabra de sabiduría; á otro, palabra de ciencia según el mismo Espíritu;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.877104Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

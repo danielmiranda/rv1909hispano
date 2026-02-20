@@ -1,0 +1,20 @@
+{
+  "book": "2CO",
+  "chapter": 5,
+  "verse": 16,
+  "text_original": "De manera que nosotros de aquí adelante á nadie conocemos según la carne: y aun si á Cristo conocimos según la carne, empero ahora ya no [le] conocemos.",
+  "text_modernized": "De manera que nosotros de aquí adelante á nadie conocemos según la carne: y aun si á Cristo conocimos según la carne, empero ahora ya no [le] conocemos.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.945205Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 5,
+  "verse": 9,
+  "text_original": "Luego mucho más ahora, justificados en su sangre, por él seremos salvos de la ira.",
+  "text_modernized": "Luego mucho más ahora, justificados en su sangre, por él seremos salvos de la ira.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.743869Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

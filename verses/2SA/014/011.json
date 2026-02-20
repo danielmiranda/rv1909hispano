@@ -1,0 +1,20 @@
+{
+  "book": "2SA",
+  "chapter": 14,
+  "verse": 11,
+  "text_original": "Dijo ella entonces: Ruégote, oh rey, que te acuerdes de Jehová tu Dios, que no dejes á los cercanos de la sangre aumentar el daño con destruir á mi hijo. Y él respondió: Vive Jehová, que no caerá ni un cabello de la cabeza de tu hijo en tierra.",
+  "text_modernized": "Dijo ella entonces: Ruégote, oh rey, que te acuerdes de Jehová tu Dios, que no dejes á los cercanos de la sangre aumentar el daño con destruir á mi hijo. Y él respondió: Vive Jehová, que no caerá ni un cabello de la cabeza de tu hijo en tierra.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.300555Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

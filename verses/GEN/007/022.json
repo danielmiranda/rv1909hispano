@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 7,
+  "verse": 22,
+  "text_original": "Todo lo que tenía aliento de espíritu de vida en sus narices, de todo lo que había en la tierra, murió.",
+  "text_modernized": "Todo lo que tenía aliento de espíritu de vida en sus narices, de todo lo que había en la tierra, murió.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:02.785646Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

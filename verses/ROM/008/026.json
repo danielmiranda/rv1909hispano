@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 8,
+  "verse": 26,
+  "text_original": "Y asimismo también el Espíritu ayuda nuestra flaqueza: porque qué hemos de pedir como conviene, no lo sabemos; sino que el mismo Espíritu pide por nosotros con gemidos indecibles.",
+  "text_modernized": "Y asimismo también el Espíritu ayuda nuestra flaqueza: porque qué hemos de pedir como conviene, no lo sabemos; sino que el mismo Espíritu pide por nosotros con gemidos indecibles.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.765752Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

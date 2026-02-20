@@ -1,0 +1,20 @@
+{
+  "book": "DEU",
+  "chapter": 19,
+  "verse": 11,
+  "text_original": "Mas cuando hubiere alguno que aborreciere á su prójimo, y lo acechare, y se levantare sobre él, y lo hiriere de muerte, y muriere, y huyere á alguna de estas ciudades;",
+  "text_modernized": "Mas cuando hubiere alguno que aborreciere á su prójimo, y lo acechare, y se levantare sobre él, y lo hiriere de muerte, y muriere, y huyere á alguna de estas ciudades;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.579001Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

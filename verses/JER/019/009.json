@@ -1,0 +1,20 @@
+{
+  "book": "JER",
+  "chapter": 19,
+  "verse": 9,
+  "text_original": "Y haréles comer la carne de sus hijos y la carne de sus hijas; y cada uno comerá la carne de su amigo, en el cerco y en el apuro con que los estrecharán sus enemigos y los que buscan sus almas.",
+  "text_modernized": "Y haréles comer la carne de sus hijos y la carne de sus hijas; y cada uno comerá la carne de su amigo, en el cerco y en el apuro con que los estrecharán sus enemigos y los que buscan sus almas.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.670777Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

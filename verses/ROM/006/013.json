@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 6,
+  "verse": 13,
+  "text_original": "Ni tampoco presentéis vuestros miembros al pecado por instrumentos de iniquidad; antes presentaos á Dios como vivos de los muertos, y vuestros miembros á Dios por instrumentos de justicia.",
+  "text_modernized": "Ni tampoco presentéis vuestros miembros al pecado por instrumentos de iniquidad; antes presentaos á Dios como vivos de los muertos, y vuestros miembros á Dios por instrumentos de justicia.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.751844Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "1KI",
+  "chapter": 22,
+  "verse": 22,
+  "text_original": "Y él dijo: Yo saldré, y seré espíritu de mentira en boca de todos sus profetas. Y él dijo: Inducirlo has, y aun saldrás con ello; sal pues, y hazlo así.",
+  "text_modernized": "Y él dijo: Yo saldré, y seré espíritu de mentira en boca de todos sus profetas. Y él dijo: Inducirlo has, y aun saldrás con ello; sal pues, y hazlo así.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.577379Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

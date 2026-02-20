@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 4,
+  "verse": 8,
+  "text_original": "Entonces Pedro, lleno del Espíritu Santo, les dijo: Príncipes del pueblo, y ancianos de Israel:",
+  "text_modernized": "Entonces Pedro, lleno del Espíritu Santo, les dijo: Príncipes del pueblo, y ancianos de Israel:",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.504787Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 13,
+  "verse": 2,
+  "text_original": "Ministrando pues éstos al Señor, y ayunando, dijo el Espíritu Santo: Apartadme á Bernabé y á Saulo para la obra para la cual los he llamado.",
+  "text_modernized": "Ministrando pues éstos al Señor, y ayunando, dijo el Espíritu Santo: Apartadme á Bernabé y á Saulo para la obra para la cual los he llamado.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.578830Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

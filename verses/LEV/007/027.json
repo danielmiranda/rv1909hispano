@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 7,
+  "verse": 27,
+  "text_original": "Cualquiera persona que comiere alguna sangre, la tal persona será cortada de sus pueblos.",
+  "text_modernized": "Cualquiera persona que comiere alguna sangre, la tal persona será cortada de sus pueblos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.466368Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

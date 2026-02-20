@@ -1,0 +1,20 @@
+{
+  "book": "NEH",
+  "chapter": 10,
+  "verse": 33,
+  "text_original": "Para el pan de la proposición, y para la ofrenda continua, y para el holocausto continuo, de los sábados, y de las nuevas lunas, y de las festividades, y para las santificaciones y sacrificios por el pecado para expiar á Israel, y para toda la obra de la casa de nuestro Dios.",
+  "text_modernized": "Para el pan de la proposición, y para la ofrenda continua, y para el holocausto continuo, de los sábados, y de las nuevas lunas, y de las festividades, y para las santificaciones y sacrificios por el pecado para expiar á Israel, y para toda la obra de la casa de nuestro Dios.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.311796Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

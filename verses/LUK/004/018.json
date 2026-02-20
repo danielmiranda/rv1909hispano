@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 4,
+  "verse": 18,
+  "text_original": "El Espíritu del Señor es sobre mí, por cuanto me ha ungido para dar buenas nuevas á los pobres: me ha enviado para sanar á los quebrantados de corazón; para pregonar á los cautivos libertad, y á los ciegos vista; para poner en libertad á los quebrantados:",
+  "text_modernized": "El Espíritu del Señor es sobre mí, por cuanto me ha ungido para dar buenas nuevas á los pobres: me ha enviado para sanar á los quebrantados de corazón; para pregonar á los cautivos libertad, y á los ciegos vista; para poner en libertad á los quebrantados:",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.036530Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

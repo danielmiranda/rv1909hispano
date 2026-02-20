@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 22,
+  "verse": 6,
+  "text_original": "La persona que lo tocare, será inmunda hasta la tarde, y no comerá de las cosas sagradas antes que haya lavado su carne con agua.",
+  "text_modernized": "La persona que lo tocare, será inmunda hasta la tarde, y no comerá de las cosas sagradas antes que haya lavado su carne con agua.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.098409Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

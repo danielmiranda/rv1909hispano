@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 5,
+  "verse": 1,
+  "text_original": "Y CUANDO alguna persona pecare, que hubiere oído la voz del que juró, y él fuere testigo que vió, ó supo, si no lo denunciare, él llevará su pecado.",
+  "text_modernized": "Y CUANDO alguna persona pecare, que hubiere oído la voz del que juró, y él fuere testigo que vió, ó supo, si no lo denunciare, él llevará su pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.449625Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

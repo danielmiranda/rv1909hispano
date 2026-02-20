@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 20,
+  "verse": 9,
+  "text_original": "¿Quién podrá decir: Yo he limpiado mi corazón, limpio estoy de mi pecado?",
+  "text_modernized": "¿Quién podrá decir: Yo he limpiado mi corazón, limpio estoy de mi pecado?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.550334Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

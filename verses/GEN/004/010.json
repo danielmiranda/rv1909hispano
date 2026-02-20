@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 4,
+  "verse": 10,
+  "text_original": "Y él le dijo: ¿Qué has hecho? La voz de la sangre de tu hermano clama á mí desde la tierra.",
+  "text_modernized": "Y él le dijo: ¿Qué has hecho? La voz de la sangre de tu hermano clama á mí desde la tierra.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:02.763269Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

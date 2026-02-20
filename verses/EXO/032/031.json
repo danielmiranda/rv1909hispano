@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 32,
+  "verse": 31,
+  "text_original": "Entonces volvió Moisés á Jehová, y dijo: Ruégote, pues este pueblo ha cometido un gran pecado, porque se hicieron dioses de oro,",
+  "text_modernized": "Entonces volvió Moisés á Jehová, y dijo: Ruégote, pues este pueblo ha cometido un gran pecado, porque se hicieron dioses de oro,",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.360471Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

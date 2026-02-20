@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 5,
+  "verse": 30,
+  "text_original": "O del marido, sobre el cual pasare espíritu de celo, y tuviere celos de su mujer: presentarála entonces delante de Jehová, y el sacerdote ejecutará en ella toda esta ley.",
+  "text_modernized": "O del marido, sobre el cual pasare espíritu de celo, y tuviere celos de su mujer: presentarála entonces delante de Jehová, y el sacerdote ejecutará en ella toda esta ley.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.199641Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

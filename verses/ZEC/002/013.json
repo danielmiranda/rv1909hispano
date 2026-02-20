@@ -1,0 +1,20 @@
+{
+  "book": "ZEC",
+  "chapter": 2,
+  "verse": 13,
+  "text_original": "Calle toda carne delante de Jehová; porque él se ha despertado de su santa morada.",
+  "text_modernized": "Calle toda carne delante de Jehová; porque él se ha despertado de su santa morada.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.534111Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

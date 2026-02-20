@@ -1,0 +1,20 @@
+{
+  "book": "REV",
+  "chapter": 13,
+  "verse": 15,
+  "text_original": "Y le fué dado que diese espíritu á la imagen de la bestia, para que la imagen de la bestia hable; y hará que cualesquiera que no adoraren la imagen de la bestia sean muertos.",
+  "text_modernized": "Y le fue dado que diese espíritu á la imagen de la bestia, para que la imagen de la bestia hable; y hará que cualesquiera que no adoraren la imagen de la bestia sean muertos.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.440418Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

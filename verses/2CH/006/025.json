@@ -1,0 +1,20 @@
+{
+  "book": "2CH",
+  "chapter": 6,
+  "verse": 25,
+  "text_original": "Tú oirás desde los cielos, y perdonarás el pecado de tu pueblo Israel, y los volverás á la tierra que diste á ellos y á sus padres.",
+  "text_modernized": "Tú oirás desde los cielos, y perdonarás el pecado de tu pueblo Israel, y los volverás á la tierra que diste á ellos y á sus padres.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.008907Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

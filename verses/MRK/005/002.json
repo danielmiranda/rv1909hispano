@@ -1,0 +1,20 @@
+{
+  "book": "MRK",
+  "chapter": 5,
+  "verse": 2,
+  "text_original": "Y salido él del barco, luego le salió al encuentro, de los sepulcros, un hombre con un espíritu inmundo,",
+  "text_modernized": "Y salido él del barco, luego le salió al encuentro, de los sepulcros, un hombre con un espíritu inmundo,",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.868910Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

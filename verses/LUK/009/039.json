@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 9,
+  "verse": 39,
+  "text_original": "Y he aquí un espíritu le toma, y de repente da voces; y le despedaza y hace echar espuma, y apenas se aparta de él quebrantándole.",
+  "text_modernized": "Y he aquí un espíritu le toma, y de repente da voces; y le despedaza y hace echar espuma, y apenas se aparta de él quebrantándole.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.121198Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

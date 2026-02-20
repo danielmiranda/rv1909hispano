@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 20,
+  "verse": 23,
+  "text_original": "Mas que el Espíritu Santo por todas las ciudades me da testimonio, diciendo que prisiones y tribulaciones me esperan.",
+  "text_modernized": "Mas que el Espíritu Santo por todas las ciudades me da testimonio, diciendo que prisiones y tribulaciones me esperan.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.652092Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

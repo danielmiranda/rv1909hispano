@@ -1,0 +1,20 @@
+{
+  "book": "PHM",
+  "chapter": 1,
+  "verse": 25,
+  "text_original": "La gracia de nuestro Señor Jesucristo sea con vuestro espíritu. Amén. A Filemón fué enviada de Roma por Onésimo, siervo.",
+  "text_modernized": "La gracia de nuestro Señor Jesucristo sea con vuestro espíritu. Amén. A Filemón fue enviada de Roma por Onésimo, siervo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.202561Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 6,
+  "verse": 10,
+  "text_original": "Mas no podían resistir á la sabiduría y al Espíritu con que hablaba.",
+  "text_modernized": "Mas no podían resistir á la sabiduría y al Espíritu con que hablaba.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.522842Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

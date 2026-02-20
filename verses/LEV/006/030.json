@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 6,
+  "verse": 30,
+  "text_original": "Mas no se comerá de expiación alguna, de cuya sangre se metiere en el tabernáculo del testimonio para reconciliar en el santuario: al fuego será quemada.",
+  "text_modernized": "Mas no se comerá de expiación alguna, de cuya sangre se metiere en el tabernáculo del testimonio para reconciliar en el santuario: al fuego será quemada.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.460375Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

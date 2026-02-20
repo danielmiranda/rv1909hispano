@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 5,
+  "verse": 16,
+  "text_original": "Y pagará aquello de las cosas santas en que hubiere pecado, y añadirá á ello el quinto, y lo dará al sacerdote: y el sacerdote hará expiación por él con el carnero del sacrificio por el pecado, y será perdonado.",
+  "text_modernized": "Y pagará aquello de las cosas santas en que hubiere pecado, y añadirá á ello el quinto, y lo dará al sacerdote: y el sacerdote hará expiación por él con el carnero del sacrificio por el pecado, y será perdonado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.452891Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 13,
+  "verse": 11,
+  "text_original": "Y he aquí una mujer que tenía espíritu de enfermedad dieciocho años, y andaba agobiada, que en ninguna manera se podía enhestar.",
+  "text_modernized": "Y he aquí una mujer que tenía espíritu de enfermedad dieciocho años, y andaba agobiada, que en ninguna manera se podía enhestar.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.177963Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

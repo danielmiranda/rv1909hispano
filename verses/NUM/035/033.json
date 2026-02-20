@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 35,
+  "verse": 33,
+  "text_original": "Y no contaminaréis la tierra donde estuviereis: porque esta sangre amancillará la tierra: y la tierra no será expiada de la sangre que fué derramada en ella, sino por la sangre del que la derramó.",
+  "text_modernized": "Y no contaminaréis la tierra donde estuviereis: porque esta sangre amancillará la tierra: y la tierra no será expiada de la sangre que fue derramada en ella, sino por la sangre del que la derramó.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.447830Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

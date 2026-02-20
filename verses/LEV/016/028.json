@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 16,
+  "verse": 28,
+  "text_original": "Y el que los quemare, lavará sus vestidos, lavará también su carne con agua, y después entrará en el real.",
+  "text_modernized": "Y el que los quemare, lavará sus vestidos, lavará también su carne con agua, y después entrará en el real.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.547077Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

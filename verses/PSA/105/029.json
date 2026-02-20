@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 105,
+  "verse": 29,
+  "text_original": "Volvió sus aguas en sangre, y mató sus pescados.",
+  "text_modernized": "Volvió sus aguas en sangre, y mató sus pescados.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.254045Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

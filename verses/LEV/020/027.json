@@ -1,0 +1,25 @@
+{
+  "book": "LEV",
+  "chapter": 20,
+  "verse": 27,
+  "text_original": "Y el hombre ó la mujer en quienes hubiere espíritu pithónico ó de adivinación, han de ser muertos: los apedrearán con piedras; su sangre sobre ellos.",
+  "text_modernized": "Y el hombre ó la mujer en quienes hubiere espíritu pithónico ó de adivinación, han de ser muertos: los apedrearán con piedras; su sangre sobre ellos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.090800Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

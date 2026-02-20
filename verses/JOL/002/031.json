@@ -1,0 +1,20 @@
+{
+  "book": "JOL",
+  "chapter": 2,
+  "verse": 31,
+  "text_original": "El sol se tornará en tinieblas, y la luna en sangre, antes que venga el día grande y espantoso de Jehová.",
+  "text_modernized": "El sol se tornará en tinieblas, y la luna en sangre, antes que venga el día grande y espantoso de Jehová.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.398155Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

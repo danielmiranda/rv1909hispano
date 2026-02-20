@@ -1,0 +1,20 @@
+{
+  "book": "JDG",
+  "chapter": 13,
+  "verse": 25,
+  "text_original": "Y el espíritu de Jehová comenzó á manifestarse en él en los campamentos de Dan, entre Sora y Esthaol.",
+  "text_modernized": "Y el espíritu de Jehová comenzó á manifestarse en él en los campamentos de Dan, entre Sora y Esthaol.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.954855Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

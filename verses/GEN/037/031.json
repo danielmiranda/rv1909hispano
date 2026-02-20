@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 37,
+  "verse": 31,
+  "text_original": "Entonces tomaron ellos la ropa de José, y degollaron un cabrito de las cabras, y tiñeron la ropa con la sangre;",
+  "text_modernized": "Entonces tomaron ellos la ropa de José, y degollaron un cabrito de las cabras, y tiñeron la ropa con la sangre;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:02.992597Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

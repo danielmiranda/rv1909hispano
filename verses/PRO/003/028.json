@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 3,
+  "verse": 28,
+  "text_original": "No digas á tu prójimo: Ve, y vuelve, y mañana [te] daré; cuando tienes contigo [qué darle].",
+  "text_modernized": "No digas á tu prójimo: Ve, y vuelve, y mañana [te] daré; cuando tienes contigo [qué darle].",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.451323Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

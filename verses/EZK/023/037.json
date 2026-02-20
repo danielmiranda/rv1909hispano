@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 23,
+  "verse": 37,
+  "text_original": "Porque han adulterado, y hay sangre en sus manos, y han fornicado con sus ídolos; y aun sus hijos que me habían engendrado, hicieron pasar [por el fuego], quemándolos.",
+  "text_modernized": "Porque han adulterado, y hay sangre en sus manos, y han fornicado con sus ídolos; y aun sus hijos que me habían engendrado, hicieron pasar [por el fuego], quemándolos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.089837Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

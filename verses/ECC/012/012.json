@@ -1,0 +1,20 @@
+{
+  "book": "ECC",
+  "chapter": 12,
+  "verse": 12,
+  "text_original": "Ahora, hijo mío, á más de esto, sé avisado. No hay fin de hacer muchos libros; y el mucho estudio aflicción es de la carne.",
+  "text_modernized": "Ahora, hijo mío, á más de esto, sé avisado. No hay fin de hacer muchos libros; y el mucho estudio aflicción es de la carne.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.191443Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

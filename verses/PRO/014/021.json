@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 14,
+  "verse": 21,
+  "text_original": "Peca el que menosprecia á su prójimo: mas el que tiene misericordia de los pobres, es bienaventurado.",
+  "text_modernized": "Peca el que menosprecia á su prójimo: mas el que tiene misericordia de los pobres, es bienaventurado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.515622Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

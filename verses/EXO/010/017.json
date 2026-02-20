@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 10,
+  "verse": 17,
+  "text_original": "Mas ruego ahora que perdones mi pecado solamente esta vez, y que oréis á Jehová vuestro Dios que quite de mí solamente esta muerte.",
+  "text_modernized": "Mas ruego ahora que perdones mi pecado solamente esta vez, y que oréis á Jehová vuestro Dios que quite de mí solamente esta muerte.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.189428Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

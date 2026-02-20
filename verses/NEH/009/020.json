@@ -1,0 +1,20 @@
+{
+  "book": "NEH",
+  "chapter": 9,
+  "verse": 20,
+  "text_original": "Y diste tu espíritu bueno para enseñarlos, y no retiraste tu maná de su boca, y agua les diste en su sed.",
+  "text_modernized": "Y diste tu espíritu bueno para enseñarlos, y no retiraste tu maná de su boca, y agua les diste en su sed.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.301151Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

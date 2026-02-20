@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 28,
+  "verse": 6,
+  "text_original": "Y por espíritu de juicio al que se sentare en juicio, y por fortaleza á los que harán tornar la batalla hasta la puerta.",
+  "text_modernized": "Y por espíritu de juicio al que se sentare en juicio, y por fortaleza á los que harán tornar la batalla hasta la puerta.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.350141Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

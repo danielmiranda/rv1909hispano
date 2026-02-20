@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 39,
+  "verse": 23,
+  "text_original": "Y sabrán las gentes que la casa de Israel fué llevada cautiva por su pecado; por cuanto se rebelaron contra mí, y yo escondí de ellos mi rostro, y entreguélos en mano de sus enemigos, y cayeron todos á cuchillo.",
+  "text_modernized": "Y sabrán las gentes que la casa de Israel fue llevada cautiva por su pecado; por cuanto se rebelaron contra mí, y yo escondí de ellos mi rostro, y entreguélos en mano de sus enemigos, y cayeron todos á cuchillo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.187101Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

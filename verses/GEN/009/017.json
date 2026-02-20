@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 9,
+  "verse": 17,
+  "text_original": "Dijo, pues, Dios á Noé: Esta será la señal del pacto que he establecido entre mí y toda carne que está sobre la tierra.",
+  "text_modernized": "Dijo, pues, Dios á Noé: Esta será la señal del pacto que he establecido entre mí y toda carne que está sobre la tierra.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:02.795480Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

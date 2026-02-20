@@ -1,0 +1,20 @@
+{
+  "book": "EPH",
+  "chapter": 4,
+  "verse": 23,
+  "text_original": "Y á renovaros en el espíritu de vuestra mente,",
+  "text_modernized": "Y á renovaros en el espíritu de vuestra mente,",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.037135Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

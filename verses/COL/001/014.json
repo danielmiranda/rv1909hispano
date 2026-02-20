@@ -1,0 +1,20 @@
+{
+  "book": "COL",
+  "chapter": 1,
+  "verse": 14,
+  "text_original": "En el cual tenemos redención por su sangre, la remisión de pecados:",
+  "text_modernized": "En el cual tenemos redención por su sangre, la remisión de pecados:",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.094373Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

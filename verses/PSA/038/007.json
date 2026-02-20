@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 38,
+  "verse": 7,
+  "text_original": "Porque mis lomos están llenos de irritación, y no hay sanidad en mi carne.",
+  "text_modernized": "Porque mis lomos están llenos de irritación, y no hay sanidad en mi carne.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.743120Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

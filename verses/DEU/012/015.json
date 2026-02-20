@@ -1,0 +1,20 @@
+{
+  "book": "DEU",
+  "chapter": 12,
+  "verse": 15,
+  "text_original": "Con todo, podrás matar y comer carne en todas tus poblaciones conforme al deseo de tu alma, según la bendición de Jehová tu Dios que él te habrá dado: el inmundo y el limpio la comerá, como [la] de corzo ó de ciervo:",
+  "text_modernized": "Con todo, podrás matar y comer carne en todas tus poblaciones conforme al deseo de tu alma, según la bendición de Jehová tu Dios que él te habrá dado: el inmundo y el limpio la comerá, como [la] de corzo ó de ciervo:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.542004Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

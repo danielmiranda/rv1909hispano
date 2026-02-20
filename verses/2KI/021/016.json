@@ -1,0 +1,25 @@
+{
+  "book": "2KI",
+  "chapter": 21,
+  "verse": 16,
+  "text_original": "Fuera de esto, derramó Manasés mucha sangre inocente en gran manera, hasta henchir á Jerusalem de cabo á cabo: además de su pecado con que hizo pecar á Judá, para que hiciese lo malo en ojos de Jehová.",
+  "text_modernized": "Fuera de esto, derramó Manasés mucha sangre inocente en gran manera, hasta henchir á Jerusalem de cabo á cabo: además de su pecado con que hizo pecar á Judá, para que hiciese lo malo en ojos de Jehová.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.757891Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    },
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

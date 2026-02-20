@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 7,
+  "verse": 21,
+  "text_original": "Además, la persona que tocare alguna cosa inmunda, en inmundicia de hombre, ó en animal inmundo, ó en cualquiera abominación inmunda, y comiere la carne del sacrificio de las paces, el cual es de Jehová, aquella persona será cortada de sus pueblos.",
+  "text_modernized": "Además, la persona que tocare alguna cosa inmunda, en inmundicia de hombre, ó en animal inmundo, ó en cualquiera abominación inmunda, y comiere la carne del sacrificio de las paces, el cual es de Jehová, aquella persona será cortada de sus pueblos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.464961Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

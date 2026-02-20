@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 84,
+  "verse": 2,
+  "text_original": "Codicia y aun ardientemente desea mi alma los atrios de Jehová: mi corazón y mi carne cantan al Dios vivo.",
+  "text_modernized": "Codicia y aun ardientemente desea mi alma los atrios de Jehová: mi corazón y mi carne cantan al Dios vivo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.162571Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "MAT",
+  "chapter": 27,
+  "verse": 6,
+  "text_original": "Y los príncipes de los sacerdotes, tomando [las piezas] de plata, dijeron: No es lícito echarlas en el tesoro de los dones, porque es precio de sangre.",
+  "text_modernized": "Y los príncipes de los sacerdotes, tomando [las piezas] de plata, dijeron: No es lícito echarlas en el tesoro de los dones, porque es precio de sangre.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.822721Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

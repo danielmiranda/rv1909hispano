@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 16,
+  "verse": 32,
+  "text_original": "Mejor es el que tarde se aira que el fuerte; y el que se enseñorea de su espíritu, que el que toma una ciudad.",
+  "text_modernized": "Mejor es el que tarde se aira que el fuerte; y el que se enseñorea de su espíritu, que el que toma una ciudad.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.532704Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

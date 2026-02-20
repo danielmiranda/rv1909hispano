@@ -1,0 +1,20 @@
+{
+  "book": "DAN",
+  "chapter": 2,
+  "verse": 1,
+  "text_original": "Y EN el segundo año del reinado de Nabucodonosor, soñó Nabucodonosor sueños, y perturbóse su espíritu, y su sueño se huyó de él.",
+  "text_modernized": "Y EN el segundo año del reinado de Nabucodonosor, soñó Nabucodonosor sueños, y perturbóse su espíritu, y su sueño se huyó de él.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.251554Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

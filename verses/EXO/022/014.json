@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 22,
+  "verse": 14,
+  "text_original": "Pero si alguno hubiere tomado prestada [bestia] de su prójimo, y fuere estropeada ó muerta, ausente su dueño, deberá pagar[la].",
+  "text_modernized": "Pero si alguno hubiere tomado prestada [bestia] de su prójimo, y fuere estropeada ó muerta, ausente su dueño, deberá pagar[la].",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.265865Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

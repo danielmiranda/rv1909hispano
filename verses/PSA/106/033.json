@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 106,
+  "verse": 33,
+  "text_original": "Porque hicieron se rebelase su espíritu, como lo expresó con sus labios.",
+  "text_modernized": "Porque hicieron se rebelase su espíritu, como lo expresó con sus labios.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.267299Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

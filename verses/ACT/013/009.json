@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 13,
+  "verse": 9,
+  "text_original": "Entonces Saulo, que también [es] Pablo, lleno del Espíritu Santo, poniendo en él los ojos,",
+  "text_modernized": "Entonces Saulo, que también [es] Pablo, lleno del Espíritu Santo, poniendo en él los ojos,",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.580230Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

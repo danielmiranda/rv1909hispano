@@ -1,0 +1,20 @@
+{
+  "book": "REV",
+  "chapter": 18,
+  "verse": 2,
+  "text_original": "Y clamó con fortaleza en alta voz, diciendo: Caída es, caída es la grande Babilonia, y es hecha habitación de demonios, y guarida de todo espíritu inmundo, y albergue de todas aves sucias y aborrecibles.",
+  "text_modernized": "Y clamó con fortaleza en alta voz, diciendo: Caída es, caída es la grande Babilonia, y es hecha habitación de demonios, y guarida de todo espíritu inmundo, y albergue de todas aves sucias y aborrecibles.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.479960Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 16,
+  "verse": 6,
+  "text_original": "Y pasando á Phrygia y la provincia de Galacia, les fué prohibido por el Espíritu Santo hablar la palabra en Asia.",
+  "text_modernized": "Y pasando á Phrygia y la provincia de Galacia, les fue prohibido por el Espíritu Santo hablar la palabra en Asia.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.605809Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

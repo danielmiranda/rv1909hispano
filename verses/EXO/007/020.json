@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 7,
+  "verse": 20,
+  "text_original": "Y Moisés y Aarón hicieron como Jehová lo mandó; y alzando la vara hirió las aguas que había en el río, en presencia de Faraón y de sus siervos; y todas las aguas que había en el río se convirtieron en sangre.",
+  "text_modernized": "Y Moisés y Aarón hicieron como Jehová lo mandó; y alzando la vara hirió las aguas que había en el río, en presencia de Faraón y de sus siervos; y todas las aguas que había en el río se convirtieron en sangre.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.166422Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

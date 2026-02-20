@@ -1,0 +1,20 @@
+{
+  "book": "2CH",
+  "chapter": 24,
+  "verse": 20,
+  "text_original": "Y el espíritu de Dios envistió á Zachârías, hijo de Joiada el sacerdote, el cual estando sobre el pueblo, les dijo: Así ha dicho Dios: ¿Por qué quebrantáis los mandamientos de Jehová? No os vendrá bien de ello; porque por haber dejado á Jehová, él también os dejará.",
+  "text_modernized": "Y el espíritu de Dios envistió á Zachârías, hijo de Joiada el sacerdote, el cual estando sobre el pueblo, les dijo: Así ha dicho Dios: ¿Por qué quebrantáis los mandamientos de Jehová? No os vendrá bien de ello; porque por haber dejado á Jehová, él también os dejará.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.094435Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

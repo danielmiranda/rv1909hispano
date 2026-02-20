@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 14,
+  "verse": 28,
+  "text_original": "También pondrá el sacerdote del aceite que tiene en su mano sobre la ternilla de la oreja derecha del que se purifica, y sobre el pulgar de su mano derecha, y sobre el pulgar de su pie derecho, en el lugar de la sangre de la culpa.",
+  "text_modernized": "También pondrá el sacerdote del aceite que tiene en su mano sobre la ternilla de la oreja derecha del que se purifica, y sobre el pulgar de su mano derecha, y sobre el pulgar de su pie derecho, en el lugar de la sangre de la culpa.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.523231Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

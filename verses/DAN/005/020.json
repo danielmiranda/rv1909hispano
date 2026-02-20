@@ -1,0 +1,20 @@
+{
+  "book": "DAN",
+  "chapter": 5,
+  "verse": 20,
+  "text_original": "Mas cuando su corazón se ensoberbeció, y su espíritu se endureció en altivez, fué depuesto del trono de su reino, y traspasaron de él la gloria:",
+  "text_modernized": "Mas cuando su corazón se ensoberbeció, y su espíritu se endureció en altivez, fue depuesto del trono de su reino, y traspasaron de él la gloria:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.281731Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

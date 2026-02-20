@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 10,
+  "verse": 10,
+  "text_original": "Y cuando llegaron allá al collado, he aquí la compañía de los profetas [que venía] á encontrarse con él, y el espíritu de Dios lo arrebató, y profetizó entre ellos.",
+  "text_modernized": "Y cuando llegaron allá al collado, he aquí la compañía de los profetas [que venía] á encontrarse con él, y el espíritu de Dios lo arrebató, y profetizó entre ellos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.075808Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

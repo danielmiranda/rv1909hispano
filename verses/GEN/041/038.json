@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 41,
+  "verse": 38,
+  "text_original": "Y dijo Faraón á sus siervos: ¿Hemos de hallar otro hombre como éste, en quien haya espíritu de Dios?",
+  "text_modernized": "Y dijo Faraón á sus siervos: ¿Hemos de hallar otro hombre como éste, en quien haya espíritu de Dios?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.018238Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "1KI",
+  "chapter": 22,
+  "verse": 24,
+  "text_original": "Llegándose entonces Sedechîas hijo de Chânaana, hirió á Michêas en la mejilla, diciendo: ¿Por dónde se fué de mí el espíritu de Jehová para hablarte á ti?",
+  "text_modernized": "Llegándose entonces Sedechîas hijo de Chânaana, hirió á Michêas en la mejilla, diciendo: ¿Por dónde se fue de mí el espíritu de Jehová para hablarte á ti?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.577915Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

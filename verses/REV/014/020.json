@@ -1,0 +1,20 @@
+{
+  "book": "REV",
+  "chapter": 14,
+  "verse": 20,
+  "text_original": "Y el lagar fué hollado fuera de la ciudad, y del lagar salió sangre hasta los frenos de los caballos por mil y seiscientos estadios.",
+  "text_modernized": "Y el lagar fue hollado fuera de la ciudad, y del lagar salió sangre hasta los frenos de los caballos por mil y seiscientos estadios.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.447624Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

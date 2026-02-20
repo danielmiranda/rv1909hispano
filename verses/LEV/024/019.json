@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 24,
+  "verse": 19,
+  "text_original": "Y el que causare lesión en su prójimo, según hizo, así le sea hecho:",
+  "text_modernized": "Y el que causare lesión en su prójimo, según hizo, así le sea hecho:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.118622Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

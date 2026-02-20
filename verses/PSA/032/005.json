@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 32,
+  "verse": 5,
+  "text_original": "Mi pecado te declaré, y no encubrí mi iniquidad. Confesaré, dije, contra mí mis rebeliones á Jehová; y tú perdonaste la maldad de mi pecado. (Selah.)",
+  "text_modernized": "Mi pecado te declaré, y no encubrí mi iniquidad. Confesaré, dije, contra mí mis rebeliones á Jehová; y tú perdonaste la maldad de mi pecado. (Selah.)",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.686749Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

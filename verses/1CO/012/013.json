@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 12,
+  "verse": 13,
+  "text_original": "Porque por un Espíritu somos todos bautizados en un cuerpo, ora Judíos ó Griegos, ora siervos ó libres; y todos hemos bebido de un mismo Espíritu.",
+  "text_modernized": "Porque por un Espíritu somos todos bautizados en un cuerpo, ora Judíos ó Griegos, ora siervos ó libres; y todos hemos bebido de un mismo Espíritu.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.878061Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 14,
+  "verse": 32,
+  "text_original": "Tornóse por tanto el pueblo al despojo, y tomaron ovejas y vacas y becerros, y matáronlos en tierra, y el pueblo comió con sangre.",
+  "text_modernized": "Tornóse por tanto el pueblo al despojo, y tomaron ovejas y vacas y becerros, y matáronlos en tierra, y el pueblo comió con sangre.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.099924Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

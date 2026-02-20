@@ -1,0 +1,20 @@
+{
+  "book": "2TH",
+  "chapter": 2,
+  "verse": 13,
+  "text_original": "Mas nosotros debemos dar siempre gracias á Dios por vosotros, hermanos amados del Señor, de que Dios os haya escogido desde el principio para salud, por la santificación del Espíritu y fe de la verdad:",
+  "text_modernized": "Mas nosotros debemos dar siempre gracias á Dios por vosotros, hermanos amados del Señor, de que Dios os haya escogido desde el principio para salud, por la santificación del Espíritu y fe de la verdad:",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.138392Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

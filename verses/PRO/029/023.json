@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 29,
+  "verse": 23,
+  "text_original": "La soberbia del hombre le abate; pero al humilde de espíritu sustenta la honra.",
+  "text_modernized": "La soberbia del hombre le abate; pero al humilde de espíritu sustenta la honra.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.608399Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 8,
+  "verse": 17,
+  "text_original": "Entonces les impusieron las manos, y recibieron el Espíritu Santo.",
+  "text_modernized": "Entonces les impusieron las manos, y recibieron el Espíritu Santo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.541051Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

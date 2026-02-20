@@ -1,0 +1,20 @@
+{
+  "book": "JAS",
+  "chapter": 4,
+  "verse": 5,
+  "text_original": "¿Pensáis que la Escritura dice sin causa: El espíritu que mora en nosotros codicia para envidia?",
+  "text_modernized": "¿Pensáis que la Escritura dice sin causa: El espíritu que mora en nosotros codicia para envidia?",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.287662Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

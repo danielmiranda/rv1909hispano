@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 6,
+  "verse": 4,
+  "text_original": "Porque las saetas del Todopoderoso están en mí, cuyo veneno bebe mi espíritu; y terrores de Dios me combaten.",
+  "text_modernized": "Porque las saetas del Todopoderoso están en mí, cuyo veneno bebe mi espíritu; y terrores de Dios me combaten.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.400048Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

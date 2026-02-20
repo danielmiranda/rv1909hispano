@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 19,
+  "verse": 4,
+  "text_original": "Y tomará Eleazar el sacerdote de su sangre con su dedo, y rociará hacia la delantera del tabernáculo del testimonio con la sangre de ella siete veces;",
+  "text_modernized": "Y tomará Eleazar el sacerdote de su sangre con su dedo, y rociará hacia la delantera del tabernáculo del testimonio con la sangre de ella siete veces;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.302723Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

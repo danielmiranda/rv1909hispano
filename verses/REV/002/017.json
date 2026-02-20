@@ -1,0 +1,20 @@
+{
+  "book": "REV",
+  "chapter": 2,
+  "verse": 17,
+  "text_original": "El que tiene oído, oiga lo que el Espíritu dice á las iglesias. Al que venciere, daré á comer del maná escondido, y le daré una piedrecita blanca, y en la piedrecita un nombre nuevo escrito, el cual ninguno conoce sino aquel que lo recibe.",
+  "text_modernized": "El que tiene oído, oiga lo que el Espíritu dice á las iglesias. Al que venciere, daré á comer del maná escondido, y le daré una piedrecita blanca, y en la piedrecita un nombre nuevo escrito, el cual ninguno conoce sino aquel que lo recibe.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.397055Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

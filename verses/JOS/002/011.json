@@ -1,0 +1,20 @@
+{
+  "book": "JOS",
+  "chapter": 2,
+  "verse": 11,
+  "text_original": "Oyendo esto, ha desmayado nuestro corazón; ni ha quedado más espíritu en alguno por causa de vosotros: porque Jehová vuestro Dios es Dios arriba en los cielos y abajo en la tierra.",
+  "text_modernized": "Oyendo esto, ha desmayado nuestro corazón; ni ha quedado más espíritu en alguno por causa de vosotros: porque Jehová vuestro Dios es Dios arriba en los cielos y abajo en la tierra.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.685826Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 9,
+  "verse": 5,
+  "text_original": "Porque toda batalla de quien pelea es con estruendo, y con revolcamiento de vestidura en sangre: mas esto será para quema, y pábulo del fuego.",
+  "text_modernized": "Porque toda batalla de quien pelea es con estruendo, y con revolcamiento de vestidura en sangre: mas esto será para quema, y pábulo del fuego.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.262405Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

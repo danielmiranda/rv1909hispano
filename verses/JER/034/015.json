@@ -1,0 +1,20 @@
+{
+  "book": "JER",
+  "chapter": 34,
+  "verse": 15,
+  "text_original": "Y vosotros os habíais hoy convertido, y hecho lo recto delante de mis ojos, anunciando cada uno libertad á su prójimo; y habíais hecho concierto en mi presencia, en la casa sobre la cual es invocado mi nombre:",
+  "text_modernized": "Y vosotros os habíais hoy convertido, y hecho lo recto delante de mis ojos, anunciando cada uno libertad á su prójimo; y habíais hecho concierto en mi presencia, en la casa sobre la cual es invocado mi nombre:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.780732Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

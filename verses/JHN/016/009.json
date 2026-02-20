@@ -1,0 +1,20 @@
+{
+  "book": "JHN",
+  "chapter": 16,
+  "verse": 9,
+  "text_original": "De pecado ciertamente, por cuanto no creen en mí;",
+  "text_modernized": "De pecado ciertamente, por cuanto no creen en mí;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.420783Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

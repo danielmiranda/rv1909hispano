@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 8,
+  "verse": 3,
+  "text_original": "Y aquella semejanza extendió la mano, y tomóme por las guedejas de mi cabeza; y el espíritu me alzó entre el cielo y la tierra, y llevóme en visiones de Dios á Jerusalem, á la entrada de la puerta de adentro que mira hacia el aquilón, donde estaba la habitación de la imagen del celo, la que hacía celar.",
+  "text_modernized": "Y aquella semejanza extendió la mano, y tomóme por las guedejas de mi cabeza; y el espíritu me alzó entre el cielo y la tierra, y llevóme en visiones de Dios á Jerusalem, á la entrada de la puerta de adentro que mira hacia el aquilón, donde estaba la habitación de la imagen del celo, la que hacía celar.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.973006Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 21,
+  "verse": 4,
+  "text_original": "Altivez de ojos, y orgullo de corazón, y el brillo de los impíos, son pecado.",
+  "text_modernized": "Altivez de ojos, y orgullo de corazón, y el brillo de los impíos, son pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.555170Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

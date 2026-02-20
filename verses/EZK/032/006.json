@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 32,
+  "verse": 6,
+  "text_original": "Y regaré de tu sangre la tierra donde nadas, hasta los montes; y los arroyos se henchirán de ti.",
+  "text_modernized": "Y regaré de tu sangre la tierra donde nadas, hasta los montes; y los arroyos se henchirán de ti.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.136066Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

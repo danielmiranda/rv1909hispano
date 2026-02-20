@@ -1,0 +1,20 @@
+{
+  "book": "GAL",
+  "chapter": 5,
+  "verse": 24,
+  "text_original": "Porque los que son de Cristo, han crucificado la carne con los afectos y concupiscencias.",
+  "text_modernized": "Porque los que son de Cristo, han crucificado la carne con los afectos y concupiscencias.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.014325Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

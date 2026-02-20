@@ -1,0 +1,20 @@
+{
+  "book": "LAM",
+  "chapter": 4,
+  "verse": 6,
+  "text_original": "Y aumentóse la iniquidad de la hija de mi pueblo más que el pecado de Sodoma, que fué trastornada en un momento, y no asentaron sobre ella compañías.",
+  "text_modernized": "Y aumentóse la iniquidad de la hija de mi pueblo más que el pecado de Sodoma, que fue trastornada en un momento, y no asentaron sobre ella compañías.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.934502Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

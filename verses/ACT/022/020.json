@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 22,
+  "verse": 20,
+  "text_original": "Y cuando se derramaba la sangre de Esteban tu testigo, yo también estaba presente, y consentía á su muerte, y guardaba las ropas de los que le mataban.",
+  "text_modernized": "Y cuando se derramaba la sangre de Esteban tu testigo, yo también estaba presente, y consentía á su muerte, y guardaba las ropas de los que le mataban.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.669183Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

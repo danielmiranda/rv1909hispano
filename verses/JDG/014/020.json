@@ -1,0 +1,20 @@
+{
+  "book": "JDG",
+  "chapter": 14,
+  "verse": 20,
+  "text_original": "Y el espíritu de Jehová cayó sobre él, y descendió á Ascalón, é hirió treinta hombres de ellos; y tomando sus despojos, dió las mudas de vestidos á los que habían explicado el enigma: y encendido en enojo fuése á casa de su padre. Y la mujer de Samsón fué [dada] á su compañero, con el cual él [antes] se acompañaba.",
+  "text_modernized": "Y el espíritu de Jehová cayó sobre él, y descendió á Ascalón, é hirió treinta hombres de ellos; y tomando sus despojos, dió las mudas de vestidos á los que habían explicado el enigma: y encendido en enojo fuése á casa de su padre. Y la mujer de Samsón fue [dada] á su compañero, con el cual él [antes] se acompañaba.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.959975Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

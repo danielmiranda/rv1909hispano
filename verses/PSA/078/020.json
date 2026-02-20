@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 78,
+  "verse": 20,
+  "text_original": "He aquí ha herido la peña, y corrieron aguas, y arroyos salieron ondeando: ¿podrá también dar pan? ¿aparejará carne á su pueblo?",
+  "text_modernized": "He aquí ha herido la peña, y corrieron aguas, y arroyos salieron ondeando: ¿podrá también dar pan? ¿aparejará carne á su pueblo?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:07.945196Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

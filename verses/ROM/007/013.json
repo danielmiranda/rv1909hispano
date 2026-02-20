@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 7,
+  "verse": 13,
+  "text_original": "¿Luego lo que es bueno, á mí me es hecho muerte? No; sino que el pecado, para mostrarse pecado, por lo bueno me obró la muerte, haciéndose pecado sobremanera pecante por el mandamiento.",
+  "text_modernized": "¿Luego lo que es bueno, á mí me es hecho muerte? No; sino que el pecado, para mostrarse pecado, por lo bueno me obró la muerte, haciéndose pecado sobremanera pecante por el mandamiento.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.756328Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

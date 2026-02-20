@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 14,
+  "verse": 14,
+  "text_original": "Porque si yo orare en lengua [desconocida], mi espíritu ora; mas mi entendimiento es sin fruto.",
+  "text_modernized": "Porque si yo orare en lengua [desconocida], mi espíritu ora; mas mi entendimiento es sin fruto.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.887765Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "2TH",
+  "chapter": 2,
+  "verse": 8,
+  "text_original": "Y entonces será manifestado aquel inicuo, al cual el Señor matará con el espíritu de su boca, y destruirá con el resplandor de su venida;",
+  "text_modernized": "Y entonces será manifestado aquel inicuo, al cual el Señor matará con el espíritu de su boca, y destruirá con el resplandor de su venida;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.137636Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

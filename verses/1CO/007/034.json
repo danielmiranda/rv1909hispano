@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 7,
+  "verse": 34,
+  "text_original": "Hay asimismo diferencia entre la casada y la doncella: la doncella tiene cuidado de las cosas del Señor, para ser santa así en el cuerpo como en el espíritu: mas la casada tiene cuidado de las cosas del mundo, cómo ha de agradar á su marido.",
+  "text_modernized": "Hay asimismo diferencia entre la casada y la doncella: la doncella tiene cuidado de las cosas del Señor, para ser santa así en el cuerpo como en el espíritu: mas la casada tiene cuidado de las cosas del mundo, cómo ha de agradar á su marido.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.851136Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

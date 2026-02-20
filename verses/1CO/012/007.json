@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 12,
+  "verse": 7,
+  "text_original": "Empero á cada uno le es dada manifestación del Espíritu para provecho.",
+  "text_modernized": "Empero á cada uno le es dada manifestación del Espíritu para provecho.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.876906Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

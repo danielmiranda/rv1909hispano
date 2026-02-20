@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 12,
+  "verse": 6,
+  "text_original": "Las palabras de los impíos son para acechar la sangre: mas la boca de los rectos los librará.",
+  "text_modernized": "Las palabras de los impíos son para acechar la sangre: mas la boca de los rectos los librará.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.502391Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

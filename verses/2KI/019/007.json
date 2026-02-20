@@ -1,0 +1,20 @@
+{
+  "book": "2KI",
+  "chapter": 19,
+  "verse": 7,
+  "text_original": "He aquí pondré yo en él un espíritu, y oirá rumor, y volveráse á su tierra: y yo haré que en su tierra caiga á cuchillo.",
+  "text_modernized": "He aquí pondré yo en él un espíritu, y oirá rumor, y volveráse á su tierra: y yo haré que en su tierra caiga á cuchillo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.743903Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

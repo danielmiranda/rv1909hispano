@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 11,
+  "verse": 5,
+  "text_original": "Y cayó sobre mí el espíritu de Jehová, y díjome: Di: Así ha dicho Jehová: Así habéis hablado, oh casa de Israel, y las cosas que suben á vuestro espíritu, [yo] las he entendido.",
+  "text_modernized": "Y cayó sobre mí el espíritu de Jehová, y díjome: Di: Así ha dicho Jehová: Así habéis hablado, oh casa de Israel, y las cosas que suben á vuestro espíritu, [yo] las he entendido.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.985875Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

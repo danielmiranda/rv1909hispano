@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 6,
+  "verse": 4,
+  "text_original": "Entonces será que, puesto habrá pecado y ofendido, restituirá aquello que robó, ó por el daño de la calumnia, ó el depósito que se le encomendó, ó lo perdido que halló,",
+  "text_modernized": "Entonces será que, puesto habrá pecado y ofendido, restituirá aquello que robó, ó por el daño de la calumnia, ó el depósito que se le encomendó, ó lo perdido que halló,",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.454430Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

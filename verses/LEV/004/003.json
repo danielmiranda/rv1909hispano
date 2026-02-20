@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 4,
+  "verse": 3,
+  "text_original": "Si sacerdote ungido pecare según el pecado del pueblo, ofrecerá á Jehová, por su pecado que habrá cometido, un becerro sin tacha para expiación.",
+  "text_modernized": "Si sacerdote ungido pecare según el pecado del pueblo, ofrecerá á Jehová, por su pecado que habrá cometido, un becerro sin tacha para expiación.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.441522Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

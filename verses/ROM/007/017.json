@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 7,
+  "verse": 17,
+  "text_original": "De manera que ya no obro aquello, sino el pecado que mora en mí.",
+  "text_modernized": "De manera que ya no obro aquello, sino el pecado que mora en mí.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.757075Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

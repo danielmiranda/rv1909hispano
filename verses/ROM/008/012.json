@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 8,
+  "verse": 12,
+  "text_original": "Así que, hermanos, deudores somos, no á la carne, para que vivamos conforme á la carne:",
+  "text_modernized": "Así que, hermanos, deudores somos, no á la carne, para que vivamos conforme á la carne:",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.762982Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

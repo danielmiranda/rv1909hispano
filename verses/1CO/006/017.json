@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 6,
+  "verse": 17,
+  "text_original": "Empero el que se junta con el Señor, un espíritu es.",
+  "text_modernized": "Empero el que se junta con el Señor, un espíritu es.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.843170Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

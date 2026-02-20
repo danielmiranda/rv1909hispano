@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 26,
+  "verse": 9,
+  "text_original": "Con mi alma te he deseado en la noche; y en tanto que me durare el espíritu en medio de mí, madrugaré á buscarte: porque luego que hay juicios tuyos en la tierra, los moradores del mundo aprenden justicia.",
+  "text_modernized": "Con mi alma te he deseado en la noche; y en tanto que me durare el espíritu en medio de mí, madrugaré á buscarte: porque luego que hay juicios tuyos en la tierra, los moradores del mundo aprenden justicia.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.341185Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

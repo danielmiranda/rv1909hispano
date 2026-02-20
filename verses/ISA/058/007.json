@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 58,
+  "verse": 7,
+  "text_original": "¿No es que partas tu pan con el hambriento, y á los pobres errantes metas en casa; que cuando vieres al desnudo, lo cubras, y no te escondas de tu carne?",
+  "text_modernized": "¿No es que partas tu pan con el hambriento, y á los pobres errantes metas en casa; que cuando vieres al desnudo, lo cubras, y no te escondas de tu carne?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.506526Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "HEB",
+  "chapter": 2,
+  "verse": 4,
+  "text_original": "Testificando juntamente con ellos Dios, con señales y milagros, y diversas maravillas, y repartimientos del Espíritu Santo según su voluntad.",
+  "text_modernized": "Testificando juntamente con ellos Dios, con señales y milagros, y diversas maravillas, y repartimientos del Espíritu Santo según su voluntad.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.206278Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

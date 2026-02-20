@@ -1,0 +1,20 @@
+{
+  "book": "HOS",
+  "chapter": 13,
+  "verse": 2,
+  "text_original": "Y ahora añadieron á su pecado, y de su plata se han hecho según su entendimiento, estatuas de fundición, ídolos, toda obra de artífices; acerca de los cuales dicen á los hombres que sacrifican, que besen los becerros.",
+  "text_modernized": "Y ahora añadieron á su pecado, y de su plata se han hecho según su entendimiento, estatuas de fundición, ídolos, toda obra de artífices; acerca de los cuales dicen á los hombres que sacrifican, que besen los becerros.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.382663Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

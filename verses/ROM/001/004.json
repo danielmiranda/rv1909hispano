@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 1,
+  "verse": 4,
+  "text_original": "El cual fué declarado Hijo de Dios con potencia, según el espíritu de santidad, por la resurrección de los muertos), de Jesucristo Señor nuestro,",
+  "text_modernized": "El cual fue declarado Hijo de Dios con potencia, según el espíritu de santidad, por la resurrección de los muertos), de Jesucristo Señor nuestro,",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.716694Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "2SA",
+  "chapter": 3,
+  "verse": 8,
+  "text_original": "Y enojóse Abner en gran manera por las palabras de Is-boseth, y dijo: ¿Soy yo cabeza de perros respecto de Judá? Yo he hecho hoy misericordia con la casa de Saúl tu padre, con sus hermanos, y con sus amigos, y no te he entregado en las manos de David: ¿y tú me haces hoy cargo del pecado de esta mujer?",
+  "text_modernized": "Y enojóse Abner en gran manera por las palabras de Is-boseth, y dijo: ¿Soy yo cabeza de perros respecto de Judá? Yo he hecho hoy misericordia con la casa de Saúl tu padre, con sus hermanos, y con sus amigos, y no te he entregado en las manos de David: ¿y tú me haces hoy cargo del pecado de esta mujer?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.238112Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

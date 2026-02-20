@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 59,
+  "verse": 21,
+  "text_original": "Y este será mi pacto con ellos, dijo Jehová: El espíritu mío que está sobre ti, y mis palabras que puse en tu boca, no faltarán de tu boca, ni de la boca de tu simiente, ni de la boca de la simiente de tu simiente, dijo Jehová, desde ahora y para siempre.",
+  "text_modernized": "Y este será mi pacto con ellos, dijo Jehová: El espíritu mío que está sobre ti, y mis palabras que puse en tu boca, no faltarán de tu boca, ni de la boca de tu simiente, ni de la boca de la simiente de tu simiente, dijo Jehová, desde ahora y para siempre.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.513007Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

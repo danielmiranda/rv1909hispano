@@ -1,0 +1,20 @@
+{
+  "book": "HEB",
+  "chapter": 9,
+  "verse": 7,
+  "text_original": "Mas en el segundo, sólo el pontífice una vez en el año, no sin sangre, la cual ofrece por sí mismo, y por los pecados de ignorancia del pueblo:",
+  "text_modernized": "Mas en el segundo, sólo el pontífice una vez en el año, no sin sangre, la cual ofrece por sí mismo, y por los pecados de ignorancia del pueblo:",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.235541Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "JDG",
+  "chapter": 6,
+  "verse": 20,
+  "text_original": "Y el ángel de Dios le dijo: Toma la carne, y los panes sin levadura, y ponlo sobre esta peña, y vierte el caldo. Y él lo hizo así.",
+  "text_modernized": "Y el ángel de Dios le dijo: Toma la carne, y los panes sin levadura, y ponlo sobre esta peña, y vierte el caldo. Y él lo hizo así.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.884074Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

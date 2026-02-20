@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 32,
+  "verse": 15,
+  "text_original": "Hasta que sobre nosotros sea derramado espíritu de lo alto, y el desierto se torne en campo labrado, y el campo labrado sea estimado por bosque.",
+  "text_modernized": "Hasta que sobre nosotros sea derramado espíritu de lo alto, y el desierto se torne en campo labrado, y el campo labrado sea estimado por bosque.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.375267Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

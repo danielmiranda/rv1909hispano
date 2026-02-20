@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 21,
+  "verse": 18,
+  "text_original": "Además, si algunos riñeren, y alguno hiriere á su prójimo con piedra ó con el puño, y no muriere, pero cayere en cama;",
+  "text_modernized": "Además, si algunos riñeren, y alguno hiriere á su prójimo con piedra ó con el puño, y no muriere, pero cayere en cama;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.259010Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

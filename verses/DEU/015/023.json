@@ -1,0 +1,20 @@
+{
+  "book": "DEU",
+  "chapter": 15,
+  "verse": 23,
+  "text_original": "Solamente que no comas su sangre: sobre la tierra la derramarás como agua.",
+  "text_modernized": "Solamente que no comas su sangre: sobre la tierra la derramarás como agua.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.562696Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

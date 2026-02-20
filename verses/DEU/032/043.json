@@ -1,0 +1,20 @@
+{
+  "book": "DEU",
+  "chapter": 32,
+  "verse": 43,
+  "text_original": "Alabad, gentes, á su pueblo, porque él vengará la sangre de sus siervos, y volverá la venganza á sus enemigos, y expiará su tierra, á su pueblo.",
+  "text_modernized": "Alabad, gentes, á su pueblo, porque él vengará la sangre de sus siervos, y volverá la venganza á sus enemigos, y expiará su tierra, á su pueblo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.668765Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

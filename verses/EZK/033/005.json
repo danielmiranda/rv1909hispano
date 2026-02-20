@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 33,
+  "verse": 5,
+  "text_original": "El sonido de la corneta oyó, y no se apercibió; su sangre será sobre él: mas el que se apercibiere, librará su vida.",
+  "text_modernized": "El sonido de la corneta oyó, y no se apercibió; su sangre será sobre él: mas el que se apercibiere, librará su vida.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.142394Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

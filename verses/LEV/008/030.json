@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 8,
+  "verse": 30,
+  "text_original": "Luego tomó Moisés del aceite de la unción, y de la sangre que estaba sobre el altar, y roció sobre Aarón, y sobre sus vestiduras, sobre sus hijos, y sobre las vestiduras de sus hijos con él; y santificó á Aarón, y sus vestiduras, y á sus hijos, y las vestiduras de sus hijos con él.",
+  "text_modernized": "Luego tomó Moisés del aceite de la unción, y de la sangre que estaba sobre el altar, y roció sobre Aarón, y sobre sus vestiduras, sobre sus hijos, y sobre las vestiduras de sus hijos con él; y santificó á Aarón, y sus vestiduras, y á sus hijos, y las vestiduras de sus hijos con él.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.475841Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

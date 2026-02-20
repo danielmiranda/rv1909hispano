@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 18,
+  "verse": 20,
+  "text_original": "Entonces Jehová le dijo: Por cuanto el clamor de Sodoma y Gomorra se aumenta más y más, y el pecado de ellos se ha agravado en extremo,",
+  "text_modernized": "Entonces Jehová le dijo: Por cuanto el clamor de Sodoma y Gomorra se aumenta más y más, y el pecado de ellos se ha agravado en extremo,",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:02.843570Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

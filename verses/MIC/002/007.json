@@ -1,0 +1,20 @@
+{
+  "book": "MIC",
+  "chapter": 2,
+  "verse": 7,
+  "text_original": "La que te dices casa de Jacob, ¿hase acortado el espíritu de Jehová? ¿son éstas sus obras? ¿Mis palabras no hacen bien al que camina derechamente?",
+  "text_modernized": "La que te dices casa de Jacob, ¿hase acortado el espíritu de Jehová? ¿son éstas sus obras? ¿Mis palabras no hacen bien al que camina derechamente?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.465361Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

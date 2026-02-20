@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 16,
+  "verse": 15,
+  "text_original": "Después degollará en expiación el macho cabrío, que era del pueblo, y meterá la sangre de él del velo adentro; y hará de su sangre como hizo de la sangre del becerro, y esparcirá sobre la cubierta y delante de la cubierta:",
+  "text_modernized": "Después degollará en expiación el macho cabrío, que era del pueblo, y meterá la sangre de él del velo adentro; y hará de su sangre como hizo de la sangre del becerro, y esparcirá sobre la cubierta y delante de la cubierta:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.544018Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

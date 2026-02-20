@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 15,
+  "verse": 15,
+  "text_original": "Y harálos el sacerdote, el uno ofrenda por el pecado, y el otro holocausto: y le purificará el sacerdote de su flujo delante de Jehová.",
+  "text_modernized": "Y harálos el sacerdote, el uno ofrenda por el pecado, y el otro holocausto: y le purificará el sacerdote de su flujo delante de Jehová.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.536081Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

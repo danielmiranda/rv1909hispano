@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 1,
+  "verse": 15,
+  "text_original": "Porque será grande delante de Dios, y no beberá vino ni sidra; y será lleno del Espíritu Santo, aun desde el seno de su madre.",
+  "text_modernized": "Porque será grande delante de Dios, y no beberá vino ni sidra; y será lleno del Espíritu Santo, aun desde el seno de su madre.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.002006Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

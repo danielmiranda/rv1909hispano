@@ -1,0 +1,20 @@
+{
+  "book": "1PE",
+  "chapter": 1,
+  "verse": 12,
+  "text_original": "A los cuales fué revelado, que no para sí mismos, sino para nosotros administraban las cosas que ahora os son anunciadas de los que os han predicado el evangelio por el Espíritu Santo enviado del cielo; en las cuales desean mirar los ángeles.",
+  "text_modernized": "A los cuales fue revelado, que no para sí mismos, sino para nosotros administraban las cosas que ahora os son anunciadas de los que os han predicado el evangelio por el Espíritu Santo enviado del cielo; en las cuales desean mirar los ángeles.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.299918Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

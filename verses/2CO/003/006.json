@@ -1,0 +1,20 @@
+{
+  "book": "2CO",
+  "chapter": 3,
+  "verse": 6,
+  "text_original": "El cual asimismo nos hizo ministros suficientes de un nuevo pacto: no de la letra, mas del espíritu; porque la letra mata, mas el espíritu vivifica.",
+  "text_modernized": "El cual asimismo nos hizo ministros suficientes de un nuevo pacto: no de la letra, mas del espíritu; porque la letra mata, mas el espíritu vivifica.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.935730Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

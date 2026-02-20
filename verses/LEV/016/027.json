@@ -1,0 +1,25 @@
+{
+  "book": "LEV",
+  "chapter": 16,
+  "verse": 27,
+  "text_original": "Y sacará fuera del real el becerro del pecado, y el macho cabrío de la culpa, la sangre de los cuales fué metida para hacer la expiación en el santuario; y quemarán en el fuego sus pellejos, y sus carnes, y su estiércol.",
+  "text_modernized": "Y sacará fuera del real el becerro del pecado, y el macho cabrío de la culpa, la sangre de los cuales fue metida para hacer la expiación en el santuario; y quemarán en el fuego sus pellejos, y sus carnes, y su estiércol.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.546829Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    },
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

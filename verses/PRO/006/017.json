@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 6,
+  "verse": 17,
+  "text_original": "Los ojos altivos, la lengua mentirosa, las manos derramadoras de sangre inocente,",
+  "text_modernized": "Los ojos altivos, la lengua mentirosa, las manos derramadoras de sangre inocente,",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.466209Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

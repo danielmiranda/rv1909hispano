@@ -1,0 +1,20 @@
+{
+  "book": "2CH",
+  "chapter": 19,
+  "verse": 10,
+  "text_original": "En cualquier causa que viniere á vosotros de vuestros hermanos que habitan en las ciudades, entre sangre y sangre, entre ley y precepto, estatutos y derechos, habéis de amonestarles que no pequen contra Jehová, porque no venga ira sobre vosotros y sobre vuestros hermanos. Obrando así no pecaréis.",
+  "text_modernized": "En cualquier causa que viniere á vosotros de vuestros hermanos que habitan en las ciudades, entre sangre y sangre, entre ley y precepto, estatutos y derechos, habéis de amonestarles que no pequen contra Jehová, porque no venga ira sobre vosotros y sobre vuestros hermanos. Obrando así no pecaréis.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.069590Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "1PE",
+  "chapter": 4,
+  "verse": 14,
+  "text_original": "Si sois vituperados en el nombre de Cristo, sois bienaventurados; porque la gloria y el Espíritu de Dios reposan sobre vosotros. Cierto, según ellos, él es blasfemado, mas según vosotros es glorificado.",
+  "text_modernized": "Si sois vituperados en el nombre de Cristo, sois bienaventurados; porque la gloria y el Espíritu de Dios reposan sobre vosotros. Cierto, según ellos, él es blasfemado, mas según vosotros es glorificado.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.317110Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

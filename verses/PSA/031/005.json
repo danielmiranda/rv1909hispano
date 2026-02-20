@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 31,
+  "verse": 5,
+  "text_original": "En tu mano encomiendo mi espíritu: tú me has redimido, oh Jehová, Dios de verdad.",
+  "text_modernized": "En tu mano encomiendo mi espíritu: tú me has redimido, oh Jehová, Dios de verdad.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.681889Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

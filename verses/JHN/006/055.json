@@ -1,0 +1,25 @@
+{
+  "book": "JHN",
+  "chapter": 6,
+  "verse": 55,
+  "text_original": "Porque mi carne es verdadera comida, y mi sangre es verdadera bebida.",
+  "text_modernized": "Porque mi carne es verdadera comida, y mi sangre es verdadera bebida.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.337370Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    },
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

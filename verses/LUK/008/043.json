@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 8,
+  "verse": 43,
+  "text_original": "Y una mujer, que tenía flujo de sangre hacía ya doce años, la cual había gastado en médicos toda su hacienda, y por ninguno había podido ser curada,",
+  "text_modernized": "Y una mujer, que tenía flujo de sangre hacía ya doce años, la cual había gastado en médicos toda su hacienda, y por ninguno había podido ser curada,",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.102235Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

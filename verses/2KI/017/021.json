@@ -1,0 +1,20 @@
+{
+  "book": "2KI",
+  "chapter": 17,
+  "verse": 21,
+  "text_original": "Porque cortó á Israel de la casa de David, y ellos se hicieron rey á Jeroboam hijo de Nabat; y Jeroboam rempujó á Israel de en pos de Jehová, é hízoles cometer gran pecado.",
+  "text_modernized": "Porque cortó á Israel de la casa de David, y ellos se hicieron rey á Jeroboam hijo de Nabat; y Jeroboam rempujó á Israel de en pos de Jehová, é hízoles cometer gran pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.729688Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

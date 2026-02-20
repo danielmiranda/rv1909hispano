@@ -1,0 +1,20 @@
+{
+  "book": "HOS",
+  "chapter": 5,
+  "verse": 5,
+  "text_original": "Y la soberbia de Israel le desmentirá en su cara: é Israel y Ephraim tropezarán en su pecado: tropezará también Judá con ellos.",
+  "text_modernized": "Y la soberbia de Israel le desmentirá en su cara: é Israel y Ephraim tropezarán en su pecado: tropezará también Judá con ellos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.358791Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

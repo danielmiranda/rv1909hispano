@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 5,
+  "verse": 12,
+  "text_original": "De consiguiente, [vino la reconciliación por uno], así como el pecado entró en el mundo por un hombre, y por el pecado la muerte, y la muerte así pasó á todos los hombres, pues que todos pecaron.",
+  "text_modernized": "De consiguiente, [vino la reconciliación por uno], así como el pecado entró en el mundo por un hombre, y por el pecado la muerte, y la muerte así pasó á todos los hombres, pues que todos pecaron.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.744433Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

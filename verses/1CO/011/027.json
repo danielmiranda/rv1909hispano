@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 11,
+  "verse": 27,
+  "text_original": "De manera que, cualquiera que comiere este pan ó bebiere esta copa del Señor indignamente, será culpado del cuerpo y de la sangre del Señor.",
+  "text_modernized": "De manera que, cualquiera que comiere este pan ó bebiere esta copa del Señor indignamente, será culpado del cuerpo y de la sangre del Señor.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.873399Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

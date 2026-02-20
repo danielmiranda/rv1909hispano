@@ -1,0 +1,20 @@
+{
+  "book": "1PE",
+  "chapter": 1,
+  "verse": 19,
+  "text_original": "Sino con la sangre preciosa de Cristo, como de un cordero sin mancha y sin contaminación:",
+  "text_modernized": "Sino con la sangre preciosa de Cristo, como de un cordero sin mancha y sin contaminación:",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.301186Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

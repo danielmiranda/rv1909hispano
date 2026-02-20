@@ -1,0 +1,20 @@
+{
+  "book": "DAN",
+  "chapter": 5,
+  "verse": 12,
+  "text_original": "Por cuanto fué hallado en él mayor espíritu, y ciencia, y entendimiento, interpretando sueños, y declarando preguntas, y deshaciendo dudas, [es á saber], en Daniel; al cual el rey puso por nombre Beltsasar. Llámese pues ahora á Daniel, y él mostrará la declaración.",
+  "text_modernized": "Por cuanto fue hallado en él mayor espíritu, y ciencia, y entendimiento, interpretando sueños, y declarando preguntas, y deshaciendo dudas, [es á saber], en Daniel; al cual el rey puso por nombre Beltsasar. Llámese pues ahora á Daniel, y él mostrará la declaración.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.280221Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

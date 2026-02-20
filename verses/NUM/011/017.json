@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 11,
+  "verse": 17,
+  "text_original": "Y yo descenderé y hablaré allí contigo; y tomaré del espíritu que está en ti, y pondré en ellos; y llevarán contigo la carga del pueblo, y no la llevarás tú solo.",
+  "text_modernized": "Y yo descenderé y hablaré allí contigo; y tomaré del espíritu que está en ti, y pondré en ellos; y llevarán contigo la carga del pueblo, y no la llevarás tú solo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.248281Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

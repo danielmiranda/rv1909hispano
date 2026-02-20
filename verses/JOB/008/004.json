@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 8,
+  "verse": 4,
+  "text_original": "Si tus hijos pecaron contra él, él los echó en el lugar de su pecado.",
+  "text_modernized": "Si tus hijos pecaron contra él, él los echó en el lugar de su pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.411303Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 6,
+  "verse": 5,
+  "text_original": "Y plugo el parecer á toda la multitud; y eligieron á Esteban, varón lleno de fe y de Espíritu Santo, y á Felipe, y á Prócoro, y á Nicanor, y á Timón, y á Parmenas, y á Nicolás, prosélito de Antioquía:",
+  "text_modernized": "Y plugo el parecer á toda la multitud; y eligieron á Esteban, varón lleno de fe y de Espíritu Santo, y á Felipe, y á Prócoro, y á Nicanor, y á Timón, y á Parmenas, y á Nicolás, prosélito de Antioquía:",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.521773Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

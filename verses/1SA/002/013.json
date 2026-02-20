@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 2,
+  "verse": 13,
+  "text_original": "Y la costumbre de los sacerdotes con el pueblo era que, cuando alguno ofrecía sacrificio, venía el criado del sacerdote mientras la carne estaba á cocer, [trayendo] en su mano un garfio de tres ganchos;",
+  "text_modernized": "Y la costumbre de los sacerdotes con el pueblo era que, cuando alguno ofrecía sacrificio, venía el criado del sacerdote mientras la carne estaba á cocer, [trayendo] en su mano un garfio de tres ganchos;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.033197Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

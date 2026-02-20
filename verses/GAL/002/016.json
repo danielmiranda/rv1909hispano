@@ -1,0 +1,20 @@
+{
+  "book": "GAL",
+  "chapter": 2,
+  "verse": 16,
+  "text_original": "Sabiendo que el hombre no es justificado por las obras de la ley, sino por la fe de Jesucristo, nosotros también hemos creído en Jesucristo, para que fuésemos justificados por la fe de Cristo, y no por las obras de la ley; por cuanto por las obras de la ley ninguna carne será justificada.",
+  "text_modernized": "Sabiendo que el hombre no es justificado por las obras de la ley, sino por la fe de Jesucristo, nosotros también hemos creído en Jesucristo, para que fuésemos justificados por la fe de Cristo, y no por las obras de la ley; por cuanto por las obras de la ley ninguna carne será justificada.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.991633Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

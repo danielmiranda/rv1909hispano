@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 12,
+  "verse": 46,
+  "text_original": "En una casa se comerá, y no llevarás de aquella carne fuera de casa, ni quebraréis hueso suyo.",
+  "text_modernized": "En una casa se comerá, y no llevarás de aquella carne fuera de casa, ni quebraréis hueso suyo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.205848Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

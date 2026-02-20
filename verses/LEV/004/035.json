@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 4,
+  "verse": 35,
+  "text_original": "Y le quitará todo su sebo, como fué quitado el sebo del sacrificio de las paces, y harálo el sacerdote arder en el altar sobre la ofrenda encendida á Jehová: y le hará el sacerdote expiación de su pecado que habrá cometido, y será perdonado.",
+  "text_modernized": "Y le quitará todo su sebo, como fue quitado el sebo del sacrificio de las paces, y harálo el sacerdote arder en el altar sobre la ofrenda encendida á Jehová: y le hará el sacerdote expiación de su pecado que habrá cometido, y será perdonado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.449316Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

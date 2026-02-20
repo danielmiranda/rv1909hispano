@@ -1,0 +1,25 @@
+{
+  "book": "ISA",
+  "chapter": 31,
+  "verse": 3,
+  "text_original": "Y los Egipcios hombres son, y no Dios; y sus caballos carne, y no espíritu: de manera que en extendiendo Jehová su mano, caerá el ayudador, y caerá el ayudado, y todos ellos desfallecerán á una.",
+  "text_modernized": "Y los Egipcios hombres son, y no Dios; y sus caballos carne, y no espíritu: de manera que en extendiendo Jehová su mano, caerá el ayudador, y caerá el ayudado, y todos ellos desfallecerán á una.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.370124Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

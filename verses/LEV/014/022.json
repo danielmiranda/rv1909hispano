@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 14,
+  "verse": 22,
+  "text_original": "Y dos tórtolas, ó dos palominos, lo que alcanzare su mano: y el uno será para expiación por el pecado, y el otro para holocausto;",
+  "text_modernized": "Y dos tórtolas, ó dos palominos, lo que alcanzare su mano: y el uno será para expiación por el pecado, y el otro para holocausto;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.521960Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

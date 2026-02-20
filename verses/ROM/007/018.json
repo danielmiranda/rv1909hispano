@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 7,
+  "verse": 18,
+  "text_original": "Y yo sé que en mí (es á saber, en mi carne) no mora el bien: porque tengo el querer, mas efectuar el bien no lo alcanzo.",
+  "text_modernized": "Y yo sé que en mí (es á saber, en mi carne) no mora el bien: porque tengo el querer, mas efectuar el bien no lo alcanzo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.757238Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

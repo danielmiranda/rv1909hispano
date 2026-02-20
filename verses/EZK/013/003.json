@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 13,
+  "verse": 3,
+  "text_original": "Así ha dicho el Señor Jehová: ¡Ay de los profetas insensatos, que andan en pos de su propio espíritu, y nada vieron!",
+  "text_modernized": "Así ha dicho el Señor Jehová: ¡Ay de los profetas insensatos, que andan en pos de su propio espíritu, y nada vieron!",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.997942Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

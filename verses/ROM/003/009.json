@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 3,
+  "verse": 9,
+  "text_original": "¿Qué pues? ¿Somos mejores que ellos? En ninguna manera: porque ya hemos acusado á Judíos y á Gentiles, que todos están debajo de pecado.",
+  "text_modernized": "¿Qué pues? ¿Somos mejores que ellos? En ninguna manera: porque ya hemos acusado á Judíos y á Gentiles, que todos están debajo de pecado.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.731626Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

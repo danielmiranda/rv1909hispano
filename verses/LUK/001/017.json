@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 1,
+  "verse": 17,
+  "text_original": "Porque él irá delante de él con el espíritu y virtud de Elías, para convertir los corazones de los padres á los hijos, y los rebeldes á la prudencia de los justos, para aparejar al Señor un pueblo apercibido.",
+  "text_modernized": "Porque él irá delante de él con el espíritu y virtud de Elías, para convertir los corazones de los padres á los hijos, y los rebeldes á la prudencia de los justos, para aparejar al Señor un pueblo apercibido.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.002347Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

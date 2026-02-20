@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 5,
+  "verse": 9,
+  "text_original": "Y rociará de la sangre de la expiación sobre la pared del altar; y lo que sobrare de la sangre lo exprimirá al pie del altar; es expiación.",
+  "text_modernized": "Y rociará de la sangre de la expiación sobre la pared del altar; y lo que sobrare de la sangre lo exprimirá al pie del altar; es expiación.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.451474Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

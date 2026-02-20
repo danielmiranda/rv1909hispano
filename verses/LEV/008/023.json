@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 8,
+  "verse": 23,
+  "text_original": "Y degollólo; y tomó Moisés de su sangre, y puso sobre la ternilla de la oreja derecha de Aarón, y sobre el dedo pulgar de su mano derecha, y sobre el dedo pulgar de su pie derecho.",
+  "text_modernized": "Y degollólo; y tomó Moisés de su sangre, y puso sobre la ternilla de la oreja derecha de Aarón, y sobre el dedo pulgar de su mano derecha, y sobre el dedo pulgar de su pie derecho.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.474099Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

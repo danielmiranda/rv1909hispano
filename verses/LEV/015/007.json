@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 15,
+  "verse": 7,
+  "text_original": "Asimismo el que tocare la carne del que tiene flujo, lavará sus vestidos, y á sí mismo se lavará con agua, y será inmundo hasta la tarde.",
+  "text_modernized": "Asimismo el que tocare la carne del que tiene flujo, lavará sus vestidos, y á sí mismo se lavará con agua, y será inmundo hasta la tarde.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.534242Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

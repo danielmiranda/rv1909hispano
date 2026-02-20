@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 9,
+  "verse": 27,
+  "text_original": "Entonces Faraón envió á llamar á Moisés y á Aarón, y les dijo: He pecado esta vez: Jehová es justo, y yo y mi pueblo impíos.",
+  "text_modernized": "Entonces Faraón envió á llamar á Moisés y á Aarón, y les dijo: He pecado esta vez: Jehová es justo, y yo y mi pueblo impíos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.181143Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

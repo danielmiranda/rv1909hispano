@@ -1,0 +1,20 @@
+{
+  "book": "2SA",
+  "chapter": 3,
+  "verse": 28,
+  "text_original": "Cuando David supo después esto, dijo: Limpio estoy yo y mi reino, por Jehová, para siempre, de la sangre de Abner hijo de Ner.",
+  "text_modernized": "Cuando David supo después esto, dijo: Limpio estoy yo y mi reino, por Jehová, para siempre, de la sangre de Abner hijo de Ner.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.242430Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

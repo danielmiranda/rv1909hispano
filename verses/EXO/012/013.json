@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 12,
+  "verse": 13,
+  "text_original": "Y la sangre os será por señal en las casas donde vosotros estéis; y veré la sangre, y pasaré de vosotros, y no habrá en vosotros plaga de mortandad, cuando heriré la tierra de Egipto.",
+  "text_modernized": "Y la sangre os será por señal en las casas donde vosotros estéis; y veré la sangre, y pasaré de vosotros, y no habrá en vosotros plaga de mortandad, cuando heriré la tierra de Egipto.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.198225Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

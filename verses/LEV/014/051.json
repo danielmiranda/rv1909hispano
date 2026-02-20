@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 14,
+  "verse": 51,
+  "text_original": "Y tomará el palo de cedro, y el hisopo, y la grana, y la avecilla viva, y mojarálo en la sangre de la avecilla muerta y en las aguas vivas, y rociará la casa siete veces:",
+  "text_modernized": "Y tomará el palo de cedro, y el hisopo, y la grana, y la avecilla viva, y mojarálo en la sangre de la avecilla muerta y en las aguas vivas, y rociará la casa siete veces:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.529298Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

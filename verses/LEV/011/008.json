@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 11,
+  "verse": 8,
+  "text_original": "De la carne de ellos no comeréis, ni tocaréis su cuerpo muerto: tendréislos por inmundos.",
+  "text_modernized": "De la carne de ellos no comeréis, ni tocaréis su cuerpo muerto: tendréislos por inmundos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.491244Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

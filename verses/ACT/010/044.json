@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 10,
+  "verse": 44,
+  "text_original": "Estando aún hablando Pedro estas palabras, el Espíritu Santo cayó sobre todos los que oían el sermón.",
+  "text_modernized": "Estando aún hablando Pedro estas palabras, el Espíritu Santo cayó sobre todos los que oían el sermón.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.565256Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 8,
+  "verse": 7,
+  "text_original": "Y así les harás para expiarlos: rocía sobre ellos el agua de la expiación, y haz pasar la navaja sobre toda su carne, y lavarán sus vestidos, y serán expiados.",
+  "text_modernized": "Y así les harás para expiarlos: rocía sobre ellos el agua de la expiación, y haz pasar la navaja sobre toda su carne, y lavarán sus vestidos, y serán expiados.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.227688Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

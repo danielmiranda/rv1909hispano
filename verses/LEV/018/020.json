@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 18,
+  "verse": 20,
+  "text_original": "Además, no tendrás acto carnal con la mujer de tu prójimo, contaminándote en ella.",
+  "text_modernized": "Además, no tendrás acto carnal con la mujer de tu prójimo, contaminándote en ella.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.556353Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

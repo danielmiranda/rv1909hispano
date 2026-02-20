@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 25,
+  "verse": 49,
+  "text_original": "O su tío, ó el hijo de su tío lo rescatará, ó el cercano de su carne, de su linaje, lo rescatará; ó si sus medios alcanzaren, él mismo se redimirá.",
+  "text_modernized": "O su tío, ó el hijo de su tío lo rescatará, ó el cercano de su carne, de su linaje, lo rescatará; ó si sus medios alcanzaren, él mismo se redimirá.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.131136Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 23,
+  "verse": 8,
+  "text_original": "Porque los Saduceos dicen que no hay resurrección, ni ángel, ni espíritu; mas los Fariseos confiesan ambas cosas.",
+  "text_modernized": "Porque los Saduceos dicen que no hay resurrección, ni ángel, ni espíritu; mas los Fariseos confiesan ambas cosas.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.673098Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "book": "LEV",
+  "chapter": 17,
+  "verse": 14,
+  "text_original": "Porque el alma de toda carne, su vida, está en su sangre: por tanto he dicho á los hijos de Israel: No comeréis la sangre de ninguna carne, porque la vida de toda carne es su sangre: cualquiera que la comiere será cortado.",
+  "text_modernized": "Porque el alma de toda carne, su vida, está en su sangre: por tanto he dicho á los hijos de Israel: No comeréis la sangre de ninguna carne, porque la vida de toda carne es su sangre: cualquiera que la comiere será cortado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.551958Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    },
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

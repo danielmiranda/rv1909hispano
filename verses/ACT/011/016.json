@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 11,
+  "verse": 16,
+  "text_original": "Entonces me acordé del dicho del Señor, como dijo: Juan ciertamente bautizó en agua; mas vosotros seréis bautizados en Espíritu Santo.",
+  "text_modernized": "Entonces me acordé del dicho del Señor, como dijo: Juan ciertamente bautizó en agua; mas vosotros seréis bautizados en Espíritu Santo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.569603Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

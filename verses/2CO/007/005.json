@@ -1,0 +1,20 @@
+{
+  "book": "2CO",
+  "chapter": 7,
+  "verse": 5,
+  "text_original": "Porque aun cuando vinimos á Macedonia, ningún reposo tuvo nuestra carne; antes, en todo fuimos atribulados: de fuera, cuestiones; de dentro, temores.",
+  "text_modernized": "Porque aun cuando vinimos á Macedonia, ningún reposo tuvo nuestra carne; antes, en todo fuimos atribulados: de fuera, cuestiones; de dentro, temores.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.953032Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

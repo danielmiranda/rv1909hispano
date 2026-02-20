@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 10,
+  "verse": 47,
+  "text_original": "Entonces respondió Pedro: ¿Puede alguno impedir el agua, para que no sean bautizados éstos que han recibido el Espíritu Santo también como nosotros?",
+  "text_modernized": "Entonces respondió Pedro: ¿Puede alguno impedir el agua, para que no sean bautizados éstos que han recibido el Espíritu Santo también como nosotros?",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.565876Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

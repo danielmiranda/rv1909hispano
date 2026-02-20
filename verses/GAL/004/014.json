@@ -1,0 +1,20 @@
+{
+  "book": "GAL",
+  "chapter": 4,
+  "verse": 14,
+  "text_original": "Y no desechasteis ni menospreciasteis mi tentación que [estaba] en mi carne: antes me recibisteis como á un ángel de Dios, como á Cristo Jesús.",
+  "text_modernized": "Y no desechasteis ni menospreciasteis mi tentación que [estaba] en mi carne: antes me recibisteis como á un ángel de Dios, como á Cristo Jesús.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.003087Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

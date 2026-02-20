@@ -1,0 +1,20 @@
+{
+  "book": "DEU",
+  "chapter": 34,
+  "verse": 9,
+  "text_original": "Y Josué hijo de Nun fué lleno de espíritu de sabiduría, porque Moisés había puesto sus manos sobre él: y los hijos de Israel le obedecieron, é hicieron como Jehová mandó á Moisés.",
+  "text_modernized": "Y Josué hijo de Nun fue lleno de espíritu de sabiduría, porque Moisés había puesto sus manos sobre él: y los hijos de Israel le obedecieron, é hicieron como Jehová mandó á Moisés.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.678887Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

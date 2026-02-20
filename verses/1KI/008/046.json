@@ -1,0 +1,20 @@
+{
+  "book": "1KI",
+  "chapter": 8,
+  "verse": 46,
+  "text_original": "Si hubieren pecado contra ti, (porque no hay hombre que no peque) y tú estuvieres airado contra ellos, y los entregares delante del enemigo, para que los cautiven y lleven á tierra enemiga, sea lejos ó cerca,",
+  "text_modernized": "Si hubieren pecado contra ti, (porque no hay hombre que no peque) y tú estuvieres airado contra ellos, y los entregares delante del enemigo, para que los cautiven y lleven á tierra enemiga, sea lejos ó cerca,",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.469635Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

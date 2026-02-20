@@ -1,0 +1,20 @@
+{
+  "book": "2SA",
+  "chapter": 21,
+  "verse": 1,
+  "text_original": "Y EN los días de David hubo hambre por tres años consecutivos. Y David consultó á Jehová, y Jehová le dijo: Es por Saúl, y por aquella casa de sangre; porque mató á los Gabaonitas.",
+  "text_modernized": "Y EN los días de David hubo hambre por tres años consecutivos. Y David consultó á Jehová, y Jehová le dijo: Es por Saúl, y por aquella casa de sangre; porque mató á los Gabaonitas.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.371388Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

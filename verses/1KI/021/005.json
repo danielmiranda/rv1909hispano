@@ -1,0 +1,20 @@
+{
+  "book": "1KI",
+  "chapter": 21,
+  "verse": 5,
+  "text_original": "Y vino á él su mujer Jezabel, y díjole: ¿Por qué está tan triste tu espíritu, y no comes pan?",
+  "text_modernized": "Y vino á él su mujer Jezabel, y díjole: ¿Por qué está tan triste tu espíritu, y no comes pan?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.566708Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

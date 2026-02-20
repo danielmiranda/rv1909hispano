@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 21,
+  "verse": 5,
+  "text_original": "No harán calva en su cabeza, ni raerán la punta de su barba, ni en su carne harán rasguños.",
+  "text_modernized": "No harán calva en su cabeza, ni raerán la punta de su barba, ni en su carne harán rasguños.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.092252Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

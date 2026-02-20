@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 9,
+  "verse": 55,
+  "text_original": "Entonces volviéndose él, los reprendió, diciendo: Vosotros no sabéis de qué espíritu sois;",
+  "text_modernized": "Entonces volviéndose él, los reprendió, diciendo: Vosotros no sabéis de qué espíritu sois;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.126405Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

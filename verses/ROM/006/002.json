@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 6,
+  "verse": 2,
+  "text_original": "En ninguna manera. Porque los que somos muertos al pecado, ¿cómo viviremos aún en él?",
+  "text_modernized": "En ninguna manera. Porque los que somos muertos al pecado, ¿cómo viviremos aún en él?",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.749434Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

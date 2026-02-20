@@ -1,0 +1,20 @@
+{
+  "book": "1KI",
+  "chapter": 8,
+  "verse": 36,
+  "text_original": "Tú oirás en los cielos, y perdonarás el pecado de tus siervos y de tu pueblo Israel, enseñándoles el buen camino en que anden; y darás lluvias sobre tu tierra, la cual diste á tu pueblo por heredad.",
+  "text_modernized": "Tú oirás en los cielos, y perdonarás el pecado de tus siervos y de tu pueblo Israel, enseñándoles el buen camino en que anden; y darás lluvias sobre tu tierra, la cual diste á tu pueblo por heredad.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.467280Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

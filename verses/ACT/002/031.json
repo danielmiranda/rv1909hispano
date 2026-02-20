@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 2,
+  "verse": 31,
+  "text_original": "Viéndolo antes, habló de la resurrección de Cristo, que su alma no fué dejada en el infierno, ni su carne vió corrupción.",
+  "text_modernized": "Viéndolo antes, habló de la resurrección de Cristo, que su alma no fue dejada en el infierno, ni su carne vió corrupción.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.494023Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

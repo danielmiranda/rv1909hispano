@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 1,
+  "verse": 21,
+  "text_original": "Cuando ellos andaban, andaban ellas; y cuando ellos se paraban, se paraban ellas; asimismo cuando se levantaban de la tierra, las ruedas se levantaban tras ellos; porque el espíritu de los animales estaba en las ruedas.",
+  "text_modernized": "Cuando ellos andaban, andaban ellas; y cuando ellos se paraban, se paraban ellas; asimismo cuando se levantaban de la tierra, las ruedas se levantaban tras ellos; porque el espíritu de los animales estaba en las ruedas.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.946717Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

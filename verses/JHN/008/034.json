@@ -1,0 +1,20 @@
+{
+  "book": "JHN",
+  "chapter": 8,
+  "verse": 34,
+  "text_original": "Jesús les respondió: De cierto, de cierto os digo, que todo aquel que hace pecado, es siervo de pecado.",
+  "text_modernized": "Jesús les respondió: De cierto, de cierto os digo, que todo aquel que hace pecado, es siervo de pecado.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.357515Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

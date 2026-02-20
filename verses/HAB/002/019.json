@@ -1,0 +1,20 @@
+{
+  "book": "HAB",
+  "chapter": 2,
+  "verse": 19,
+  "text_original": "¡Ay del que dice al palo: Despiértate; y á la piedra muda: Levántate! ¿Podrá él enseñar? He aquí él está cubierto de oro y plata, y no hay dentro de él espíritu.",
+  "text_modernized": "¡Ay del que dice al palo: Despiértate; y á la piedra muda: Levántate! ¿Podrá él enseñar? He aquí él está cubierto de oro y plata, y no hay dentro de él espíritu.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.502132Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

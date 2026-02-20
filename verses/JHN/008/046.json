@@ -1,0 +1,20 @@
+{
+  "book": "JHN",
+  "chapter": 8,
+  "verse": 46,
+  "text_original": "¿Quién de vosotros me redarguye de pecado? Pues si digo verdad, ¿por qué vosotros no me creéis?",
+  "text_modernized": "¿Quién de vosotros me redarguye de pecado? Pues si digo verdad, ¿por qué vosotros no me creéis?",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.360551Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

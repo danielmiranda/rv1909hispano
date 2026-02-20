@@ -1,0 +1,20 @@
+{
+  "book": "JDG",
+  "chapter": 3,
+  "verse": 10,
+  "text_original": "Y el espíritu de Jehová fué sobre él, y juzgó á Israel, y salió á batalla, y Jehová entregó en su mano á Chusan-risathaim, rey de Siria, y prevaleció su mano contra Chusan-risathaim.",
+  "text_modernized": "Y el espíritu de Jehová fue sobre él, y juzgó á Israel, y salió á batalla, y Jehová entregó en su mano á Chusan-risathaim, rey de Siria, y prevaleció su mano contra Chusan-risathaim.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.863492Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

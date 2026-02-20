@@ -1,0 +1,20 @@
+{
+  "book": "DEU",
+  "chapter": 5,
+  "verse": 26,
+  "text_original": "Porque, ¿qué es toda carne, para que oiga la voz del Dios viviente que habla de en medio del fuego, como nosotros [la oímos], y viva?",
+  "text_modernized": "Porque, ¿qué es toda carne, para que oiga la voz del Dios viviente que habla de en medio del fuego, como nosotros [la oímos], y viva?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.501758Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

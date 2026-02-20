@@ -1,0 +1,20 @@
+{
+  "book": "JER",
+  "chapter": 7,
+  "verse": 6,
+  "text_original": "Ni oprimiereis al peregrino, al huérfano, y á la viuda, ni en este lugar derramareis la sangre inocente, ni anduviereis en pos de dioses ajenos para mal vuestro;",
+  "text_modernized": "Ni oprimiereis al peregrino, al huérfano, y á la viuda, ni en este lugar derramareis la sangre inocente, ni anduviereis en pos de dioses ajenos para mal vuestro;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.580885Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

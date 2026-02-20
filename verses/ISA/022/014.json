@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 22,
+  "verse": 14,
+  "text_original": "Esto fué revelado á mis oídos de parte de Jehová de los ejércitos: Que este pecado no os será perdonado hasta que muráis, dice el Señor Jehová de los ejércitos.",
+  "text_modernized": "Esto fue revelado á mis oídos de parte de Jehová de los ejércitos: Que este pecado no os será perdonado hasta que muráis, dice el Señor Jehová de los ejércitos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.323322Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

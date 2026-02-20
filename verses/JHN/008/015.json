@@ -1,0 +1,20 @@
+{
+  "book": "JHN",
+  "chapter": 8,
+  "verse": 15,
+  "text_original": "Vosotros según la carne juzgáis; mas yo no juzgo á nadie.",
+  "text_modernized": "Vosotros según la carne juzgáis; mas yo no juzgo á nadie.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.354079Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

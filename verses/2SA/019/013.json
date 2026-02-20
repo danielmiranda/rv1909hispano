@@ -1,0 +1,20 @@
+{
+  "book": "2SA",
+  "chapter": 19,
+  "verse": 13,
+  "text_original": "Asimismo diréis á Amasa: ¿No eres tú también hueso mío y carne mía? Así me haga Dios, y así me añada, si no fueres general del ejército delante de mí para siempre, en lugar de Joab.",
+  "text_modernized": "Asimismo diréis á Amasa: ¿No eres tú también hueso mío y carne mía? Así me haga Dios, y así me añada, si no fueres general del ejército delante de mí para siempre, en lugar de Joab.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.357993Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

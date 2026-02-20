@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 23,
+  "verse": 45,
+  "text_original": "Por tanto, hombres justos las juzgarán por la ley de las adúlteras, y por la ley de las que derraman sangre: porque son adúlteras, y sangre hay en sus manos.",
+  "text_modernized": "Por tanto, hombres justos las juzgarán por la ley de las adúlteras, y por la ley de las que derraman sangre: porque son adúlteras, y sangre hay en sus manos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.091859Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

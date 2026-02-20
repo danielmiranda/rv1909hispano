@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 12,
+  "verse": 9,
+  "text_original": "A otro, fe por el mismo Espíritu; y á otro, dones de sanidades por el mismo Espíritu;",
+  "text_modernized": "A otro, fe por el mismo Espíritu; y á otro, dones de sanidades por el mismo Espíritu;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.877289Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

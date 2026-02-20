@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 3,
+  "verse": 16,
+  "text_original": "¿No sabéis que sois templo de Dios, y que el Espíritu de Dios mora en vosotros?",
+  "text_modernized": "¿No sabéis que sois templo de Dios, y que el Espíritu de Dios mora en vosotros?",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.831400Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

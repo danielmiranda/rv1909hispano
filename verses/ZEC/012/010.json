@@ -1,0 +1,20 @@
+{
+  "book": "ZEC",
+  "chapter": 12,
+  "verse": 10,
+  "text_original": "Y derramaré sobre la casa de David, y sobre los moradores de Jerusalem, espíritu de gracia y de oración; y mirarán á mí, á quien traspasaron, y harán llanto sobre él, como llanto sobre unigénito, afligiéndose sobre él como quien se aflige sobre primogénito.",
+  "text_modernized": "Y derramaré sobre la casa de David, y sobre los moradores de Jerusalem, espíritu de gracia y de oración; y mirarán á mí, á quien traspasaron, y harán llanto sobre él, como llanto sobre unigénito, afligiéndose sobre él como quien se aflige sobre primogénito.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.565313Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

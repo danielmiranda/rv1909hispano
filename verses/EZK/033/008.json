@@ -1,0 +1,25 @@
+{
+  "book": "EZK",
+  "chapter": 33,
+  "verse": 8,
+  "text_original": "Diciendo yo al impío: Impío, de cierto morirás; si tú no hablares para que se guarde el impío de su camino, el impío morirá por su pecado, mas su sangre yo la demandaré de tu mano.",
+  "text_modernized": "Diciendo yo al impío: Impío, de cierto morirás; si tú no hablares para que se guarde el impío de su camino, el impío morirá por su pecado, mas su sangre yo la demandaré de tu mano.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.143151Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    },
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 28,
+  "verse": 7,
+  "text_original": "Entonces Saúl dijo á sus criados: Buscadme una mujer que tenga espíritu de pythón, para que yo vaya á ella, y por medio de ella pregunte. Y sus criados le respondieron: He aquí hay una mujer en Endor que tiene espíritu de pythón.",
+  "text_modernized": "Entonces Saúl dijo á sus criados: Buscadme una mujer que tenga espíritu de pythón, para que yo vaya á ella, y por medio de ella pregunte. Y sus criados le respondieron: He aquí hay una mujer en Endor que tiene espíritu de pythón.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.205600Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

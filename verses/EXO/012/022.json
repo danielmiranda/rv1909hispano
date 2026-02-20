@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 12,
+  "verse": 22,
+  "text_original": "Y tomad un manojo de hisopo, y mojadle en la sangre que estará en una jofaina, y untad el dintel y los dos postes con la sangre que estará en la jofaina; y ninguno de vosotros salga de las puertas de su casa hasta la mañana.",
+  "text_modernized": "Y tomad un manojo de hisopo, y mojadle en la sangre que estará en una jofaina, y untad el dintel y los dos postes con la sangre que estará en la jofaina; y ninguno de vosotros salga de las puertas de su casa hasta la mañana.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.200153Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

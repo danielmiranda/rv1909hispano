@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 7,
+  "verse": 14,
+  "text_original": "Y de toda la ofrenda presentará una parte por ofrenda elevada á Jehová, y será del sacerdote que rociare la sangre de los pacíficos.",
+  "text_modernized": "Y de toda la ofrenda presentará una parte por ofrenda elevada á Jehová, y será del sacerdote que rociare la sangre de los pacíficos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.463170Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

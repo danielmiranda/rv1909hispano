@@ -1,0 +1,20 @@
+{
+  "book": "JOL",
+  "chapter": 2,
+  "verse": 30,
+  "text_original": "Y daré prodigios en el cielo y en la tierra, sangre, y fuego, y columnas de humo.",
+  "text_modernized": "Y daré prodigios en el cielo y en la tierra, sangre, y fuego, y columnas de humo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.397823Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

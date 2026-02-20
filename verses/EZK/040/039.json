@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 40,
+  "verse": 39,
+  "text_original": "Y en la entrada de la puerta había dos mesas de la una parte, y otras dos de la otra, para degollar sobre ellas el holocausto, y la expiación, y el sacrificio por el pecado.",
+  "text_modernized": "Y en la entrada de la puerta había dos mesas de la una parte, y otras dos de la otra, para degollar sobre ellas el holocausto, y la expiación, y el sacrificio por el pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.197218Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

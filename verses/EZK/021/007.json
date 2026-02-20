@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 21,
+  "verse": 7,
+  "text_original": "Y será, que cuando te dijeren: ¿Por qué gimes tú? dirás: Por la fama que viene; y todo corazón se desleirá, y todas manos se debilitarán, y angustiaráse todo espíritu, y todas rodillas se irán en aguas: he aquí que viene, y hacerse ha, dice el Señor Jehová.",
+  "text_modernized": "Y será, que cuando te dijeren: ¿Por qué gimes tú? dirás: Por la fama que viene; y todo corazón se desleirá, y todas manos se debilitarán, y angustiaráse todo espíritu, y todas rodillas se irán en aguas: he aquí que viene, y hacerse ha, dice el Señor Jehová.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.069615Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

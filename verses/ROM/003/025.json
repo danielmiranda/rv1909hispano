@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 3,
+  "verse": 25,
+  "text_original": "Al cual Dios ha propuesto en propiciación por la fe en su sangre, para manifestación de su justicia, atento á haber pasado por alto, en su paciencia, los pecados pasados,",
+  "text_modernized": "Al cual Dios ha propuesto en propiciación por la fe en su sangre, para manifestación de su justicia, atento á haber pasado por alto, en su paciencia, los pecados pasados,",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.734971Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

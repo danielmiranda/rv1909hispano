@@ -1,0 +1,20 @@
+{
+  "book": "MAT",
+  "chapter": 19,
+  "verse": 19,
+  "text_original": "Honra á tu padre y á tu madre: y, Amarás á tu prójimo como á ti mismo.",
+  "text_modernized": "Honra á tu padre y á tu madre: y, Amarás á tu prójimo como á ti mismo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.737155Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 2,
+  "verse": 15,
+  "text_original": "Asimismo, antes de quemar el sebo, venía el criado del sacerdote, y decía al que sacrificaba: Da carne que ase para el sacerdote; porque no tomará de ti carne cocida, sino cruda.",
+  "text_modernized": "Asimismo, antes de quemar el sebo, venía el criado del sacerdote, y decía al que sacrificaba: Da carne que ase para el sacerdote; porque no tomará de ti carne cocida, sino cruda.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.033683Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

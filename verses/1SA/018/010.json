@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 18,
+  "verse": 10,
+  "text_original": "Otro día aconteció que el espíritu malo de parte de Dios tomó á Saúl, y mostrábase en su casa con trasportes de profeta: y David tañía con su mano como los otros días; y estaba una lanza á mano de Saúl.",
+  "text_modernized": "Otro día aconteció que el espíritu malo de parte de Dios tomó á Saúl, y mostrábase en su casa con trasportes de profeta: y David tañía con su mano como los otros días; y estaba una lanza á mano de Saúl.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.135105Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

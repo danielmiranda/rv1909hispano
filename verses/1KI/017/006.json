@@ -1,0 +1,20 @@
+{
+  "book": "1KI",
+  "chapter": 17,
+  "verse": 6,
+  "text_original": "Y los cuervos le traían pan y carne por la mañana, y pan y carne á la tarde; y bebía del arroyo.",
+  "text_modernized": "Y los cuervos le traían pan y carne por la mañana, y pan y carne á la tarde; y bebía del arroyo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.535986Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

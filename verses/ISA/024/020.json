@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 24,
+  "verse": 20,
+  "text_original": "Temblará la tierra vacilando como un borracho, y será removida como una choza; y agravaráse sobre ella su pecado, y caerá, y nunca más se levantará.",
+  "text_modernized": "Temblará la tierra vacilando como un borracho, y será removida como una choza; y agravaráse sobre ella su pecado, y caerá, y nunca más se levantará.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.334872Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

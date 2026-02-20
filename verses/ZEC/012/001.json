@@ -1,0 +1,20 @@
+{
+  "book": "ZEC",
+  "chapter": 12,
+  "verse": 1,
+  "text_original": "CARGA de la palabra de Jehová acerca de Israel. Jehová, que extiende los cielos, y funda la tierra, y forma el espíritu del hombre dentro de él, ha dicho:",
+  "text_modernized": "CARGA de la palabra de Jehová acerca de Israel. Jehová, que extiende los cielos, y funda la tierra, y forma el espíritu del hombre dentro de él, ha dicho:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.563363Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

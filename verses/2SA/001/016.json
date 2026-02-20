@@ -1,0 +1,20 @@
+{
+  "book": "2SA",
+  "chapter": 1,
+  "verse": 16,
+  "text_original": "Y David le dijo: Tu sangre sea sobre tu cabeza, pues que tu boca atestiguó contra ti, diciendo: Yo maté al ungido de Jehová.",
+  "text_modernized": "Y David le dijo: Tu sangre sea sobre tu cabeza, pues que tu boca atestiguó contra ti, diciendo: Yo maté al ungido de Jehová.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.226346Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ECC",
+  "chapter": 6,
+  "verse": 9,
+  "text_original": "Más vale vista de ojos que deseo que pasa. Y también esto es vanidad y aflicción de espíritu.",
+  "text_modernized": "Más vale vista de ojos que deseo que pasa. Y también esto es vanidad y aflicción de espíritu.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.652328Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

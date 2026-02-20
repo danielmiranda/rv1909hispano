@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 14,
+  "verse": 34,
+  "text_original": "La justicia engrandece la nación: mas el pecado es afrenta de las naciones.",
+  "text_modernized": "La justicia engrandece la nación: mas el pecado es afrenta de las naciones.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.518339Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

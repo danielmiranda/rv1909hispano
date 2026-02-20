@@ -1,0 +1,20 @@
+{
+  "book": "1KI",
+  "chapter": 2,
+  "verse": 5,
+  "text_original": "Y ya sabes tú lo que me ha hecho Joab hijo de Sarvia, lo que hizo á dos generales del ejército de Israel, á Abner hijo de Ner, y á Amasa hijo de Jether, los cuales él mató, derramando en paz la sangre de guerra, y poniendo la sangre de guerra en su talabarte que tenía sobre sus lomos, y en sus zapatos que tenía en sus pies.",
+  "text_modernized": "Y ya sabes tú lo que me ha hecho Joab hijo de Sarvia, lo que hizo á dos generales del ejército de Israel, á Abner hijo de Ner, y á Amasa hijo de Jether, los cuales él mató, derramando en paz la sangre de guerra, y poniendo la sangre de guerra en su talabarte que tenía sobre sus lomos, y en sus zapatos que tenía en sus pies.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.414253Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

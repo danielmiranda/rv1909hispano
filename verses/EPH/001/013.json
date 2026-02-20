@@ -1,0 +1,20 @@
+{
+  "book": "EPH",
+  "chapter": 1,
+  "verse": 13,
+  "text_original": "En el cual [esperasteis] también vosotros en oyendo la palabra de verdad, el evangelio de vuestra salud: en el cual también desde que creísteis, fuisteis sellados con el Espíritu Santo de la promesa,",
+  "text_modernized": "En el cual [esperasteis] también vosotros en oyendo la palabra de verdad, el evangelio de vuestra salud: en el cual también desde que creísteis, fuisteis sellados con el Espíritu Santo de la promesa,",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.021126Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

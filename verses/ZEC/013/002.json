@@ -1,0 +1,20 @@
+{
+  "book": "ZEC",
+  "chapter": 13,
+  "verse": 2,
+  "text_original": "Y será en aquel día, dice Jehová de los ejércitos, que talaré de la tierra los nombres de las imágenes, y nunca más vendrán en memoria: y también haré talar de la tierra los profetas, y espíritu de inmundicia.",
+  "text_modernized": "Y será en aquel día, dice Jehová de los ejércitos, que talaré de la tierra los nombres de las imágenes, y nunca más vendrán en memoria: y también haré talar de la tierra los profetas, y espíritu de inmundicia.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.566561Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "REV",
+  "chapter": 19,
+  "verse": 10,
+  "text_original": "Y yo me eché á sus pies para adorarle. Y él me dijo: Mira que no lo hagas: yo soy siervo contigo, y con tus hermanos que tienen el testimonio de Jesús: adora á Dios; porque el testimonio de Jesús es el espíritu de la profecía.",
+  "text_modernized": "Y yo me eché á sus pies para adorarle. Y él me dijo: Mira que no lo hagas: yo soy siervo contigo, y con tus hermanos que tienen el testimonio de Jesús: adora á Dios; porque el testimonio de Jesús es el espíritu de la profecía.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.512858Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

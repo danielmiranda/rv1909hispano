@@ -1,0 +1,20 @@
+{
+  "book": "JOS",
+  "chapter": 20,
+  "verse": 5,
+  "text_original": "Y cuando el cercano del muerto le siguiere, no entregarán en su mano al homicida, por cuanto hirió á su prójimo por yerro, ni tuvo con él antes enemistad.",
+  "text_modernized": "Y cuando el cercano del muerto le siguiere, no entregarán en su mano al homicida, por cuanto hirió á su prójimo por yerro, ni tuvo con él antes enemistad.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.819944Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

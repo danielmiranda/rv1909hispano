@@ -1,0 +1,20 @@
+{
+  "book": "1KI",
+  "chapter": 19,
+  "verse": 21,
+  "text_original": "Y volvióse de en pos de él, y tomó un par de bueyes, y matólos, y con el arado de los bueyes coció la carne de ellos, y dióla al pueblo que comiesen. Después se levantó, y fué tras Elías, y servíale.",
+  "text_modernized": "Y volvióse de en pos de él, y tomó un par de bueyes, y matólos, y con el arado de los bueyes coció la carne de ellos, y dióla al pueblo que comiesen. Después se levantó, y fue tras Elías, y servíale.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.554402Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

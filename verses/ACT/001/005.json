@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 1,
+  "verse": 5,
+  "text_original": "Porque Juan á la verdad bautizó con agua, mas vosotros seréis bautizados con el Espíritu Santo no muchos días después de estos.",
+  "text_modernized": "Porque Juan á la verdad bautizó con agua, mas vosotros seréis bautizados con el Espíritu Santo no muchos días después de estos.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.461218Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

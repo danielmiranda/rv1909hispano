@@ -1,0 +1,20 @@
+{
+  "book": "MAT",
+  "chapter": 22,
+  "verse": 39,
+  "text_original": "Y el segundo es semejante á éste: Amarás á tu prójimo como á ti mismo.",
+  "text_modernized": "Y el segundo es semejante á éste: Amarás á tu prójimo como á ti mismo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.778541Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

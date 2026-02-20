@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 29,
+  "verse": 16,
+  "text_original": "Y matarás el carnero, y tomarás su sangre, y rociarás sobre el altar alrededor.",
+  "text_modernized": "Y matarás el carnero, y tomarás su sangre, y rociarás sobre el altar alrededor.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.314896Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

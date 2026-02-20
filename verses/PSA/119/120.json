@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 119,
+  "verse": 120,
+  "text_original": "Mi carne se ha extremecido por temor de ti; y de tus juicios tengo miedo.",
+  "text_modernized": "Mi carne se ha extremecido por temor de ti; y de tus juicios tengo miedo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.351270Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

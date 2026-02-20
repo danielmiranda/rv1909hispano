@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 20,
+  "verse": 9,
+  "text_original": "Porque varón que maldijere á su padre ó á su madre, de cierto morirá: á su padre ó á su madre maldijo; su sangre será sobre él.",
+  "text_modernized": "Porque varón que maldijere á su padre ó á su madre, de cierto morirá: á su padre ó á su madre maldijo; su sangre será sobre él.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.086770Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

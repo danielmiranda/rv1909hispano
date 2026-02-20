@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 15,
+  "verse": 4,
+  "text_original": "La sana lengua es árbol de vida: mas la perversidad en ella es quebrantamiento de espíritu.",
+  "text_modernized": "La sana lengua es árbol de vida: mas la perversidad en ella es quebrantamiento de espíritu.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.519237Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "DAN",
+  "chapter": 4,
+  "verse": 12,
+  "text_original": "Su copa era hermosa, y su fruto en abundancia, y para todos había en él mantenimiento. Debajo de él se ponían á la sombra las bestias del campo, y en sus ramas hacían morada las aves del cielo, y manteníase de él toda carne.",
+  "text_modernized": "Su copa era hermosa, y su fruto en abundancia, y para todos había en él mantenimiento. Debajo de él se ponían á la sombra las bestias del campo, y en sus ramas hacían morada las aves del cielo, y manteníase de él toda carne.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.271905Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

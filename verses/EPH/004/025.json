@@ -1,0 +1,20 @@
+{
+  "book": "EPH",
+  "chapter": 4,
+  "verse": 25,
+  "text_original": "Por lo cual, dejada la mentira, hablad verdad cada uno con su prójimo; porque somos miembros los unos de los otros.",
+  "text_modernized": "Por lo cual, dejada la mentira, hablad verdad cada uno con su prójimo; porque somos miembros los unos de los otros.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.037461Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

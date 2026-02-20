@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 22,
+  "verse": 13,
+  "text_original": "Y he aquí gozo y alegría, matando vacas y degollando ovejas, comer carne y beber vino, [diciendo]: Comamos y bebamos, que mañana moriremos.",
+  "text_modernized": "Y he aquí gozo y alegría, matando vacas y degollando ovejas, comer carne y beber vino, [diciendo]: Comamos y bebamos, que mañana moriremos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.323081Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

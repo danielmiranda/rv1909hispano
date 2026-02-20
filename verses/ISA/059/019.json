@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 59,
+  "verse": 19,
+  "text_original": "Y temerán desde el occidente el nombre de Jehová, y desde el nacimiento del sol su gloria: porque vendrá el enemigo como río, [mas] el espíritu de Jehová levantará bandera contra él.",
+  "text_modernized": "Y temerán desde el occidente el nombre de Jehová, y desde el nacimiento del sol su gloria: porque vendrá el enemigo como río, [mas] el espíritu de Jehová levantará bandera contra él.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.512419Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

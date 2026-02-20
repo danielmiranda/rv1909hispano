@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 11,
+  "verse": 25,
+  "text_original": "Entonces Jehová descendió en la nube, y hablóle; y tomó del espíritu que estaba en él, y púsolo en los setenta varones ancianos; y fué que, cuando posó sobre ellos el espíritu, profetizaron, y no cesaron.",
+  "text_modernized": "Entonces Jehová descendió en la nube, y hablóle; y tomó del espíritu que estaba en él, y púsolo en los setenta varones ancianos; y fue que, cuando posó sobre ellos el espíritu, profetizaron, y no cesaron.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.250096Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

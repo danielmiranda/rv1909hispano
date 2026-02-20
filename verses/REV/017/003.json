@@ -1,0 +1,20 @@
+{
+  "book": "REV",
+  "chapter": 17,
+  "verse": 3,
+  "text_original": "Y me llevó en Espíritu al desierto; y vi una mujer sentada sobre una bestia bermeja llena de nombres de blasfemia [y] que tenía siete cabezas y diez cuernos.",
+  "text_modernized": "Y me llevó en Espíritu al desierto; y vi una mujer sentada sobre una bestia bermeja llena de nombres de blasfemia [y] que tenía siete cabezas y diez cuernos.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.475380Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

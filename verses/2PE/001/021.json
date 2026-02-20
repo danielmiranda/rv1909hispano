@@ -1,0 +1,20 @@
+{
+  "book": "2PE",
+  "chapter": 1,
+  "verse": 21,
+  "text_original": "Porque la profecía no fué en los tiempos pasados traída por voluntad humana, sino los santos hombres de Dios hablaron siendo inspirados del Espíritu Santo.",
+  "text_modernized": "Porque la profecía no fue en los tiempos pasados traída por voluntad humana, sino los santos hombres de Dios hablaron siendo inspirados del Espíritu Santo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.326525Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

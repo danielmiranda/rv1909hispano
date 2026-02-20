@@ -1,0 +1,20 @@
+{
+  "book": "EPH",
+  "chapter": 2,
+  "verse": 2,
+  "text_original": "En que en otro tiempo anduvisteis conforme á la condición de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora obra en los hijos de desobediencia:",
+  "text_modernized": "En que en otro tiempo anduvisteis conforme á la condición de este mundo, conforme al príncipe de la potestad del aire, el espíritu que ahora obra en los hijos de desobediencia:",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.023613Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

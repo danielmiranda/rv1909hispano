@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 10,
+  "verse": 18,
+  "text_original": "La gloria de su bosque y de su campo fértil consumirá, desde el alma hasta la carne: y vendrá á ser como abanderado en derrota.",
+  "text_modernized": "La gloria de su bosque y de su campo fértil consumirá, desde el alma hasta la carne: y vendrá á ser como abanderado en derrota.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.273458Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

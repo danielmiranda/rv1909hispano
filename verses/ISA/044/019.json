@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 44,
+  "verse": 19,
+  "text_original": "No discurre para consigo, no tiene sentido ni entendimiento para decir: Parte de esto quemé en el fuego, y sobre sus brasas cocí pan, asé carne, y comíla; ¿he de tornar en una abominación lo restante de ello? ¿delante de un tronco de árbol tengo de humillarme?",
+  "text_modernized": "No discurre para consigo, no tiene sentido ni entendimiento para decir: Parte de esto quemé en el fuego, y sobre sus brasas cocí pan, asé carne, y comíla; ¿he de tornar en una abominación lo restante de ello? ¿delante de un tronco de árbol tengo de humillarme?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.440488Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

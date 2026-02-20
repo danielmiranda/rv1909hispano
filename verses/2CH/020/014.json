@@ -1,0 +1,20 @@
+{
+  "book": "2CH",
+  "chapter": 20,
+  "verse": 14,
+  "text_original": "Y estaba allí Jahaziel hijo de Zachârías, hijo de Benaías, hijo de Jeiel, hijo de Mathanías, Levita de los hijos de Asaph, sobre el cual vino el espíritu de Jehová en medio de la reunión;",
+  "text_modernized": "Y estaba allí Jahaziel hijo de Zachârías, hijo de Benaías, hijo de Jeiel, hijo de Mathanías, Levita de los hijos de Asaph, sobre el cual vino el espíritu de Jehová en medio de la reunión;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.072944Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ZEC",
+  "chapter": 6,
+  "verse": 8,
+  "text_original": "Luego me llamó, y hablóme diciendo: Mira, los que salieron hacia la tierra del aquilón hicieron reposar mi espíritu en la tierra del aquilón.",
+  "text_modernized": "Luego me llamó, y hablóme diciendo: Mira, los que salieron hacia la tierra del aquilón hicieron reposar mi espíritu en la tierra del aquilón.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.543349Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

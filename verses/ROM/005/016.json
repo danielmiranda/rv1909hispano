@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 5,
+  "verse": 16,
+  "text_original": "Ni tampoco de la manera que por un pecado, [así] también el don: porque el juicio á la verdad [vino] de un [pecado] para condenación, mas la gracia [vino] de muchos delitos para justificación.",
+  "text_modernized": "Ni tampoco de la manera que por un pecado, [así] también el don: porque el juicio á la verdad [vino] de un [pecado] para condenación, mas la gracia [vino] de muchos delitos para justificación.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.745257Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 13,
+  "verse": 9,
+  "text_original": "Porque: No adulterarás; no matarás; no hurtarás; no dirás falso testimonio; no codiciarás; y si hay algún otro mandamiento, en esta sentencia se comprende sumariamente: Amarás á tu prójimo como á ti mismo.",
+  "text_modernized": "Porque: No adulterarás; no matarás; no hurtarás; no dirás falso testimonio; no codiciarás; y si hay algún otro mandamiento, en esta sentencia se comprende sumariamente: Amarás á tu prójimo como á ti mismo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.795040Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

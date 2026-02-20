@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 42,
+  "verse": 13,
+  "text_original": "Y díjome: Las cámaras del norte y las del mediodía, que están delante de la lonja, son cámaras santas, en las cuales los sacerdotes que se acercan á Jehová comerán las santas ofrendas: allí pondrán las ofrendas santas, y el presente, y la expiación, y el [sacrificio por] el pecado: porque el lugar es santo.",
+  "text_modernized": "Y díjome: Las cámaras del norte y las del mediodía, que están delante de la lonja, son cámaras santas, en las cuales los sacerdotes que se acercan á Jehová comerán las santas ofrendas: allí pondrán las ofrendas santas, y el presente, y la expiación, y el [sacrificio por] el pecado: porque el lugar es santo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.207035Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

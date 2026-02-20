@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 32,
+  "verse": 18,
+  "text_original": "Porque lleno estoy de palabras, y el espíritu de mi vientre me constriñe.",
+  "text_modernized": "Porque lleno estoy de palabras, y el espíritu de mi vientre me constriñe.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.531108Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

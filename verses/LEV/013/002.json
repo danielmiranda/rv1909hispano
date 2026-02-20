@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 13,
+  "verse": 2,
+  "text_original": "Cuando el hombre tuviere en la piel de su carne hinchazón, ó postilla, ó mancha blanca, y hubiere en la piel de su carne como llaga de lepra, será traído á Aarón el sacerdote, ó á uno de los sacerdotes sus hijos:",
+  "text_modernized": "Cuando el hombre tuviere en la piel de su carne hinchazón, ó postilla, ó mancha blanca, y hubiere en la piel de su carne como llaga de lepra, será traído á Aarón el sacerdote, ó á uno de los sacerdotes sus hijos:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.503194Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

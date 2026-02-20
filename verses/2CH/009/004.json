@@ -1,0 +1,20 @@
+{
+  "book": "2CH",
+  "chapter": 9,
+  "verse": 4,
+  "text_original": "Y las viandas de su mesa, y el asiento de sus siervos, y el estado de sus criados, y los vestidos de ellos, sus maestresalas y sus vestidos, y su subida por donde subía á la casa de Jehová, no quedó más espíritu en ella.",
+  "text_modernized": "Y las viandas de su mesa, y el asiento de sus siervos, y el estado de sus criados, y los vestidos de ellos, sus maestresalas y sus vestidos, y su subida por donde subía á la casa de Jehová, no quedó más espíritu en ella.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.022458Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

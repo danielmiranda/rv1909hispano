@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 10,
+  "verse": 38,
+  "text_original": "[Cuanto] á Jesús de Nazaret; cómo le ungió Dios de Espíritu Santo y de potencia; el cual anduvo haciendo bienes, y sanando á todos los oprimidos del diablo; porque Dios era con él.",
+  "text_modernized": "[Cuanto] á Jesús de Nazaret; cómo le ungió Dios de Espíritu Santo y de potencia; el cual anduvo haciendo bienes, y sanando á todos los oprimidos del diablo; porque Dios era con él.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.563920Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

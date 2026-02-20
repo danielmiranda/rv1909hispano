@@ -1,0 +1,20 @@
+{
+  "book": "1JN",
+  "chapter": 3,
+  "verse": 4,
+  "text_original": "Cualquiera que hace pecado, traspasa también la ley; pues el pecado es transgresión de la ley.",
+  "text_modernized": "Cualquiera que hace pecado, traspasa también la ley; pues el pecado es transgresión de la ley.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.346351Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

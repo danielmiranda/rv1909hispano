@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 7,
+  "verse": 40,
+  "text_original": "Empero más venturosa será si se quedare así, según mi consejo; y pienso que también yo tengo Espíritu de Dios.",
+  "text_modernized": "Empero más venturosa será si se quedare así, según mi consejo; y pienso que también yo tengo Espíritu de Dios.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.852304Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 78,
+  "verse": 8,
+  "text_original": "Y no sean como sus padres, generación contumaz y rebelde; generación que no apercibió su corazón, ni fué fiel para con Dios su espíritu.",
+  "text_modernized": "Y no sean como sus padres, generación contumaz y rebelde; generación que no apercibió su corazón, ni fue fiel para con Dios su espíritu.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:07.942435Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

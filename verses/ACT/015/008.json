@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 15,
+  "verse": 8,
+  "text_original": "Y Dios, que conoce los corazones, les dió testimonio, dándoles el Espíritu Santo también como á nosotros;",
+  "text_modernized": "Y Dios, que conoce los corazones, les dió testimonio, dándoles el Espíritu Santo también como á nosotros;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.597713Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

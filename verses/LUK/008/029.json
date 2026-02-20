@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 8,
+  "verse": 29,
+  "text_original": "(Porque mandaba al espíritu inmundo que saliese del hombre: porque [ya] de mucho tiempo le arrebataba; y le guardaban preso con cadenas y grillos; mas rompiendo las prisiones, era agitado del demonio por los desiertos.)",
+  "text_modernized": "(Porque mandaba al espíritu inmundo que saliese del hombre: porque [ya] de mucho tiempo le arrebataba; y le guardaban preso con cadenas y grillos; mas rompiendo las prisiones, era agitado del demonio por los desiertos.)",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.096154Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

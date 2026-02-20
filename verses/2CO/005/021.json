@@ -1,0 +1,20 @@
+{
+  "book": "2CO",
+  "chapter": 5,
+  "verse": 21,
+  "text_original": "Al que no conoció pecado, hizo pecado por nosotros, para que nosotros fuésemos hechos justicia de Dios en él.",
+  "text_modernized": "Al que no conoció pecado, hizo pecado por nosotros, para que nosotros fuésemos hechos justicia de Dios en él.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.946311Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 14,
+  "verse": 9,
+  "text_original": "Y será, que al séptimo día raerá todos sus pelos, su cabeza, y su barba, y las cejas de sus ojos; finalmente, raerá todo su pelo, y lavará sus vestidos, y lavará su carne en aguas, y será limpio.",
+  "text_modernized": "Y será, que al séptimo día raerá todos sus pelos, su cabeza, y su barba, y las cejas de sus ojos; finalmente, raerá todo su pelo, y lavará sus vestidos, y lavará su carne en aguas, y será limpio.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.518989Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

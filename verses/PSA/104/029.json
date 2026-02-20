@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 104,
+  "verse": 29,
+  "text_original": "Escondes tu rostro, túrbanse: les quitas el espíritu, dejan de ser, y tórnanse en su polvo.",
+  "text_modernized": "Escondes tu rostro, túrbanse: les quitas el espíritu, dejan de ser, y tórnanse en su polvo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.245123Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

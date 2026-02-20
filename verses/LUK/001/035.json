@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 1,
+  "verse": 35,
+  "text_original": "Y respondiendo el ángel le dijo: El Espíritu Santo vendrá sobre ti, y la virtud del Altísimo te hará sombra; por lo cual también lo Santo que nacerá, será llamado Hijo de Dios.",
+  "text_modernized": "Y respondiendo el ángel le dijo: El Espíritu Santo vendrá sobre ti, y la virtud del Altísimo te hará sombra; por lo cual también lo Santo que nacerá, será llamado Hijo de Dios.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.005722Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

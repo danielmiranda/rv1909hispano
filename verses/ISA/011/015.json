@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 11,
+  "verse": 15,
+  "text_original": "Y secará Jehová la lengua de la mar de Egipto; y levantará su mano con fortaleza de su espíritu sobre el río, y herirálo en [sus] siete brazos, y hará que pasen [por él] con zapatos.",
+  "text_modernized": "Y secará Jehová la lengua de la mar de Egipto; y levantará su mano con fortaleza de su espíritu sobre el río, y herirálo en [sus] siete brazos, y hará que pasen [por él] con zapatos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.281440Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

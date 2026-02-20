@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 16,
+  "verse": 15,
+  "text_original": "Y los criados de Saúl le dijeron: He aquí ahora, que el espíritu malo de parte de Dios te atormenta.",
+  "text_modernized": "Y los criados de Saúl le dijeron: He aquí ahora, que el espíritu malo de parte de Dios te atormenta.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.117789Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

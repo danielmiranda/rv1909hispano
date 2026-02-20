@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 21,
+  "verse": 14,
+  "text_original": "Además, si alguno se ensoberbeciere contra su prójimo, y lo matare con alevosía, de mi altar lo quitarás para que muera.",
+  "text_modernized": "Además, si alguno se ensoberbeciere contra su prójimo, y lo matare con alevosía, de mi altar lo quitarás para que muera.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.257938Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

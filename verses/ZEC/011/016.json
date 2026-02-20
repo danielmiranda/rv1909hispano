@@ -1,0 +1,20 @@
+{
+  "book": "ZEC",
+  "chapter": 11,
+  "verse": 16,
+  "text_original": "Porque he aquí, yo levanto pastor en la tierra, que no visitará las perdidas, no buscará la pequeña, no curará la perniquebrada, ni llevará la cansada á cuestas; sino que se comerá la carne de la gruesa, y romperá sus uñas.",
+  "text_modernized": "Porque he aquí, yo levanto pastor en la tierra, que no visitará las perdidas, no buscará la pequeña, no curará la perniquebrada, ni llevará la cansada á cuestas; sino que se comerá la carne de la gruesa, y romperá sus uñas.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.562852Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

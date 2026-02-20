@@ -1,0 +1,20 @@
+{
+  "book": "1JN",
+  "chapter": 4,
+  "verse": 13,
+  "text_original": "En esto conocemos que estamos en él, y él en nosotros, en que nos ha dado de su Espíritu.",
+  "text_modernized": "En esto conocemos que estamos en él, y él en nosotros, en que nos ha dado de su Espíritu.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.356874Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

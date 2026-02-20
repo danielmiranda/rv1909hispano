@@ -1,0 +1,20 @@
+{
+  "book": "DAN",
+  "chapter": 6,
+  "verse": 3,
+  "text_original": "Pero el mismo Daniel era superior á estos gobernadores y presidentes, porque había en él más abundancia de espíritu: y el rey pensaba de ponerlo sobre todo el reino.",
+  "text_modernized": "Pero el mismo Daniel era superior á estos gobernadores y presidentes, porque había en él más abundancia de espíritu: y el rey pensaba de ponerlo sobre todo el reino.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.284557Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

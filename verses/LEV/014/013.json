@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 14,
+  "verse": 13,
+  "text_original": "Y degollará el cordero en el lugar donde degüellan la víctima por el pecado y el holocausto, en el lugar del santuario: porque como la víctima por el pecado, así también la víctima por la culpa es del sacerdote: es cosa muy sagrada.",
+  "text_modernized": "Y degollará el cordero en el lugar donde degüellan la víctima por el pecado y el holocausto, en el lugar del santuario: porque como la víctima por el pecado, así también la víctima por la culpa es del sacerdote: es cosa muy sagrada.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.519888Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

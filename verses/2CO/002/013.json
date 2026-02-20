@@ -1,0 +1,20 @@
+{
+  "book": "2CO",
+  "chapter": 2,
+  "verse": 13,
+  "text_original": "No tuve reposo en mi espíritu, por no haber hallado á Tito mi hermano: así, despidiéndome de ellos, partí para Macedonia.",
+  "text_modernized": "No tuve reposo en mi espíritu, por no haber hallado á Tito mi hermano: así, despidiéndome de ellos, partí para Macedonia.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.933717Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 3,
+  "verse": 13,
+  "text_original": "Y pondrá su mano sobre la cabeza de ella, y la degollará delante del tabernáculo del testimonio; y los hijos de Aarón rociarán su sangre sobre el altar en derredor.",
+  "text_modernized": "Y pondrá su mano sobre la cabeza de ella, y la degollará delante del tabernáculo del testimonio; y los hijos de Aarón rociarán su sangre sobre el altar en derredor.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.440203Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

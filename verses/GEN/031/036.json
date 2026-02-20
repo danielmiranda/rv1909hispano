@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 31,
+  "verse": 36,
+  "text_original": "Entonces Jacob se enojó, y regañó con Labán; y respondió Jacob y dijo á Labán: ¿Qué prevaricación es la mía? ¿cuál es mi pecado, que con tanto ardor has venido en seguimiento mío?",
+  "text_modernized": "Entonces Jacob se enojó, y regañó con Labán; y respondió Jacob y dijo á Labán: ¿Qué prevaricación es la mía? ¿cuál es mi pecado, que con tanto ardor has venido en seguimiento mío?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:02.946430Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

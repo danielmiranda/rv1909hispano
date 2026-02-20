@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 6,
+  "verse": 25,
+  "text_original": "Habla á Aarón y á sus hijos, diciendo: Esta es la ley de la expiación: en el lugar donde será degollado el holocausto, será degollada la expiación por el pecado delante de Jehová: es cosa santísima.",
+  "text_modernized": "Habla á Aarón y á sus hijos, diciendo: Esta es la ley de la expiación: en el lugar donde será degollado el holocausto, será degollada la expiación por el pecado delante de Jehová: es cosa santísima.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.459171Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

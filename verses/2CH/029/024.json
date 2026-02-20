@@ -1,0 +1,20 @@
+{
+  "book": "2CH",
+  "chapter": 29,
+  "verse": 24,
+  "text_original": "Y los sacerdotes los mataron, y expiando [esparcieron] la sangre de ellos sobre el altar, para reconciliar á todo Israel: porque por todo Israel mandó el rey [hacer] el holocausto y la expiación.",
+  "text_modernized": "Y los sacerdotes los mataron, y expiando [esparcieron] la sangre de ellos sobre el altar, para reconciliar á todo Israel: porque por todo Israel mandó el rey [hacer] el holocausto y la expiación.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.138960Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

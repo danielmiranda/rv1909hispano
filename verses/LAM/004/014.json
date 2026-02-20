@@ -1,0 +1,20 @@
+{
+  "book": "LAM",
+  "chapter": 4,
+  "verse": 14,
+  "text_original": "Titubearon como ciegos en las calles, fueron contaminados en sangre, de modo que no pudiesen tocar á sus vestiduras.",
+  "text_modernized": "Titubearon como ciegos en las calles, fueron contaminados en sangre, de modo que no pudiesen tocar á sus vestiduras.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.936015Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

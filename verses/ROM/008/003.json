@@ -1,0 +1,25 @@
+{
+  "book": "ROM",
+  "chapter": 8,
+  "verse": 3,
+  "text_original": "Porque lo que era imposible á la ley, por cuanto era débil por la carne, Dios enviando á su Hijo en semejanza de carne de pecado, y á causa del pecado, condenó al pecado en la carne;",
+  "text_modernized": "Porque lo que era imposible á la ley, por cuanto era débil por la carne, Dios enviando á su Hijo en semejanza de carne de pecado, y á causa del pecado, condenó al pecado en la carne;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.761123Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    },
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

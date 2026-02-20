@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 5,
+  "verse": 13,
+  "text_original": "Y hará el sacerdote expiación por él de su pecado que cometió en alguna de estas cosas, y será perdonado; y [el sobrante] será del sacerdote, como el presente de vianda.",
+  "text_modernized": "Y hará el sacerdote expiación por él de su pecado que cometió en alguna de estas cosas, y será perdonado; y [el sobrante] será del sacerdote, como el presente de vianda.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.452247Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "2CO",
+  "chapter": 7,
+  "verse": 13,
+  "text_original": "Por tanto, tomamos consolación de vuestra consolación: empero mucho más nos gozamos por el gozo de Tito, que haya sido recreado su espíritu de todos vosotros.",
+  "text_modernized": "Por tanto, tomamos consolación de vuestra consolación: empero mucho más nos gozamos por el gozo de Tito, que haya sido recreado su espíritu de todos vosotros.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.954499Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

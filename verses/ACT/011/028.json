@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 11,
+  "verse": 28,
+  "text_original": "Y levantándose uno de ellos, llamado Agabo, daba á entender por Espíritu, que había de haber una grande hambre en toda la tierra habitada: la cual hubo en tiempo de Claudio.",
+  "text_modernized": "Y levantándose uno de ellos, llamado Agabo, daba á entender por Espíritu, que había de haber una grande hambre en toda la tierra habitada: la cual hubo en tiempo de Claudio.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.571911Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

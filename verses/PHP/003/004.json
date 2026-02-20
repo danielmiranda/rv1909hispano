@@ -1,0 +1,20 @@
+{
+  "book": "PHP",
+  "chapter": 3,
+  "verse": 4,
+  "text_original": "Aunque yo tengo también de qué confiar en la carne. Si alguno parece que tiene de qué confiar en la carne, yo más:",
+  "text_modernized": "Aunque yo tengo también de qué confiar en la carne. Si alguno parece que tiene de qué confiar en la carne, yo más:",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.082409Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

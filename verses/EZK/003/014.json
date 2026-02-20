@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 3,
+  "verse": 14,
+  "text_original": "Levantóme pues el espíritu, y me tomó; y fuí en amargura, en la indignación de mi espíritu: mas la mano de Jehová era fuerte sobre mí.",
+  "text_modernized": "Levantóme pues el espíritu, y me tomó; y fuí en amargura, en la indignación de mi espíritu: mas la mano de Jehová era fuerte sobre mí.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.953252Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

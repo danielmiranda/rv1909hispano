@@ -1,0 +1,25 @@
+{
+  "book": "LEV",
+  "chapter": 19,
+  "verse": 16,
+  "text_original": "No andarás chismeando en tus pueblos. No te pondrás contra la sangre de tu prójimo: Yo Jehová.",
+  "text_modernized": "No andarás chismeando en tus pueblos. No te pondrás contra la sangre de tu prójimo: Yo Jehová.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.562419Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    },
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

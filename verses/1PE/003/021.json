@@ -1,0 +1,20 @@
+{
+  "book": "1PE",
+  "chapter": 3,
+  "verse": 21,
+  "text_original": "A la figura de la cual el bautismo que ahora corresponde nos salva (no quitando las inmundicias de la carne, sino [como] demanda de una buena conciencia delante de Dios,) por la resurrección de Jesucristo:",
+  "text_modernized": "A la figura de la cual el bautismo que ahora corresponde nos salva (no quitando las inmundicias de la carne, sino [como] demanda de una buena conciencia delante de Dios,) por la resurrección de Jesucristo:",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.314049Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

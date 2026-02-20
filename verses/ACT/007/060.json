@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 7,
+  "verse": 60,
+  "text_original": "Y puesto de rodillas, clamó á gran voz: Señor, no les imputes este pecado. Y habiendo dicho esto, durmió.",
+  "text_modernized": "Y puesto de rodillas, clamó á gran voz: Señor, no les imputes este pecado. Y habiendo dicho esto, durmió.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.537214Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

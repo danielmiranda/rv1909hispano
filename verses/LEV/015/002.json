@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 15,
+  "verse": 2,
+  "text_original": "Hablad á los hijos de Israel, y decidles: Cualquier varón, cuando su simiente manare de su carne, será inmundo.",
+  "text_modernized": "Hablad á los hijos de Israel, y decidles: Cualquier varón, cuando su simiente manare de su carne, será inmundo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.532742Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

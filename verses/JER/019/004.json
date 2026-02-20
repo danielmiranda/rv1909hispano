@@ -1,0 +1,20 @@
+{
+  "book": "JER",
+  "chapter": 19,
+  "verse": 4,
+  "text_original": "Porque me dejaron, y enajenaron este lugar, y ofrecieron en él perfumes á dioses ajenos, los cuales no habían ellos conocido, ni sus padres, ni los reyes de Judá; y llenaron este lugar de sangre de inocentes;",
+  "text_modernized": "Porque me dejaron, y enajenaron este lugar, y ofrecieron en él perfumes á dioses ajenos, los cuales no habían ellos conocido, ni sus padres, ni los reyes de Judá; y llenaron este lugar de sangre de inocentes;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.669625Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "GAL",
+  "chapter": 6,
+  "verse": 12,
+  "text_original": "Todos los que quieren agradar en la carne, éstos os constriñen á que os circuncidéis, solamente por no padecer persecución por la cruz de Cristo.",
+  "text_modernized": "Todos los que quieren agradar en la carne, éstos os constriñen á que os circuncidéis, solamente por no padecer persecución por la cruz de Cristo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.017313Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

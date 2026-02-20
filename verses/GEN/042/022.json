@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 42,
+  "verse": 22,
+  "text_original": "Entonces Rubén les respondió, diciendo: ¿No os hablé yo y dije: No pequéis contra el mozo; y no escuchasteis? He aquí también su sangre es requerida.",
+  "text_modernized": "Entonces Rubén les respondió, diciendo: ¿No os hablé yo y dije: No pequéis contra el mozo; y no escuchasteis? He aquí también su sangre es requerida.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.059607Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

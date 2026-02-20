@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 5,
+  "verse": 7,
+  "text_original": "Y si no le alcanzare para un cordero, traerá en expiación por su pecado que cometió, dos tórtolas ó dos palominos á Jehová; el uno para expiación, y el otro para holocausto.",
+  "text_modernized": "Y si no le alcanzare para un cordero, traerá en expiación por su pecado que cometió, dos tórtolas ó dos palominos á Jehová; el uno para expiación, y el otro para holocausto.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.451052Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

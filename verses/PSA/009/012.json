@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 9,
+  "verse": 12,
+  "text_original": "Porque demandando la sangre se acordó de ellos: no se olvidó del clamor de los pobres.",
+  "text_modernized": "Porque demandando la sangre se acordó de ellos: no se olvidó del clamor de los pobres.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.602749Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

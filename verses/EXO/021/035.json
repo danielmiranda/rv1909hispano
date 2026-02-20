@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 21,
+  "verse": 35,
+  "text_original": "Y si el buey de alguno hiriere al buey de su prójimo, y éste muriere, entonces venderán el buey vivo, y partirán el dinero de él, y también partirán el muerto.",
+  "text_modernized": "Y si el buey de alguno hiriere al buey de su prójimo, y éste muriere, entonces venderán el buey vivo, y partirán el dinero de él, y también partirán el muerto.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.262827Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

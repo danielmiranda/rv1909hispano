@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 10,
+  "verse": 18,
+  "text_original": "Mirad á Israel según la carne: los que comen de los sacrificios ¿no son partícipes con el altar?",
+  "text_modernized": "Mirad á Israel según la carne: los que comen de los sacrificios ¿no son partícipes con el altar?",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.865229Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

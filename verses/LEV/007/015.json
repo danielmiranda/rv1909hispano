@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 7,
+  "verse": 15,
+  "text_original": "Y la carne del sacrificio de sus pacíficos en hacimiento de gracias, se comerá en el día que fuere ofrecida: no dejarán de ella nada para otro día.",
+  "text_modernized": "Y la carne del sacrificio de sus pacíficos en hacimiento de gracias, se comerá en el día que fuere ofrecida: no dejarán de ella nada para otro día.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.463410Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

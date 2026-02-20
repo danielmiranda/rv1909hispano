@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 3,
+  "verse": 22,
+  "text_original": "Y descendió el Espíritu Santo sobre él en forma corporal, como paloma, y fué hecha una voz del cielo que decía: Tú eres mi Hijo amado, en ti me he complacido.",
+  "text_modernized": "Y descendió el Espíritu Santo sobre él en forma corporal, como paloma, y fue hecha una voz del cielo que decía: Tú eres mi Hijo amado, en ti me he complacido.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.030098Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

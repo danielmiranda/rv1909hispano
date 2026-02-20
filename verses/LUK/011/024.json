@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 11,
+  "verse": 24,
+  "text_original": "Cuando el espíritu inmundo saliere del hombre, anda por lugares secos, buscando reposo; y no hallándolo, dice: Me volveré á mi casa de donde salí.",
+  "text_modernized": "Cuando el espíritu inmundo saliere del hombre, anda por lugares secos, buscando reposo; y no hallándolo, dice: Me volveré á mi casa de donde salí.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.156594Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "DAN",
+  "chapter": 4,
+  "verse": 8,
+  "text_original": "Hasta tanto que entró delante de mí Daniel, cuyo nombre es Beltsasar, como el nombre de mi dios, y en el cual hay espíritu de los dioses santos, y dije el sueño delante de él, [diciendo]:",
+  "text_modernized": "Hasta tanto que entró delante de mí Daniel, cuyo nombre es Beltsasar, como el nombre de mi dios, y en el cual hay espíritu de los dioses santos, y dije el sueño delante de él, [diciendo]:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.271030Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

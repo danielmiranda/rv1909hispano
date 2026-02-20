@@ -1,0 +1,20 @@
+{
+  "book": "MAT",
+  "chapter": 3,
+  "verse": 16,
+  "text_original": "Y Jesús, después que fué bautizado, subió luego del agua; y he aquí los cielos le fueron abiertos, y vió al Espíritu de Dios que descendía como paloma, y venía sobre él.",
+  "text_modernized": "Y Jesús, después que fue bautizado, subió luego del agua; y he aquí los cielos le fueron abiertos, y vió al Espíritu de Dios que descendía como paloma, y venía sobre él.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.617927Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

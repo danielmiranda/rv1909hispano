@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 5,
+  "verse": 28,
+  "text_original": "Diciendo: ¿No os denunciamos estrechamente, que no enseñaseis en este nombre? y he aquí, habéis llenado á Jerusalem de vuestra doctrina, y queréis echar sobre nosotros la sangre de este hombre.",
+  "text_modernized": "Diciendo: ¿No os denunciamos estrechamente, que no enseñaseis en este nombre? y he aquí, habéis llenado á Jerusalem de vuestra doctrina, y queréis echar sobre nosotros la sangre de este hombre.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.517538Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

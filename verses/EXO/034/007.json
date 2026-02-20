@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 34,
+  "verse": 7,
+  "text_original": "Que guarda la misericordia en millares, que perdona la iniquidad, la rebelión, y el pecado, y que de ningún modo justificará al malvado; que visita la iniquidad de los padres sobre los hijos y sobre los hijos de los hijos, sobre los terceros, y sobre los cuartos.",
+  "text_modernized": "Que guarda la misericordia en millares, que perdona la iniquidad, la rebelión, y el pecado, y que de ningún modo justificará al malvado; que visita la iniquidad de los padres sobre los hijos y sobre los hijos de los hijos, sobre los terceros, y sobre los cuartos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.374472Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ZEC",
+  "chapter": 9,
+  "verse": 11,
+  "text_original": "Y tú también por la sangre de tu pacto serás salva; yo he sacado tus presos del aljibe en que no hay agua.",
+  "text_modernized": "Y tú también por la sangre de tu pacto serás salva; yo he sacado tus presos del aljibe en que no hay agua.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.555024Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

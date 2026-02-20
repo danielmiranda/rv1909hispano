@@ -1,0 +1,20 @@
+{
+  "book": "DAN",
+  "chapter": 1,
+  "verse": 15,
+  "text_original": "Y al cabo de los diez días pareció el rostro de ellos mejor y más nutrido de carne, que los otros muchachos que comían de la ración de la comida del rey.",
+  "text_modernized": "Y al cabo de los diez días pareció el rostro de ellos mejor y más nutrido de carne, que los otros muchachos que comían de la ración de la comida del rey.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.249978Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

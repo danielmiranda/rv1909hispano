@@ -1,0 +1,25 @@
+{
+  "book": "MIC",
+  "chapter": 3,
+  "verse": 8,
+  "text_original": "Yo empero estoy lleno de fuerza del espíritu de Jehová, y de juicio, y de fortaleza, para denunciar á Jacob su rebelión, y á Israel su pecado.",
+  "text_modernized": "Yo empero estoy lleno de fuerza del espíritu de Jehová, y de juicio, y de fortaleza, para denunciar á Jacob su rebelión, y á Israel su pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.468346Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

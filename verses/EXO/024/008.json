@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 24,
+  "verse": 8,
+  "text_original": "Entonces Moisés tomó la sangre, y roció sobre el pueblo, y dijo: He aquí la sangre de la alianza que Jehová ha hecho con vosotros sobre todas estas cosas.",
+  "text_modernized": "Entonces Moisés tomó la sangre, y roció sobre el pueblo, y dijo: He aquí la sangre de la alianza que Jehová ha hecho con vosotros sobre todas estas cosas.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.279370Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

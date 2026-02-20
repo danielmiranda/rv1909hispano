@@ -1,0 +1,25 @@
+{
+  "book": "LEV",
+  "chapter": 17,
+  "verse": 11,
+  "text_original": "Porque la vida de la carne en la sangre está: y yo os la he dado para expiar vuestras personas sobre el altar: por lo cual la misma sangre expiará la persona.",
+  "text_modernized": "Porque la vida de la carne en la sangre está: y yo os la he dado para expiar vuestras personas sobre el altar: por lo cual la misma sangre expiará la persona.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.551242Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    },
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

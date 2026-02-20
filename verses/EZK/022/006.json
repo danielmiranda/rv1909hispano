@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 22,
+  "verse": 6,
+  "text_original": "He aquí que los príncipes de Israel, cada uno según su poder, fueron en ti para derramar sangre.",
+  "text_modernized": "He aquí que los príncipes de Israel, cada uno según su poder, fueron en ti para derramar sangre.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.076418Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

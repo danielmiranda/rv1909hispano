@@ -1,0 +1,20 @@
+{
+  "book": "MRK",
+  "chapter": 2,
+  "verse": 8,
+  "text_original": "Y conociendo luego Jesús en su espíritu que pensaban así dentro de sí mismos, les dijo: ¿Por qué pensáis estas cosas en vuestros corazones?",
+  "text_modernized": "Y conociendo luego Jesús en su espíritu que pensaban así dentro de sí mismos, les dijo: ¿Por qué pensáis estas cosas en vuestros corazones?",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.849961Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

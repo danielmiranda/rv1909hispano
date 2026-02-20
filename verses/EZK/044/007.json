@@ -1,0 +1,25 @@
+{
+  "book": "EZK",
+  "chapter": 44,
+  "verse": 7,
+  "text_original": "De haber vosotros traído extranjeros, incircuncisos de corazón é incircuncisos de carne, para estar en mi santuario, para contaminar mi casa; de haber ofrecido mi pan, la grosura y la sangre: é invalidaron mi pacto por todas vuestras abominaciones:",
+  "text_modernized": "De haber vosotros traído extranjeros, incircuncisos de corazón é incircuncisos de carne, para estar en mi santuario, para contaminar mi casa; de haber ofrecido mi pan, la grosura y la sangre: é invalidaron mi pacto por todas vuestras abominaciones:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.216355Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    },
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "book": "1JN",
+  "chapter": 5,
+  "verse": 6,
+  "text_original": "Este es Jesucristo, que vino por agua y sangre: no por agua solamente, sino por agua y sangre. Y el Espíritu es el que da testimonio: porque el Espíritu es la verdad.",
+  "text_modernized": "Este es Jesucristo, que vino por agua y sangre: no por agua solamente, sino por agua y sangre. Y el Espíritu es el que da testimonio: porque el Espíritu es la verdad.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.373236Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

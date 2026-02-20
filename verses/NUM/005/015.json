@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 5,
+  "verse": 15,
+  "text_original": "Entonces el marido traerá su mujer al sacerdote, y traerá su ofrenda con ella, la décima de un epha de harina de cebada; no echará sobre ella aceite, ni pondrá sobre ella incienso: porque es presente de celos, presente de recordación, que trae en memoria pecado.",
+  "text_modernized": "Entonces el marido traerá su mujer al sacerdote, y traerá su ofrenda con ella, la décima de un epha de harina de cebada; no echará sobre ella aceite, ni pondrá sobre ella incienso: porque es presente de celos, presente de recordación, que trae en memoria pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.196527Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

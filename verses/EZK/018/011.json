@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 18,
+  "verse": 11,
+  "text_original": "Y que no haga las otras; antes comiere sobre los montes, ó violare la mujer de su prójimo,",
+  "text_modernized": "Y que no haga las otras; antes comiere sobre los montes, ó violare la mujer de su prójimo,",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.049897Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

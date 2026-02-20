@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 7,
+  "verse": 17,
+  "text_original": "Así ha dicho Jehová: En esto conocerás que yo soy Jehová: he aquí, yo heriré con la vara que tengo en mi mano el agua que está en el río, y se convertirá en sangre:",
+  "text_modernized": "Así ha dicho Jehová: En esto conocerás que yo soy Jehová: he aquí, yo heriré con la vara que tengo en mi mano el agua que está en el río, y se convertirá en sangre:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.165768Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

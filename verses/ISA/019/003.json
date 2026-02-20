@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 19,
+  "verse": 3,
+  "text_original": "Y el espíritu de Egipto se desvanecerá en medio de él, y destruiré su consejo; y preguntarán á sus imágenes, á sus mágicos, á sus pythones y á sus adivinos.",
+  "text_modernized": "Y el espíritu de Egipto se desvanecerá en medio de él, y destruiré su consejo; y preguntarán á sus imágenes, á sus mágicos, á sus pythones y á sus adivinos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.308874Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

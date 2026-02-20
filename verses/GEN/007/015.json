@@ -1,0 +1,25 @@
+{
+  "book": "GEN",
+  "chapter": 7,
+  "verse": 15,
+  "text_original": "Y vinieron á Noé al arca, de dos en dos de toda carne en que había espíritu de vida.",
+  "text_modernized": "Y vinieron á Noé al arca, de dos en dos de toda carne en que había espíritu de vida.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:02.783971Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

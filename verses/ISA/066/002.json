@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 66,
+  "verse": 2,
+  "text_original": "Mi mano hizo todas estas cosas, y [así] todas estas cosas fueron, dice Jehová: mas á aquél miraré que es pobre y humilde de espíritu, y que tiembla á mi palabra.",
+  "text_modernized": "Mi mano hizo todas estas cosas, y [así] todas estas cosas fueron, dice Jehová: mas á aquél miraré que es pobre y humilde de espíritu, y que tiembla á mi palabra.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.537241Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

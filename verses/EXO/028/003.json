@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 28,
+  "verse": 3,
+  "text_original": "Y tú hablarás á todos los sabios de corazón, á quienes yo he henchido de espíritu de sabiduría, á fin que hagan los vestidos de Aarón, para consagrarle á que me sirva de sacerdote.",
+  "text_modernized": "Y tú hablarás á todos los sabios de corazón, á quienes yo he henchido de espíritu de sabiduría, á fin que hagan los vestidos de Aarón, para consagrarle á que me sirva de sacerdote.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.302822Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

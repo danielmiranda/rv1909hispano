@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 2,
+  "verse": 26,
+  "text_original": "Y había recibido respuesta del Espíritu Santo, que no vería la muerte antes que viese al Cristo del Señor.",
+  "text_modernized": "Y había recibido respuesta del Espíritu Santo, que no vería la muerte antes que viese al Cristo del Señor.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.020276Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

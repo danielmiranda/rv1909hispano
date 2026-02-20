@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 94,
+  "verse": 21,
+  "text_original": "Pónense en corros contra la vida del justo, y condenan la sangre inocente.",
+  "text_modernized": "Pónense en corros contra la vida del justo, y condenan la sangre inocente.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.207795Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

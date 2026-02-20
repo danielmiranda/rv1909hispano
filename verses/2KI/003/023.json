@@ -1,0 +1,20 @@
+{
+  "book": "2KI",
+  "chapter": 3,
+  "verse": 23,
+  "text_original": "Y dijeron: ¡Sangre es esta de espada! Los reyes se han revuelto, y cada uno ha muerto á su compañero. Ahora pues, ¡Moab, á la presa!",
+  "text_modernized": "Y dijeron: ¡Sangre es esta de espada! Los reyes se han revuelto, y cada uno ha muerto á su compañero. Ahora pues, ¡Moab, á la presa!",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.599719Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

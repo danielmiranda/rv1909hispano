@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 19,
+  "verse": 20,
+  "text_original": "Mi cuero y mi carne se pegaron á mis huesos; y he escapado con la piel de mis dientes.",
+  "text_modernized": "Mi cuero y mi carne se pegaron á mis huesos; y he escapado con la piel de mis dientes.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.468418Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

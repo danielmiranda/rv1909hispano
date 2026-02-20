@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 21,
+  "verse": 32,
+  "text_original": "Del fuego serás para ser consumido; tu sangre será en medio de la tierra; no habrá más memoria de ti: porque yo Jehová he hablado.",
+  "text_modernized": "Del fuego serás para ser consumido; tu sangre será en medio de la tierra; no habrá más memoria de ti: porque yo Jehová he hablado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.074623Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

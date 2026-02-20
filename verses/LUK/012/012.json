@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 12,
+  "verse": 12,
+  "text_original": "Porque el Espíritu Santo os enseñará en la misma hora lo que será necesario decir.",
+  "text_modernized": "Porque el Espíritu Santo os enseñará en la misma hora lo que será necesario decir.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.165986Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

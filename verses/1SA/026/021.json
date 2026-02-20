@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 26,
+  "verse": 21,
+  "text_original": "Entonces dijo Saúl: He pecado: vuélvete, hijo mío David, que ningún mal te haré más, pues que mi vida ha sido estimada hoy en tus ojos. He aquí, yo he hecho neciamente, y he errado en gran manera.",
+  "text_modernized": "Entonces dijo Saúl: He pecado: vuélvete, hijo mío David, que ningún mal te haré más, pues que mi vida ha sido estimada hoy en tus ojos. He aquí, yo he hecho neciamente, y he errado en gran manera.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.200611Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

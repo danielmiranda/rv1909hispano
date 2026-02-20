@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 17,
+  "verse": 26,
+  "text_original": "Y de una sangre ha hecho todo el linaje de los hombres, para que habitasen sobre toda la faz de la tierra; y [les] ha prefijado el orden de los tiempos, y los términos de la habitación de ellos;",
+  "text_modernized": "Y de una sangre ha hecho todo el linaje de los hombres, para que habitasen sobre toda la faz de la tierra; y [les] ha prefijado el orden de los tiempos, y los términos de la habitación de ellos;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.630398Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

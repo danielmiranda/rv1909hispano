@@ -1,0 +1,20 @@
+{
+  "book": "DAN",
+  "chapter": 5,
+  "verse": 11,
+  "text_original": "En tu reino hay un varón, en el cual [mora] el espíritu de los dioses santos; y en los días de tu padre se halló en él luz é inteligencia y sabiduría, como ciencia de los dioses: al cual el rey Nabucodonosor, tu padre, el rey tu padre constituyó príncipe sobre todos los magos, astrólogos, Caldeos, y adivinos:",
+  "text_modernized": "En tu reino hay un varón, en el cual [mora] el espíritu de los dioses santos; y en los días de tu padre se halló en él luz é inteligencia y sabiduría, como ciencia de los dioses: al cual el rey Nabucodonosor, tu padre, el rey tu padre constituyó príncipe sobre todos los magos, astrólogos, Caldeos, y adivinos:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.279986Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

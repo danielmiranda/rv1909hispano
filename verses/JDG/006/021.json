@@ -1,0 +1,20 @@
+{
+  "book": "JDG",
+  "chapter": 6,
+  "verse": 21,
+  "text_original": "Y extendiendo el ángel de Jehová el bordón que tenía en su mano, tocó con la punta en la carne y en los panes sin levadura; y subió fuego de la peña, el cual consumió la carne y los panes sin levadura. Y el ángel de Jehová desapareció de delante de él.",
+  "text_modernized": "Y extendiendo el ángel de Jehová el bordón que tenía en su mano, tocó con la punta en la carne y en los panes sin levadura; y subió fuego de la peña, el cual consumió la carne y los panes sin levadura. Y el ángel de Jehová desapareció de delante de él.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.884451Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

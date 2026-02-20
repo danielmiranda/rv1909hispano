@@ -1,0 +1,20 @@
+{
+  "book": "JDG",
+  "chapter": 10,
+  "verse": 15,
+  "text_original": "Y los hijos de Israel respondieron á Jehová: Hemos pecado; haz tú con nosotros como bien te pareciere: solamente que ahora nos libres en este día.",
+  "text_modernized": "Y los hijos de Israel respondieron á Jehová: Hemos pecado; haz tú con nosotros como bien te pareciere: solamente que ahora nos libres en este día.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.935961Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

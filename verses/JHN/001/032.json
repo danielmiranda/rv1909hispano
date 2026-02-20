@@ -1,0 +1,20 @@
+{
+  "book": "JHN",
+  "chapter": 1,
+  "verse": 32,
+  "text_original": "Y Juan dió testimonio, diciendo: Vi al Espíritu que descendía del cielo como paloma, y reposó sobre él.",
+  "text_modernized": "Y Juan dió testimonio, diciendo: Vi al Espíritu que descendía del cielo como paloma, y reposó sobre él.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.289437Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

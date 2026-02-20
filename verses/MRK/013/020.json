@@ -1,0 +1,20 @@
+{
+  "book": "MRK",
+  "chapter": 13,
+  "verse": 20,
+  "text_original": "Y si el Señor no hubiese abreviado aquellos días, ninguna carne se salvaría; mas por causa de los escogidos que él escogió, abrevió aquellos días.",
+  "text_modernized": "Y si el Señor no hubiese abreviado aquellos días, ninguna carne se salvaría; mas por causa de los escogidos que él escogió, abrevió aquellos días.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.964725Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

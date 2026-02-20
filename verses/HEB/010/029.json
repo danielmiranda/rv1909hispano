@@ -1,0 +1,25 @@
+{
+  "book": "HEB",
+  "chapter": 10,
+  "verse": 29,
+  "text_original": "¿Cuánto pensáis que será más digno de mayor castigo, el que hollare al Hijo de Dios, y tuviere por inmunda la sangre del testamento, en la cual fué santificado, é hiciere afrenta al Espíritu de gracia?",
+  "text_modernized": "¿Cuánto pensáis que será más digno de mayor castigo, el que hollare al Hijo de Dios, y tuviere por inmunda la sangre del testamento, en la cual fue santificado, é hiciere afrenta al Espíritu de gracia?",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.250102Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

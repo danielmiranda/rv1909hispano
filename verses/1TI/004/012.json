@@ -1,0 +1,20 @@
+{
+  "book": "1TI",
+  "chapter": 4,
+  "verse": 12,
+  "text_original": "Ninguno tenga en poco tu juventud; pero sé ejemplo de los fieles en palabra, en conversación, en caridad, en espíritu, en fe, en limpieza.",
+  "text_modernized": "Ninguno tenga en poco tu juventud; pero sé ejemplo de los fieles en palabra, en conversación, en caridad, en espíritu, en fe, en limpieza.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.156028Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

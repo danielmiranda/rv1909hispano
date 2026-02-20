@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 9,
+  "verse": 11,
+  "text_original": "Estableceré mi pacto con vosotros, y no fenecerá ya más toda carne con aguas de diluvio; ni habrá más diluvio para destruir la tierra.",
+  "text_modernized": "Estableceré mi pacto con vosotros, y no fenecerá ya más toda carne con aguas de diluvio; ni habrá más diluvio para destruir la tierra.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:02.794207Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

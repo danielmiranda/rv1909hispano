@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 14,
+  "verse": 33,
+  "text_original": "Y dándole de ello aviso á Saúl, dijéronle: El pueblo peca contra Jehová comiendo con sangre. Y él dijo: Vosotros habéis prevaricado; rodadme ahora acá una grande piedra.",
+  "text_modernized": "Y dándole de ello aviso á Saúl, dijéronle: El pueblo peca contra Jehová comiendo con sangre. Y él dijo: Vosotros habéis prevaricado; rodadme ahora acá una grande piedra.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.100308Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

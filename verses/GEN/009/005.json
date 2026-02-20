@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 9,
+  "verse": 5,
+  "text_original": "Porque ciertamente demandaré la sangre de vuestras vidas; de mano de todo animal la demandaré, y de mano del hombre; de mano del varón su hermano demandaré la vida del hombre.",
+  "text_modernized": "Porque ciertamente demandaré la sangre de vuestras vidas; de mano de todo animal la demandaré, y de mano del hombre; de mano del varón su hermano demandaré la vida del hombre.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:02.792967Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

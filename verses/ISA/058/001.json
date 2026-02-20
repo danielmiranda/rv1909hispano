@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 58,
+  "verse": 1,
+  "text_original": "CLAMA á voz en cuello, no te detengas; alza tu voz como trompeta, y anuncia á mi pueblo su rebelión, y á la casa de Jacob su pecado.",
+  "text_modernized": "CLAMA á voz en cuello, no te detengas; alza tu voz como trompeta, y anuncia á mi pueblo su rebelión, y á la casa de Jacob su pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.505216Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

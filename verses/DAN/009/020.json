@@ -1,0 +1,20 @@
+{
+  "book": "DAN",
+  "chapter": 9,
+  "verse": 20,
+  "text_original": "Aun estaba hablando, y orando, y confesando mi pecado y el pecado de mi pueblo Israel, y derramaba mi ruego delante de Jehová mi Dios por el monte santo de mi Dios;",
+  "text_modernized": "Aun estaba hablando, y orando, y confesando mi pecado y el pecado de mi pueblo Israel, y derramaba mi ruego delante de Jehová mi Dios por el monte santo de mi Dios;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.319048Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

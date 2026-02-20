@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 19,
+  "verse": 5,
+  "text_original": "Porque él puso su alma en su palma, é hirió al Filisteo, y Jehová hizo una gran salud á todo Israel. Tú lo viste, y te holgaste: ¿por qué pues pecarás contra la sangre inocente, matando á David sin causa?",
+  "text_modernized": "Porque él puso su alma en su palma, é hirió al Filisteo, y Jehová hizo una gran salud á todo Israel. Tú lo viste, y te holgaste: ¿por qué pues pecarás contra la sangre inocente, matando á David sin causa?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.140378Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

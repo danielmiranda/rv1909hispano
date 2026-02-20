@@ -1,0 +1,20 @@
+{
+  "book": "ECC",
+  "chapter": 4,
+  "verse": 16,
+  "text_original": "No tiene fin todo el pueblo que fué antes de ellos: tampoco los que vendrán después estarán con él contentos. Y esto es también vanidad y aflicción de espíritu.",
+  "text_modernized": "No tiene fin todo el pueblo que fue antes de ellos: tampoco los que vendrán después estarán con él contentos. Y esto es también vanidad y aflicción de espíritu.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.642863Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

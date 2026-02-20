@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 63,
+  "verse": 14,
+  "text_original": "El espíritu de Jehová los pastoreó, como á una bestia que desciende al valle; así pastoreaste tu pueblo, para hacerte nombre glorioso.",
+  "text_modernized": "El espíritu de Jehová los pastoreó, como á una bestia que desciende al valle; así pastoreaste tu pueblo, para hacerte nombre glorioso.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.526947Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

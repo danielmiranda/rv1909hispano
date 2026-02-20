@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 32,
+  "verse": 8,
+  "text_original": "Ciertamente espíritu hay en el hombre, é inspiración del Omnipotente los hace que entiendan.",
+  "text_modernized": "Ciertamente espíritu hay en el hombre, é inspiración del Omnipotente los hace que entiendan.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.529478Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

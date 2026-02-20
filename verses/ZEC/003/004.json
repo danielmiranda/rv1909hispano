@@ -1,0 +1,20 @@
+{
+  "book": "ZEC",
+  "chapter": 3,
+  "verse": 4,
+  "text_original": "Y habló el [ángel], é intimó á los que estaban delante de sí, diciendo: Quitadle esas vestimentas viles. Y á él dijo: Mira que he hecho pasar tu pecado de ti, y te he hecho vestir de ropas de gala.",
+  "text_modernized": "Y habló el [ángel], é intimó á los que estaban delante de sí, diciendo: Quitadle esas vestimentas viles. Y á él dijo: Mira que he hecho pasar tu pecado de ti, y te he hecho vestir de ropas de gala.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.534967Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "2CH",
+  "chapter": 6,
+  "verse": 26,
+  "text_original": "Si los cielos se cerraren, que no haya lluvias por haber pecado contra ti, si oraren á ti en este lugar, y confesaren tu nombre, y se convirtieren de sus pecados, cuando los afligieres,",
+  "text_modernized": "Si los cielos se cerraren, que no haya lluvias por haber pecado contra ti, si oraren á ti en este lugar, y confesaren tu nombre, y se convirtieren de sus pecados, cuando los afligieres,",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.009262Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "MIC",
+  "chapter": 3,
+  "verse": 3,
+  "text_original": "Que comen asimismo la carne de mi pueblo, y les desuellan su piel de sobre ellos, y les quebrantan sus huesos y los rompen, como para el caldero, y como carnes en olla.",
+  "text_modernized": "Que comen asimismo la carne de mi pueblo, y les desuellan su piel de sobre ellos, y les quebrantan sus huesos y los rompen, como para el caldero, y como carnes en olla.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.467182Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

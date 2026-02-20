@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 10,
+  "verse": 21,
+  "text_original": "En aquella misma hora Jesús se alegró en espíritu, y dijo: Yo te alabo, oh Padre, Señor del cielo y de la tierra, que escondiste estas cosas á los sabios y entendidos, y las has revelado á los pequeños: así, Padre, porque así te agradó.",
+  "text_modernized": "En aquella misma hora Jesús se alegró en espíritu, y dijo: Yo te alabo, oh Padre, Señor del cielo y de la tierra, que escondiste estas cosas á los sabios y entendidos, y las has revelado á los pequeños: así, Padre, porque así te agradó.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.147300Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 19,
+  "verse": 2,
+  "text_original": "Díjoles: ¿Habéis recibido el Espíritu Santo después que creísteis? Y ellos le dijeron: Antes ni aun hemos oído si hay Espíritu Santo.",
+  "text_modernized": "Díjoles: ¿Habéis recibido el Espíritu Santo después que creísteis? Y ellos le dijeron: Antes ni aun hemos oído si hay Espíritu Santo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.638370Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

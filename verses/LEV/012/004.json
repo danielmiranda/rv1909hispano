@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 12,
+  "verse": 4,
+  "text_original": "Mas ella permanecerá treinta y tres días en la sangre de [su] purgación: ninguna cosa santa tocará, ni vendrá al santuario, hasta que sean cumplidos los días de su purgación.",
+  "text_modernized": "Mas ella permanecerá treinta y tres días en la sangre de [su] purgación: ninguna cosa santa tocará, ni vendrá al santuario, hasta que sean cumplidos los días de su purgación.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.501661Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

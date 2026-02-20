@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 43,
+  "verse": 5,
+  "text_original": "Y alzóme el espíritu, y metióme en el atrio de adentro; y he aquí que la gloria de Jehová hinchió la casa.",
+  "text_modernized": "Y alzóme el espíritu, y metióme en el atrio de adentro; y he aquí que la gloria de Jehová hinchió la casa.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.210105Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

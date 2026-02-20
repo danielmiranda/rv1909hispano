@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 18,
+  "verse": 10,
+  "text_original": "Mas si engendrare hijo ladrón, derramador de sangre, ó que haga alguna cosa de éstas,",
+  "text_modernized": "Mas si engendrare hijo ladrón, derramador de sangre, ó que haga alguna cosa de éstas,",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.049736Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

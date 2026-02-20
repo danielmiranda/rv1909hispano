@@ -1,0 +1,20 @@
+{
+  "book": "JHN",
+  "chapter": 15,
+  "verse": 22,
+  "text_original": "Si no hubiera venido, ni les hubiera hablado, no tendrían pecado, mas ahora no tienen excusa de su pecado.",
+  "text_modernized": "Si no hubiera venido, ni les hubiera hablado, no tendrían pecado, mas ahora no tienen excusa de su pecado.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.418059Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

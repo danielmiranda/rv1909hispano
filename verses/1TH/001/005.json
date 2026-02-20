@@ -1,0 +1,20 @@
+{
+  "book": "1TH",
+  "chapter": 1,
+  "verse": 5,
+  "text_original": "Por cuanto nuestro evangelio no fué á vosotros en palabra solamente, mas también en potencia, y en Espíritu Santo, y en gran plenitud; como sabéis cuáles fuimos entre vosotros por amor de vosotros.",
+  "text_modernized": "Por cuanto nuestro evangelio no fue á vosotros en palabra solamente, mas también en potencia, y en Espíritu Santo, y en gran plenitud; como sabéis cuáles fuimos entre vosotros por amor de vosotros.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.112974Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

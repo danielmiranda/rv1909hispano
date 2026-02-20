@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 34,
+  "verse": 37,
+  "text_original": "Porque á su pecado añadió impiedad: bate las manos entre nosotros, y contra Dios multiplica sus palabras.",
+  "text_modernized": "Porque á su pecado añadió impiedad: bate las manos entre nosotros, y contra Dios multiplica sus palabras.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.545095Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

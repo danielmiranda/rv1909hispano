@@ -1,0 +1,20 @@
+{
+  "book": "1KI",
+  "chapter": 18,
+  "verse": 28,
+  "text_original": "Y ellos clamaban á grandes voces, y sajábanse con cuchillos y con lancetas conforme á su costumbre, hasta chorrear la sangre sobre ellos.",
+  "text_modernized": "Y ellos clamaban á grandes voces, y sajábanse con cuchillos y con lancetas conforme á su costumbre, hasta chorrear la sangre sobre ellos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.545831Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 1,
+  "verse": 80,
+  "text_original": "Y el niño crecía, y se fortalecía en espíritu: y estuvo en los desiertos hasta el día que se mostró á Israel.",
+  "text_modernized": "Y el niño crecía, y se fortalecía en espíritu: y estuvo en los desiertos hasta el día que se mostró á Israel.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.015080Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

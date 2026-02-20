@@ -1,0 +1,20 @@
+{
+  "book": "1KI",
+  "chapter": 22,
+  "verse": 35,
+  "text_original": "Mas la batalla había arreciado aquel día, y el rey estuvo en su carro delante de los Siros, y á la tarde murió: y la sangre de la herida corría por el seno del carro.",
+  "text_modernized": "Mas la batalla había arreciado aquel día, y el rey estuvo en su carro delante de los Siros, y á la tarde murió: y la sangre de la herida corría por el seno del carro.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.580690Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

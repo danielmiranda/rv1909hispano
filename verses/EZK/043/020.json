@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 43,
+  "verse": 20,
+  "text_original": "Y tomarás de su sangre, y pondrás en los cuatro cuernos del altar, y en las cuatro esquinas del área, y en el borde alrededor: así lo limpiarás y purificarás.",
+  "text_modernized": "Y tomarás de su sangre, y pondrás en los cuatro cuernos del altar, y en las cuatro esquinas del área, y en el borde alrededor: así lo limpiarás y purificarás.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.213280Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "book": "MAT",
+  "chapter": 26,
+  "verse": 41,
+  "text_original": "Velad y orad, para que no entréis en tentación: el espíritu á la verdad está presto, mas la carne enferma.",
+  "text_modernized": "Velad y orad, para que no entréis en tentación: el espíritu á la verdad está presto, mas la carne enferma.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.814907Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

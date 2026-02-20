@@ -1,0 +1,20 @@
+{
+  "book": "LUK",
+  "chapter": 23,
+  "verse": 46,
+  "text_original": "Entonces Jesús, clamando á gran voz, dijo: Padre, en tus manos encomiendo mi espíritu. Y habiendo dicho esto, espiró.",
+  "text_modernized": "Entonces Jesús, clamando á gran voz, dijo: Padre, en tus manos encomiendo mi espíritu. Y habiendo dicho esto, espiró.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.270922Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 33,
+  "verse": 14,
+  "text_original": "Y diciendo yo al impío: De cierto morirás; si él se volviere de su pecado, é hiciere juicio y justicia,",
+  "text_modernized": "Y diciendo yo al impío: De cierto morirás; si él se volviere de su pecado, é hiciere juicio y justicia,",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.144573Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

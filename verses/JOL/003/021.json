@@ -1,0 +1,20 @@
+{
+  "book": "JOL",
+  "chapter": 3,
+  "verse": 21,
+  "text_original": "Y limpiaré la sangre de los que no limpié; y Jehová morará en Sión.",
+  "text_modernized": "Y limpiaré la sangre de los que no limpié; y Jehová morará en Sión.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.402561Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

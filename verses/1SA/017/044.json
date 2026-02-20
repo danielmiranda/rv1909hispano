@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 17,
+  "verse": 44,
+  "text_original": "Dijo luego el Filisteo á David: Ven á mí, y daré tu carne á las aves del cielo, y á las bestias del campo.",
+  "text_modernized": "Dijo luego el Filisteo á David: Ven á mí, y daré tu carne á las aves del cielo, y á las bestias del campo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.130150Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

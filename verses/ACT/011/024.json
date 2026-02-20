@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 11,
+  "verse": 24,
+  "text_original": "Porque era varón bueno, y lleno de Espíritu Santo y de fe: y mucha compañía fué agregada al Señor.",
+  "text_modernized": "Porque era varón bueno, y lleno de Espíritu Santo y de fe: y mucha compañía fue agregada al Señor.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.571214Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

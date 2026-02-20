@@ -1,0 +1,25 @@
+{
+  "book": "1JN",
+  "chapter": 4,
+  "verse": 2,
+  "text_original": "En esto conoced el Espíritu de Dios: todo espíritu que confiesa que Jesucristo es venido en carne es de Dios:",
+  "text_modernized": "En esto conoced el Espíritu de Dios: todo espíritu que confiesa que Jesucristo es venido en carne es de Dios:",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.353998Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

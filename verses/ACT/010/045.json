@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 10,
+  "verse": 45,
+  "text_original": "Y se espantaron los fieles que eran de la circuncisión, que habían venido con Pedro, de que también sobre los Gentiles se derramase el don del Espíritu Santo.",
+  "text_modernized": "Y se espantaron los fieles que eran de la circuncisión, que habían venido con Pedro, de que también sobre los Gentiles se derramase el don del Espíritu Santo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.565497Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

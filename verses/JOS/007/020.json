@@ -1,0 +1,20 @@
+{
+  "book": "JOS",
+  "chapter": 7,
+  "verse": 20,
+  "text_original": "Y Achân respondió á Josué, diciendo: Verdaderamente yo he pecado contra Jehová el Dios de Israel, y he hecho así y así:",
+  "text_modernized": "Y Achân respondió á Josué, diciendo: Verdaderamente yo he pecado contra Jehová el Dios de Israel, y he hecho así y así:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.710981Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 29,
+  "verse": 20,
+  "text_original": "Y matarás el carnero, y tomarás de su sangre, y pondrás sobre la ternilla de la oreja derecha de Aarón, y sobre la ternilla de las orejas de sus hijos, y sobre el dedo pulgar de las manos derechas de ellos, y sobre el dedo pulgar de los pies derechos de ellos, y esparcirás la sangre sobre el altar alrededor.",
+  "text_modernized": "Y matarás el carnero, y tomarás de su sangre, y pondrás sobre la ternilla de la oreja derecha de Aarón, y sobre la ternilla de las orejas de sus hijos, y sobre el dedo pulgar de las manos derechas de ellos, y sobre el dedo pulgar de los pies derechos de ellos, y esparcirás la sangre sobre el altar alrededor.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.315710Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

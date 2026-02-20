@@ -1,0 +1,20 @@
+{
+  "book": "DEU",
+  "chapter": 23,
+  "verse": 21,
+  "text_original": "Cuando prometieres voto á Jehová tu Dios, no tardarás en pagarlo; porque ciertamente lo demandará Jehová tu Dios de ti, y habría en ti pecado.",
+  "text_modernized": "Cuando prometieres voto á Jehová tu Dios, no tardarás en pagarlo; porque ciertamente lo demandará Jehová tu Dios de ti, y habría en ti pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.601604Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

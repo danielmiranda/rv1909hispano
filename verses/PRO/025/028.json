@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 25,
+  "verse": 28,
+  "text_original": "[Como] ciudad derribada y sin muro, es el hombre cuyo espíritu no tiene rienda.",
+  "text_modernized": "[Como] ciudad derribada y sin muro, es el hombre cuyo espíritu no tiene rienda.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.586655Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

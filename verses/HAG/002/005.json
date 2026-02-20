@@ -1,0 +1,20 @@
+{
+  "book": "HAG",
+  "chapter": 2,
+  "verse": 5,
+  "text_original": "[Según] el pacto que concerté con vosotros á vuestra salida de Egipto, así mi espíritu estará en medio de vosotros: no temáis.",
+  "text_modernized": "[Según] el pacto que concerté con vosotros á vuestra salida de Egipto, así mi espíritu estará en medio de vosotros: no temáis.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.522910Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

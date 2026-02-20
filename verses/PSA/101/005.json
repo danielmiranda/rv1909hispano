@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 101,
+  "verse": 5,
+  "text_original": "Al que solapadamente infama á su prójimo, yo le cortaré; no sufriré al de ojos altaneros, y de corazón vanidoso.",
+  "text_modernized": "Al que solapadamente infama á su prójimo, yo le cortaré; no sufriré al de ojos altaneros, y de corazón vanidoso.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.223973Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

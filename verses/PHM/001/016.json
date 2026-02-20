@@ -1,0 +1,20 @@
+{
+  "book": "PHM",
+  "chapter": 1,
+  "verse": 16,
+  "text_original": "No ya como siervo, antes más que siervo, [como] hermano amado, mayormente de mí, pero cuánto más de ti, en la carne y en el Señor.",
+  "text_modernized": "No ya como siervo, antes más que siervo, [como] hermano amado, mayormente de mí, pero cuánto más de ti, en la carne y en el Señor.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.200501Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

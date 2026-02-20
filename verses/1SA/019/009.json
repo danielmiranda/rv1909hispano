@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 19,
+  "verse": 9,
+  "text_original": "Y el espíritu malo de parte de Jehová fué sobre Saúl: y estando sentado en su casa tenía una lanza á mano, mientras David estaba tañendo con su mano.",
+  "text_modernized": "Y el espíritu malo de parte de Jehová fue sobre Saúl: y estando sentado en su casa tenía una lanza á mano, mientras David estaba tañendo con su mano.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.141007Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

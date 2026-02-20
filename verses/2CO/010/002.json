@@ -1,0 +1,20 @@
+{
+  "book": "2CO",
+  "chapter": 10,
+  "verse": 2,
+  "text_original": "Ruego pues, que cuando estuviere presente, no tenga que ser atrevido con la confianza con que estoy en ánimo de ser resuelto para con algunos, que nos tienen como si anduviésemos según la carne.",
+  "text_modernized": "Ruego pues, que cuando estuviere presente, no tenga que ser atrevido con la confianza con que estoy en ánimo de ser resuelto para con algunos, que nos tienen como si anduviésemos según la carne.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.964625Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

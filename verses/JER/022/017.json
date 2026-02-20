@@ -1,0 +1,20 @@
+{
+  "book": "JER",
+  "chapter": 22,
+  "verse": 17,
+  "text_original": "Mas tus ojos y tu corazón no son sino á tu avaricia, y á derramar la sangre inocente, y á opresión, y á hacer agravio.",
+  "text_modernized": "Mas tus ojos y tu corazón no son sino á tu avaricia, y á derramar la sangre inocente, y á opresión, y á hacer agravio.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.683186Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

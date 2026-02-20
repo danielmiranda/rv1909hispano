@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 1,
+  "verse": 19,
+  "text_original": "Y fué notorio á todos los moradores de Jerusalem; de tal manera que aquel campo es llamado en su propia lengua, Acéldama, que es, Campo de sangre.",
+  "text_modernized": "Y fue notorio á todos los moradores de Jerusalem; de tal manera que aquel campo es llamado en su propia lengua, Acéldama, que es, Campo de sangre.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.464007Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

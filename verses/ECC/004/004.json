@@ -1,0 +1,25 @@
+{
+  "book": "ECC",
+  "chapter": 4,
+  "verse": 4,
+  "text_original": "Visto he asimismo que todo trabajo y toda excelencia de obras mueve la envidia del hombre contra su prójimo. También esto es vanidad y aflicción de espíritu.",
+  "text_modernized": "Visto he asimismo que todo trabajo y toda excelencia de obras mueve la envidia del hombre contra su prójimo. También esto es vanidad y aflicción de espíritu.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.640005Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

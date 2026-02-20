@@ -1,0 +1,20 @@
+{
+  "book": "2CH",
+  "chapter": 21,
+  "verse": 16,
+  "text_original": "Entonces despertó Jehová contra Joram el espíritu de los Filisteos, y de los Arabes que estaban junto á los Etiopes;",
+  "text_modernized": "Entonces despertó Jehová contra Joram el espíritu de los Filisteos, y de los Arabes que estaban junto á los Etiopes;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.081551Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

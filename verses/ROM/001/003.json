@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 1,
+  "verse": 3,
+  "text_original": "Acerca de su Hijo, (que fué hecho de la simiente de David según la carne;",
+  "text_modernized": "Acerca de su Hijo, (que fue hecho de la simiente de David según la carne;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.716514Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "MAT",
+  "chapter": 1,
+  "verse": 20,
+  "text_original": "Y pensando él en esto, he aquí el ángel del Señor le aparece en sueños, diciendo: José, hijo de David, no temas de recibir á María tu mujer, porque lo que en ella es engendrado, del Espíritu Santo es.",
+  "text_modernized": "Y pensando él en esto, he aquí el ángel del Señor le aparece en sueños, diciendo: José, hijo de David, no temas de recibir á María tu mujer, porque lo que en ella es engendrado, del Espíritu Santo es.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.589232Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

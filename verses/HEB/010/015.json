@@ -1,0 +1,20 @@
+{
+  "book": "HEB",
+  "chapter": 10,
+  "verse": 15,
+  "text_original": "Y atestíguanos lo mismo el Espíritu Santo; que después que dijo:",
+  "text_modernized": "Y atestíguanos lo mismo el Espíritu Santo; que después que dijo:",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.247474Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

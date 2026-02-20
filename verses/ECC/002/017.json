@@ -1,0 +1,20 @@
+{
+  "book": "ECC",
+  "chapter": 2,
+  "verse": 17,
+  "text_original": "Aborrecí por tanto la vida; porque la obra que se hace debajo del sol me era fastidiosa; por cuanto todo es vanidad y aflicción de espíritu.",
+  "text_modernized": "Aborrecí por tanto la vida; porque la obra que se hace debajo del sol me era fastidiosa; por cuanto todo es vanidad y aflicción de espíritu.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.632314Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

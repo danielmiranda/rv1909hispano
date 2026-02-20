@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 9,
+  "verse": 5,
+  "text_original": "Cuyos son los padres, y de los cuales es Cristo según la carne, el cual es Dios sobre todas las cosas, bendito por los siglos. Amén.",
+  "text_modernized": "Cuyos son los padres, y de los cuales es Cristo según la carne, el cual es Dios sobre todas las cosas, bendito por los siglos. Amén.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.769585Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

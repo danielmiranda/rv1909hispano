@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 30,
+  "verse": 13,
+  "text_original": "Por tanto os será este pecado como [pared] abierta que se va á caer, [y como] corcova en alto muro, cuya caída viene súbita y repentinamente.",
+  "text_modernized": "Por tanto os será este pecado como [pared] abierta que se va á caer, [y como] corcova en alto muro, cuya caída viene súbita y repentinamente.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.364668Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

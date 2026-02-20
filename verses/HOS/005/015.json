@@ -1,0 +1,20 @@
+{
+  "book": "HOS",
+  "chapter": 5,
+  "verse": 15,
+  "text_original": "Andaré, y tornaré á mi lugar hasta que conozcan su pecado, y busquen mi rostro. En su angustia madrugarán á mí.",
+  "text_modernized": "Andaré, y tornaré á mi lugar hasta que conozcan su pecado, y busquen mi rostro. En su angustia madrugarán á mí.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.360966Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

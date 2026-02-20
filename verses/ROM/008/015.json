@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 8,
+  "verse": 15,
+  "text_original": "Porque no habéis recibido el espíritu de servidumbre para [estar] otra vez en temor; mas habéis recibido el espíritu de adopción, por el cual clamamos, Abba, Padre.",
+  "text_modernized": "Porque no habéis recibido el espíritu de servidumbre para [estar] otra vez en temor; mas habéis recibido el espíritu de adopción, por el cual clamamos, Abba, Padre.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.763479Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

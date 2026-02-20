@@ -1,0 +1,20 @@
+{
+  "book": "EPH",
+  "chapter": 3,
+  "verse": 16,
+  "text_original": "Que os dé, conforme á las riquezas de su gloria, el ser corroborados con potencia en el hombre interior por su Espíritu.",
+  "text_modernized": "Que os dé, conforme á las riquezas de su gloria, el ser corroborados con potencia en el hombre interior por su Espíritu.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.031447Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

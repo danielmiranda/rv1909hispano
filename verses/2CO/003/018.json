@@ -1,0 +1,20 @@
+{
+  "book": "2CO",
+  "chapter": 3,
+  "verse": 18,
+  "text_original": "Por tanto, nosotros todos, mirando á cara descubierta como en un espejo la gloria del Señor, somos transformados de gloria en gloria en la misma semejanza, como por el Espíritu del Señor.",
+  "text_modernized": "Por tanto, nosotros todos, mirando á cara descubierta como en un espejo la gloria del Señor, somos transformados de gloria en gloria en la misma semejanza, como por el Espíritu del Señor.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.937741Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

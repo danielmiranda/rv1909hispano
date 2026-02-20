@@ -1,0 +1,20 @@
+{
+  "book": "1KI",
+  "chapter": 13,
+  "verse": 34,
+  "text_original": "Y esto fué causa de pecado á la casa de Jeroboam; por lo cual fué cortada y raída de sobre la haz de la tierra.",
+  "text_modernized": "Y esto fue causa de pecado á la casa de Jeroboam; por lo cual fue cortada y raída de sobre la haz de la tierra.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.512198Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

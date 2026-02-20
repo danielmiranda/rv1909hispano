@@ -1,0 +1,20 @@
+{
+  "book": "2SA",
+  "chapter": 6,
+  "verse": 19,
+  "text_original": "Y repartió á todo el pueblo, y á toda la multitud de Israel, así á hombres como á mujeres, á cada uno una torta de pan, y un pedazo de carne, y un frasco [de vino]. Y fuése todo el pueblo, cada uno á su casa.",
+  "text_modernized": "Y repartió á todo el pueblo, y á toda la multitud de Israel, así á hombres como á mujeres, á cada uno una torta de pan, y un pedazo de carne, y un frasco [de vino]. Y fuése todo el pueblo, cada uno á su casa.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.257113Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

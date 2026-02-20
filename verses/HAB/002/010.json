@@ -1,0 +1,20 @@
+{
+  "book": "HAB",
+  "chapter": 2,
+  "verse": 10,
+  "text_original": "Tomaste consejo vergonzoso para tu casa, asolaste muchos pueblos, y has pecado contra tu vida.",
+  "text_modernized": "Tomaste consejo vergonzoso para tu casa, asolaste muchos pueblos, y has pecado contra tu vida.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.500195Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

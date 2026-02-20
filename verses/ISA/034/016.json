@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 34,
+  "verse": 16,
+  "text_original": "Inquirid en el libro de Jehová, y leed si faltó alguno de ellos: ninguno faltó con su compañera; porque su boca mandó, y reuniólos su mismo espíritu.",
+  "text_modernized": "Inquirid en el libro de Jehová, y leed si faltó alguno de ellos: ninguno faltó con su compañera; porque su boca mandó, y reuniólos su mismo espíritu.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.386578Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

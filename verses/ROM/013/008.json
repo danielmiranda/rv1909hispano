@@ -1,0 +1,20 @@
+{
+  "book": "ROM",
+  "chapter": 13,
+  "verse": 8,
+  "text_original": "No debáis á nadie nada, sino amaros unos á otros; porque el que ama al prójimo, cumplió la ley.",
+  "text_modernized": "No debáis á nadie nada, sino amaros unos á otros; porque el que ama al prójimo, cumplió la ley.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.794804Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

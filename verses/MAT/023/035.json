@@ -1,0 +1,20 @@
+{
+  "book": "MAT",
+  "chapter": 23,
+  "verse": 35,
+  "text_original": "Para que venga sobre vosotros toda la sangre justa que se ha derramado sobre la tierra, desde la sangre de Abel el justo, hasta la sangre de Zacarías, hijo de Barachîas, al cual matasteis entre el templo y el altar.",
+  "text_modernized": "Para que venga sobre vosotros toda la sangre justa que se ha derramado sobre la tierra, desde la sangre de Abel el justo, hasta la sangre de Zacarías, hijo de Barachîas, al cual matasteis entre el templo y el altar.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.786601Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

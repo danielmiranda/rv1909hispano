@@ -1,0 +1,20 @@
+{
+  "book": "DEU",
+  "chapter": 1,
+  "verse": 41,
+  "text_original": "Entonces respondisteis y me dijisteis: Pecado hemos contra Jehová; nosotros subiremos y pelearemos, conforme á todo lo que Jehová nuestro Dios nos ha mandado. Y os armasteis cada uno de sus armas de guerra, y os apercibisteis para subir al monte.",
+  "text_modernized": "Entonces respondisteis y me dijisteis: Pecado hemos contra Jehová; nosotros subiremos y pelearemos, conforme á todo lo que Jehová nuestro Dios nos ha mandado. Y os armasteis cada uno de sus armas de guerra, y os apercibisteis para subir al monte.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.460438Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

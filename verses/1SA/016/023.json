@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 16,
+  "verse": 23,
+  "text_original": "Y cuando el espíritu [malo] de parte de Dios era sobre Saúl, David tomaba el arpa, y tañía con su mano; y Saúl tenía refrigerio, y estaba mejor, y el espíritu malo se apartaba de él.",
+  "text_modernized": "Y cuando el espíritu [malo] de parte de Dios era sobre Saúl, David tomaba el arpa, y tañía con su mano; y Saúl tenía refrigerio, y estaba mejor, y el espíritu malo se apartaba de él.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.119822Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

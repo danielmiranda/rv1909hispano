@@ -1,0 +1,20 @@
+{
+  "book": "LAM",
+  "chapter": 2,
+  "verse": 14,
+  "text_original": "Tus profetas vieron para ti vanidad y locura; y no descubrieron tu pecado para estorbar tu cautiverio, sino que te predicaron vanas profecías y extravíos.",
+  "text_modernized": "Tus profetas vieron para ti vanidad y locura; y no descubrieron tu pecado para estorbar tu cautiverio, sino que te predicaron vanas profecías y extravíos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.918249Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 59,
+  "verse": 3,
+  "text_original": "Porque vuestras manos están contaminadas de sangre, y vuestros dedos de iniquidad; vuestros labios pronuncian mentira, habla maldad vuestra lengua.",
+  "text_modernized": "Porque vuestras manos están contaminadas de sangre, y vuestros dedos de iniquidad; vuestros labios pronuncian mentira, habla maldad vuestra lengua.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.508632Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

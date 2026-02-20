@@ -1,0 +1,20 @@
+{
+  "book": "JHN",
+  "chapter": 14,
+  "verse": 26,
+  "text_original": "Mas el Consolador, el Espíritu Santo, al cual el Padre enviará en mi nombre, él os enseñará todas las cosas, y os recordará todas las cosas que os he dicho.",
+  "text_modernized": "Mas el Consolador, el Espíritu Santo, al cual el Padre enviará en mi nombre, él os enseñará todas las cosas, y os recordará todas las cosas que os he dicho.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.412588Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

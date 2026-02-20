@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 20,
+  "verse": 17,
+  "text_original": "Y cualquiera que tomare á su hermana, hija de su padre ó hija de su madre, y viere su desnudez, y ella viere la suya, cosa es execrable; por tanto serán muertos á ojos de los hijos de su pueblo: descubrió la desnudez de su hermana; su pecado llevará.",
+  "text_modernized": "Y cualquiera que tomare á su hermana, hija de su padre ó hija de su madre, y viere su desnudez, y ella viere la suya, cosa es execrable; por tanto serán muertos á ojos de los hijos de su pueblo: descubrió la desnudez de su hermana; su pecado llevará.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.088582Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ECC",
+  "chapter": 10,
+  "verse": 4,
+  "text_original": "Si el espíritu del príncipe se exaltare contra ti, no dejes tu lugar; porque la lenidad hará cesar grandes ofensas.",
+  "text_modernized": "Si el espíritu del príncipe se exaltare contra ti, no dejes tu lugar; porque la lenidad hará cesar grandes ofensas.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.668852Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "book": "EZK",
+  "chapter": 22,
+  "verse": 4,
+  "text_original": "En tu sangre que derramaste has pecado, y te has contaminado en tus ídolos que hiciste; y has hecho acercar tus días, y has llegado á tus años: por tanto te he dado en oprobio á las gentes, y en escarnio á todas las tierras.",
+  "text_modernized": "En tu sangre que derramaste has pecado, y te has contaminado en tus ídolos que hiciste; y has hecho acercar tus días, y has llegado á tus años: por tanto te he dado en oprobio á las gentes, y en escarnio á todas las tierras.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.075782Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    },
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

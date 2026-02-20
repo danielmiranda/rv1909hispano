@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 26,
+  "verse": 20,
+  "text_original": "No caiga pues ahora mi sangre en tierra delante de Jehová: porque ha salido el rey de Israel á buscar una pulga, así como quien persigue una perdiz por los montes.",
+  "text_modernized": "No caiga pues ahora mi sangre en tierra delante de Jehová: porque ha salido el rey de Israel á buscar una pulga, así como quien persigue una perdiz por los montes.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.200162Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

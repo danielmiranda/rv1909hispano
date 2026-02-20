@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 7,
+  "verse": 17,
+  "text_original": "Y lo que quedare para el tercer día de la carne del sacrificio, será quemado en el fuego.",
+  "text_modernized": "Y lo que quedare para el tercer día de la carne del sacrificio, será quemado en el fuego.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.463840Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

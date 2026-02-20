@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 79,
+  "verse": 3,
+  "text_original": "Derramaron su sangre como agua en los alrededores de Jerusalem; y no hubo quien [los] enterrase.",
+  "text_modernized": "Derramaron su sangre como agua en los alrededores de Jerusalem; y no hubo quien [los] enterrase.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.080633Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

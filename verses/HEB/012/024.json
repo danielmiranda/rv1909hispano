@@ -1,0 +1,20 @@
+{
+  "book": "HEB",
+  "chapter": 12,
+  "verse": 24,
+  "text_original": "Y á Jesús el Mediador del nuevo testamento, y á la sangre del esparcimiento que habla mejor que la de Abel.",
+  "text_modernized": "Y á Jesús el Mediador del nuevo testamento, y á la sangre del esparcimiento que habla mejor que la de Abel.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.266330Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

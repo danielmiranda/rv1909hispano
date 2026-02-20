@@ -1,0 +1,25 @@
+{
+  "book": "JOL",
+  "chapter": 2,
+  "verse": 28,
+  "text_original": "Y será que después de esto, derramaré mi Espíritu sobre toda carne, y profetizarán vuestros hijos y vuestras hijas; vuestros viejos soñarán sueños, y vuestros mancebos verán visiones.",
+  "text_modernized": "Y será que después de esto, derramaré mi Espíritu sobre toda carne, y profetizarán vuestros hijos y vuestras hijas; vuestros viejos soñarán sueños, y vuestros mancebos verán visiones.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.397503Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

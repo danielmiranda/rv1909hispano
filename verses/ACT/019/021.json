@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 19,
+  "verse": 21,
+  "text_original": "Y acabadas estas cosas, se propuso Pablo en espíritu partir á Jerusalem, después de andada Macedonia y Acaya, diciendo: Después que hubiere estado allá, me será menester ver también á Roma.",
+  "text_modernized": "Y acabadas estas cosas, se propuso Pablo en espíritu partir á Jerusalem, después de andada Macedonia y Acaya, diciendo: Después que hubiere estado allá, me será menester ver también á Roma.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.642871Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 18,
+  "verse": 9,
+  "text_original": "Esto será tuyo de la ofrenda de las cosas santas [reservadas] del fuego: toda ofrenda de ellos, todo presente suyo, y toda expiación por el pecado de ellos, y toda expiación por la culpa de ellos, que me han de presentar, será cosa muy santa para ti y para tus hijos.",
+  "text_modernized": "Esto será tuyo de la ofrenda de las cosas santas [reservadas] del fuego: toda ofrenda de ellos, todo presente suyo, y toda expiación por el pecado de ellos, y toda expiación por la culpa de ellos, que me han de presentar, será cosa muy santa para ti y para tus hijos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.296908Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

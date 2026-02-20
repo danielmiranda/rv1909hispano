@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 59,
+  "verse": 12,
+  "text_original": "[Por] el pecado de su boca, [por] la palabra de sus labios; y sean presos por su soberbia, y por la maldición y mentira que profieren.",
+  "text_modernized": "[Por] el pecado de su boca, [por] la palabra de sus labios; y sean presos por su soberbia, y por la maldición y mentira que profieren.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.915660Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

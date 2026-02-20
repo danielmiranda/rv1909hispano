@@ -1,0 +1,20 @@
+{
+  "book": "2CO",
+  "chapter": 4,
+  "verse": 13,
+  "text_original": "Empero teniendo el mismo espíritu de fe, conforme á lo que está escrito: Creí, por lo cual también hablé: nosotros también creemos, por lo cual también hablamos;",
+  "text_modernized": "Empero teniendo el mismo espíritu de fe, conforme á lo que está escrito: Creí, por lo cual también hablé: nosotros también creemos, por lo cual también hablamos;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.940359Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

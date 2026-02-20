@@ -1,0 +1,20 @@
+{
+  "book": "DEU",
+  "chapter": 15,
+  "verse": 9,
+  "text_original": "Guárdate que no haya en tu corazón perverso pensamiento, diciendo: Cerca está el año séptimo, el de la remisión; y tu ojo sea maligno sobre tu hermano menesteroso para no darle: que él podrá clamar contra ti á Jehová, y se te imputará á pecado.",
+  "text_modernized": "Guárdate que no haya en tu corazón perverso pensamiento, diciendo: Cerca está el año séptimo, el de la remisión; y tu ojo sea maligno sobre tu hermano menesteroso para no darle: que él podrá clamar contra ti á Jehová, y se te imputará á pecado.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.558262Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

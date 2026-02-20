@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 5,
+  "verse": 7,
+  "text_original": "Confesarán su pecado que cometieron, y compensarán su ofensa enteramente, y añadirán su quinto sobre ello, y lo darán á aquel contra quien pecaron.",
+  "text_modernized": "Confesarán su pecado que cometieron, y compensarán su ofensa enteramente, y añadirán su quinto sobre ello, y lo darán á aquel contra quien pecaron.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.194806Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

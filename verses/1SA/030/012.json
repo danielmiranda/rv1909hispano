@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 30,
+  "verse": 12,
+  "text_original": "Diéronle también un pedazo de masa de higos secos, y dos hilos de pasas. Y luego que comió, volvió en él su espíritu; porque no había comido pan ni bebido agua en tres días y tres noches.",
+  "text_modernized": "Diéronle también un pedazo de masa de higos secos, y dos hilos de pasas. Y luego que comió, volvió en él su espíritu; porque no había comido pan ni bebido agua en tres días y tres noches.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.215418Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

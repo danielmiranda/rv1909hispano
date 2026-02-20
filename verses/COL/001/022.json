@@ -1,0 +1,20 @@
+{
+  "book": "COL",
+  "chapter": 1,
+  "verse": 22,
+  "text_original": "En el cuerpo de su carne por medio de muerte, para haceros santos, y sin mancha, é irreprensibles delante de él:",
+  "text_modernized": "En el cuerpo de su carne por medio de muerte, para haceros santos, y sin mancha, é irreprensibles delante de él:",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.096044Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

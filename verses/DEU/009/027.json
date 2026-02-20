@@ -1,0 +1,20 @@
+{
+  "book": "DEU",
+  "chapter": 9,
+  "verse": 27,
+  "text_original": "Acuérdate de tus siervos Abraham, Isaac, y Jacob; no mires á la dureza de este pueblo, ni á su impiedad, ni á su pecado:",
+  "text_modernized": "Acuérdate de tus siervos Abraham, Isaac, y Jacob; no mires á la dureza de este pueblo, ni á su impiedad, ni á su pecado:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.526293Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "LAM",
+  "chapter": 3,
+  "verse": 39,
+  "text_original": "¿Por qué murmura el hombre viviente, el hombre en su pecado?",
+  "text_modernized": "¿Por qué murmura el hombre viviente, el hombre en su pecado?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.927514Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

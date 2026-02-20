@@ -1,0 +1,20 @@
+{
+  "book": "MRK",
+  "chapter": 12,
+  "verse": 36,
+  "text_original": "Porque el mismo David dijo por el Espíritu Santo: Dijo el Señor á mi Señor: Siéntate á mi diestra, hasta que ponga tus enemigos por estrado de tus pies.",
+  "text_modernized": "Porque el mismo David dijo por el Espíritu Santo: Dijo el Señor á mi Señor: Siéntate á mi diestra, hasta que ponga tus enemigos por estrado de tus pies.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.959105Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

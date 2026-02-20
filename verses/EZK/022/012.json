@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 22,
+  "verse": 12,
+  "text_original": "Precio recibieron en ti para derramar sangre; usura y logro tomaste, y á tus prójimos defraudaste con violencia: olvidástete de mí, dice el Señor Jehová.",
+  "text_modernized": "Precio recibieron en ti para derramar sangre; usura y logro tomaste, y á tus prójimos defraudaste con violencia: olvidástete de mí, dice el Señor Jehová.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.077710Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

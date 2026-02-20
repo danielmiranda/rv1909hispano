@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 4,
+  "verse": 28,
+  "text_original": "Luego que le fuere conocido su pecado que cometió, traerá por su ofrenda una hembra de las cabras, una cabra sin defecto, por su pecado que habrá cometido:",
+  "text_modernized": "Luego que le fuere conocido su pecado que cometió, traerá por su ofrenda una hembra de las cabras, una cabra sin defecto, por su pecado que habrá cometido:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.447536Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ECC",
+  "chapter": 3,
+  "verse": 21,
+  "text_original": "¿Quién sabe que el espíritu de los hijos de los hombres suba arriba, y que el espíritu del animal descienda debajo de la tierra?",
+  "text_modernized": "¿Quién sabe que el espíritu de los hijos de los hombres suba arriba, y que el espíritu del animal descienda debajo de la tierra?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.638761Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

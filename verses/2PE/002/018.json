@@ -1,0 +1,20 @@
+{
+  "book": "2PE",
+  "chapter": 2,
+  "verse": 18,
+  "text_original": "Porque hablando arrogantes palabras de vanidad, ceban con las concupiscencias de la carne en disoluciones á los que verdaderamente habían huído de los que conversan en error;",
+  "text_modernized": "Porque hablando arrogantes palabras de vanidad, ceban con las concupiscencias de la carne en disoluciones á los que verdaderamente habían huído de los que conversan en error;",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.330577Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

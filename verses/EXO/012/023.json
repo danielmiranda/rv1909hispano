@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 12,
+  "verse": 23,
+  "text_original": "Porque Jehová pasará hiriendo á los Egipcios; y como verá la sangre en el dintel y en los dos postes, pasará Jehová aquella puerta, y no dejará entrar al heridor en vuestras casas para herir.",
+  "text_modernized": "Porque Jehová pasará hiriendo á los Egipcios; y como verá la sangre en el dintel y en los dos postes, pasará Jehová aquella puerta, y no dejará entrar al heridor en vuestras casas para herir.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.200343Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

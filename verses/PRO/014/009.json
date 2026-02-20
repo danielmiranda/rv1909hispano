@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 14,
+  "verse": 9,
+  "text_original": "Los necios se mofan del pecado: mas entre los rectos hay favor.",
+  "text_modernized": "Los necios se mofan del pecado: mas entre los rectos hay favor.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.513511Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

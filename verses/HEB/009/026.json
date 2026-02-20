@@ -1,0 +1,20 @@
+{
+  "book": "HEB",
+  "chapter": 9,
+  "verse": 26,
+  "text_original": "De otra manera fuera necesario que hubiera padecido muchas veces desde el principio del mundo: mas ahora una vez en la consumación de los siglos, para deshacimiento del pecado se presentó por el sacrificio de sí mismo.",
+  "text_modernized": "De otra manera fuera necesario que hubiera padecido muchas veces desde el principio del mundo: mas ahora una vez en la consumación de los siglos, para deshacimiento del pecado se presentó por el sacrificio de sí mismo.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.243805Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

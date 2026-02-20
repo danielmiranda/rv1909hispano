@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 17,
+  "verse": 14,
+  "text_original": "Y el varón incircunciso que no hubiere circuncidado la carne de su prepucio, aquella persona será borrada de su pueblo; ha violado mi pacto.",
+  "text_modernized": "Y el varón incircunciso que no hubiere circuncidado la carne de su prepucio, aquella persona será borrada de su pueblo; ha violado mi pacto.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:02.836393Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

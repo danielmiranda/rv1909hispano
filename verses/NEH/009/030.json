@@ -1,0 +1,20 @@
+{
+  "book": "NEH",
+  "chapter": 9,
+  "verse": 30,
+  "text_original": "Y alargaste sobre ellos muchos años, y protestásteles con tu espíritu por mano de tus profetas, mas no escucharon; por lo cual los entregaste en mano de los pueblos de la tierra.",
+  "text_modernized": "Y alargaste sobre ellos muchos años, y protestásteles con tu espíritu por mano de tus profetas, mas no escucharon; por lo cual los entregaste en mano de los pueblos de la tierra.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.303321Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

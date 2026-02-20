@@ -1,0 +1,20 @@
+{
+  "book": "HAB",
+  "chapter": 1,
+  "verse": 11,
+  "text_original": "Luego mudará espíritu, y pasará adelante, y ofenderá [atribuyendo] esta su potencia á su dios.",
+  "text_modernized": "Luego mudará espíritu, y pasará adelante, y ofenderá [atribuyendo] esta su potencia á su dios.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.496526Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

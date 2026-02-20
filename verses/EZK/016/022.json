@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 16,
+  "verse": 22,
+  "text_original": "Y con todas tus abominaciones y tus fornicaciones no te has acordado de los días de tu mocedad, cuando estabas desnuda y descubierta, cuando estabas envuelta en tu sangre.",
+  "text_modernized": "Y con todas tus abominaciones y tus fornicaciones no te has acordado de los días de tu mocedad, cuando estabas desnuda y descubierta, cuando estabas envuelta en tu sangre.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.015499Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

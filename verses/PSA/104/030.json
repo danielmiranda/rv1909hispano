@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 104,
+  "verse": 30,
+  "text_original": "Envías tu espíritu, críanse: y renuevas la haz de la tierra.",
+  "text_modernized": "Envías tu espíritu, críanse: y renuevas la haz de la tierra.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.245326Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

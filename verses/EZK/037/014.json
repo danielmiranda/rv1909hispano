@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 37,
+  "verse": 14,
+  "text_original": "Y pondré mi espíritu en vosotros, y viviréis, y os haré reposar sobre vuestra tierra; y sabréis que yo Jehová hablé, y lo hice, dice Jehová.",
+  "text_modernized": "Y pondré mi espíritu en vosotros, y viviréis, y os haré reposar sobre vuestra tierra; y sabréis que yo Jehová hablé, y lo hice, dice Jehová.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.170838Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "JHN",
+  "chapter": 19,
+  "verse": 34,
+  "text_original": "Empero uno de los soldados le abrió el costado con una lanza, y luego salió sangre y agua.",
+  "text_modernized": "Empero uno de los soldados le abrió el costado con una lanza, y luego salió sangre y agua.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.446079Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

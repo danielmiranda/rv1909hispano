@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 42,
+  "verse": 21,
+  "text_original": "Y decían el uno al otro: Verdaderamente hemos pecado contra nuestro hermano, que vimos la angustia de su alma cuando nos rogaba, y no le oímos: por eso ha venido sobre nosotros esta angustia.",
+  "text_modernized": "Y decían el uno al otro: Verdaderamente hemos pecado contra nuestro hermano, que vimos la angustia de su alma cuando nos rogaba, y no le oímos: por eso ha venido sobre nosotros esta angustia.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.059017Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

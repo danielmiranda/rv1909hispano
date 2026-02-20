@@ -1,0 +1,20 @@
+{
+  "book": "1CH",
+  "chapter": 11,
+  "verse": 1,
+  "text_original": "ENTONCES todo Israel se juntó á David en Hebrón, diciendo: He aquí nosotros somos tu hueso y tu carne.",
+  "text_modernized": "ENTONCES todo Israel se juntó á David en Hebrón, diciendo: He aquí nosotros somos tu hueso y tu carne.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.870531Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

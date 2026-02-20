@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 35,
+  "verse": 31,
+  "text_original": "Y lo ha henchido de espíritu de Dios, en sabiduría, en inteligencia, y en ciencia, y en todo artificio,",
+  "text_modernized": "Y lo ha henchido de espíritu de Dios, en sabiduría, en inteligencia, y en ciencia, y en todo artificio,",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.392713Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

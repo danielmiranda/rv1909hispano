@@ -1,0 +1,20 @@
+{
+  "book": "EPH",
+  "chapter": 2,
+  "verse": 15,
+  "text_original": "Dirimiendo en su carne las enemistades, la ley de los mandamientos en orden á ritos, para edificar en sí mismo los dos en un nuevo hombre, haciendo la paz,",
+  "text_modernized": "Dirimiendo en su carne las enemistades, la ley de los mandamientos en orden á ritos, para edificar en sí mismo los dos en un nuevo hombre, haciendo la paz,",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.026685Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

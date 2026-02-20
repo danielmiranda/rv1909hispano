@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 28,
+  "verse": 38,
+  "text_original": "Y estará sobre la frente de Aarón: y llevará Aarón el pecado de las cosas santas, que los hijos de Israel hubieren consagrado en todas sus santas ofrendas; y sobre su frente estará continuamente para que hayan gracia delante de Jehová.",
+  "text_modernized": "Y estará sobre la frente de Aarón: y llevará Aarón el pecado de las cosas santas, que los hijos de Israel hubieren consagrado en todas sus santas ofrendas; y sobre su frente estará continuamente para que hayan gracia delante de Jehová.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.310151Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

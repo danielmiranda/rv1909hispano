@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 14,
+  "verse": 6,
+  "text_original": "Después tomará la avecilla viva, y el palo de cedro, y la grana, y el hisopo, y lo mojará con la avecilla viva en la sangre de la avecilla muerta sobre las aguas vivas:",
+  "text_modernized": "Después tomará la avecilla viva, y el palo de cedro, y la grana, y el hisopo, y lo mojará con la avecilla viva en la sangre de la avecilla muerta sobre las aguas vivas:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.518406Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

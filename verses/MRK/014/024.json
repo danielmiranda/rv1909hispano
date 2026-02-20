@@ -1,0 +1,20 @@
+{
+  "book": "MRK",
+  "chapter": 14,
+  "verse": 24,
+  "text_original": "Y les dice: Esto es mi sangre del nuevo pacto, que por muchos es derramada.",
+  "text_modernized": "Y les dice: Esto es mi sangre del nuevo pacto, que por muchos es derramada.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.972682Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

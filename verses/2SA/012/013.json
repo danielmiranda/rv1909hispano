@@ -1,0 +1,20 @@
+{
+  "book": "2SA",
+  "chapter": 12,
+  "verse": 13,
+  "text_original": "Entonces dijo David á Nathán: Pequé contra Jehová. Y Nathán dijo á David: También Jehová ha remitido tu pecado: no morirás.",
+  "text_modernized": "Entonces dijo David á Nathán: Pequé contra Jehová. Y Nathán dijo á David: También Jehová ha remitido tu pecado: no morirás.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.285503Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

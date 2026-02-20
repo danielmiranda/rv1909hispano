@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 35,
+  "verse": 21,
+  "text_original": "Y vino todo varón á quien su corazón estimuló, y todo aquel á quien su espíritu le dió voluntad, y trajeron ofrenda á Jehová para la obra del tabernáculo del testimonio, y para toda su fábrica, y para las sagradas vestiduras.",
+  "text_modernized": "Y vino todo varón á quien su corazón estimuló, y todo aquel á quien su espíritu le dió voluntad, y trajeron ofrenda á Jehová para la obra del tabernáculo del testimonio, y para toda su fábrica, y para las sagradas vestiduras.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.390079Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 16,
+  "verse": 16,
+  "text_original": "Diga pues nuestro señor á tus siervos que están delante de ti, que busquen alguno que sepa tocar el arpa; para que cuando fuere sobre ti el espíritu malo de parte de Dios, él taña con su mano, y tengas alivio.",
+  "text_modernized": "Diga pues nuestro señor á tus siervos que están delante de ti, que busquen alguno que sepa tocar el arpa; para que cuando fuere sobre ti el espíritu malo de parte de Dios, él taña con su mano, y tengas alivio.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.118042Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

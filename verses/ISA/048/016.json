@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 48,
+  "verse": 16,
+  "text_original": "Allegaos á mí, oid esto; desde el principio no hablé en escondido; desde que la cosa se hizo, estuve allí: y ahora el Señor Jehová me envió, y su espíritu.",
+  "text_modernized": "Allegaos á mí, oid esto; desde el principio no hablé en escondido; desde que la cosa se hizo, estuve allí: y ahora el Señor Jehová me envió, y su espíritu.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.459398Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

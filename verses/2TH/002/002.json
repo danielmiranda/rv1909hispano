@@ -1,0 +1,20 @@
+{
+  "book": "2TH",
+  "chapter": 2,
+  "verse": 2,
+  "text_original": "Que no os mováis fácilmente de vuestro sentimiento, ni os conturbéis ni por espíritu, ni por palabra, ni por carta como nuestra, como que el día del Señor esté cerca.",
+  "text_modernized": "Que no os mováis fácilmente de vuestro sentimiento, ni os conturbéis ni por espíritu, ni por palabra, ni por carta como nuestra, como que el día del Señor esté cerca.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.136361Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

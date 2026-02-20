@@ -1,0 +1,20 @@
+{
+  "book": "EPH",
+  "chapter": 5,
+  "verse": 30,
+  "text_original": "Porque somos miembros de su cuerpo, de su carne y de sus huesos.",
+  "text_modernized": "Porque somos miembros de su cuerpo, de su carne y de sus huesos.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.044981Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

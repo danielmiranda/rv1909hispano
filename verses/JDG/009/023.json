@@ -1,0 +1,20 @@
+{
+  "book": "JDG",
+  "chapter": 9,
+  "verse": 23,
+  "text_original": "Envió Dios un espíritu malo entre Abimelech y los hombres de Sichêm: que los de Sichêm se levantaron contra Abimelech:",
+  "text_modernized": "Envió Dios un espíritu malo entre Abimelech y los hombres de Sichêm: que los de Sichêm se levantaron contra Abimelech:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.906980Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

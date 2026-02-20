@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 34,
+  "verse": 15,
+  "text_original": "Toda carne perecería juntamente, y el hombre se tornaría en polvo.",
+  "text_modernized": "Toda carne perecería juntamente, y el hombre se tornaría en polvo.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.540221Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

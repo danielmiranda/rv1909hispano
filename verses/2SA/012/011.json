@@ -1,0 +1,20 @@
+{
+  "book": "2SA",
+  "chapter": 12,
+  "verse": 11,
+  "text_original": "Así ha dicho Jehová: He aquí yo levantaré sobre ti el mal de tu misma casa, y tomaré tus mujeres delante de tus ojos, y las daré á tu prójimo, el cual yacerá con tus mujeres á la vista de este sol.",
+  "text_modernized": "Así ha dicho Jehová: He aquí yo levantaré sobre ti el mal de tu misma casa, y tomaré tus mujeres delante de tus ojos, y las daré á tu prójimo, el cual yacerá con tus mujeres á la vista de este sol.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.285148Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

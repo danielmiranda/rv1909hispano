@@ -1,0 +1,20 @@
+{
+  "book": "JOB",
+  "chapter": 21,
+  "verse": 4,
+  "text_original": "¿Hablo yo á algún hombre? y ¿por qué no se ha de angustiar mi espíritu?",
+  "text_modernized": "¿Hablo yo á algún hombre? y ¿por qué no se ha de angustiar mi espíritu?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.476445Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

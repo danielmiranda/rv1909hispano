@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 9,
+  "verse": 11,
+  "text_original": "Mas la carne y el cuero los quemó al fuego fuera del real.",
+  "text_modernized": "Mas la carne y el cuero los quemó al fuego fuera del real.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.480306Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

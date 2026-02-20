@@ -1,0 +1,20 @@
+{
+  "book": "2KI",
+  "chapter": 2,
+  "verse": 9,
+  "text_original": "Y como hubieron pasado, Elías dijo á Eliseo: Pide lo que quieres que haga por ti, antes que sea quitado de contigo. Y dijo Eliseo: Ruégote que las dos partes de tu espíritu sean sobre mí.",
+  "text_modernized": "Y como hubieron pasado, Elías dijo á Eliseo: Pide lo que quieres que haga por ti, antes que sea quitado de contigo. Y dijo Eliseo: Ruégote que las dos partes de tu espíritu sean sobre mí.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.590542Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "1CO",
+  "chapter": 14,
+  "verse": 2,
+  "text_original": "Porque el que habla en lenguas, no habla á los hombres, sino á Dios; porque nadie le entiende, aunque en espíritu hable misterios.",
+  "text_modernized": "Porque el que habla en lenguas, no habla á los hombres, sino á Dios; porque nadie le entiende, aunque en espíritu hable misterios.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.885543Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

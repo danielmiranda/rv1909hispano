@@ -1,0 +1,20 @@
+{
+  "book": "2KI",
+  "chapter": 24,
+  "verse": 4,
+  "text_original": "Asimismo por la sangre inocente que derramó, pues hinchió á Jerusalem de sangre inocente: Jehová por tanto, no quiso perdonar.",
+  "text_modernized": "Asimismo por la sangre inocente que derramó, pues hinchió á Jerusalem de sangre inocente: Jehová por tanto, no quiso perdonar.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.774522Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

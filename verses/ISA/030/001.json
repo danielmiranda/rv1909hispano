@@ -1,0 +1,25 @@
+{
+  "book": "ISA",
+  "chapter": 30,
+  "verse": 1,
+  "text_original": "¡AY de los hijos que se apartan, dice Jehová, para tomar consejo, y no de mí; para cobijarse con cubierta, y no de mi espíritu, añadiendo pecado á pecado!",
+  "text_modernized": "¡AY de los hijos que se apartan, dice Jehová, para tomar consejo, y no de mí; para cobijarse con cubierta, y no de mi espíritu, añadiendo pecado á pecado!",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.362175Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    },
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

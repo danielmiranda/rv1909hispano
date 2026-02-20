@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 7,
+  "verse": 51,
+  "text_original": "Duros de cerviz, é incircuncisos de corazón y de oídos, vosotros resistís siempre al Espíritu Santo: como vuestros padres, así también vosotros.",
+  "text_modernized": "Duros de cerviz, é incircuncisos de corazón y de oídos, vosotros resistís siempre al Espíritu Santo: como vuestros padres, así también vosotros.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.534413Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 19,
+  "verse": 2,
+  "text_original": "Y revolveré Egipcios contra Egipcios, y cada uno peleará contra su hermano, cada uno contra su prójimo: ciudad contra ciudad, y reino contra reino.",
+  "text_modernized": "Y revolveré Egipcios contra Egipcios, y cada uno peleará contra su hermano, cada uno contra su prójimo: ciudad contra ciudad, y reino contra reino.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.308582Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

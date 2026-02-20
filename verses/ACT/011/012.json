@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 11,
+  "verse": 12,
+  "text_original": "Y el Espíritu me dijo que fuese con ellos sin dudar. Y vinieron también conmigo estos seis hermanos, y entramos en casa de un varón,",
+  "text_modernized": "Y el Espíritu me dijo que fuese con ellos sin dudar. Y vinieron también conmigo estos seis hermanos, y entramos en casa de un varón,",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.568843Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

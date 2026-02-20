@@ -1,0 +1,20 @@
+{
+  "book": "1SA",
+  "chapter": 16,
+  "verse": 13,
+  "text_original": "Y Samuel tomó el cuerno del aceite, y ungiólo de entre sus hermanos: y desde aquel día en adelante el espíritu de Jehová tomó á David. Levantóse luego Samuel, y volvióse á Rama.",
+  "text_modernized": "Y Samuel tomó el cuerno del aceite, y ungiólo de entre sus hermanos: y desde aquel día en adelante el espíritu de Jehová tomó á David. Levantóse luego Samuel, y volvióse á Rama.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.117331Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 22,
+  "verse": 9,
+  "text_original": "Calumniadores hubo en ti para derramar sangre; y sobre los montes comieron en ti: hicieron en medio de ti suciedades.",
+  "text_modernized": "Calumniadores hubo en ti para derramar sangre; y sobre los montes comieron en ti: hicieron en medio de ti suciedades.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.077056Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

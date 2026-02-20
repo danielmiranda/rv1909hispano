@@ -1,0 +1,20 @@
+{
+  "book": "ACT",
+  "chapter": 16,
+  "verse": 16,
+  "text_original": "Y aconteció, que yendo nosotros á la oración, una muchacha que tenía espíritu pitónico, nos salió al encuentro, la cual daba grande ganancia á sus amos adivinando.",
+  "text_modernized": "Y aconteció, que yendo nosotros á la oración, una muchacha que tenía espíritu pitónico, nos salió al encuentro, la cual daba grande ganancia á sus amos adivinando.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:11.607410Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

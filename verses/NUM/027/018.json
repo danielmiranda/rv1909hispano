@@ -1,0 +1,20 @@
+{
+  "book": "NUM",
+  "chapter": 27,
+  "verse": 18,
+  "text_original": "Y Jehová dijo á Moisés: Toma á Josué hijo de Nun, varón en el cual hay espíritu, y pondrás tu mano sobre él;",
+  "text_modernized": "Y Jehová dijo á Moisés: Toma á Josué hijo de Nun, varón en el cual hay espíritu, y pondrás tu mano sobre él;",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.385136Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

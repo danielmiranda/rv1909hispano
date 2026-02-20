@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 53,
+  "verse": 10,
+  "text_original": "Con todo eso Jehová quiso quebrantarlo, sujetándole á padecimiento. Cuando hubiere puesto su vida en expiación por el pecado, verá linaje, vivirá por largos días, y la voluntad de Jehová será en su mano prosperada.",
+  "text_modernized": "Con todo eso Jehová quiso quebrantarlo, sujetándole á padecimiento. Cuando hubiere puesto su vida en expiación por el pecado, verá linaje, vivirá por largos días, y la voluntad de Jehová será en su mano prosperada.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.488771Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

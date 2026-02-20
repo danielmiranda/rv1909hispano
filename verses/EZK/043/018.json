@@ -1,0 +1,20 @@
+{
+  "book": "EZK",
+  "chapter": 43,
+  "verse": 18,
+  "text_original": "Y díjome: Hijo del hombre, así ha dicho el Señor Jehová: Estas son las ordenanzas del altar el día en que será hecho, para ofrecer sobre él holocausto, y para esparcir sobre él sangre.",
+  "text_modernized": "Y díjome: Hijo del hombre, así ha dicho el Señor Jehová: Estas son las ordenanzas del altar el día en que será hecho, para ofrecer sobre él holocausto, y para esparcir sobre él sangre.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.212708Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

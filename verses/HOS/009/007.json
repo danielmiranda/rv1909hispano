@@ -1,0 +1,20 @@
+{
+  "book": "HOS",
+  "chapter": 9,
+  "verse": 7,
+  "text_original": "Vinieron los días de la visitación, vinieron los días de la paga; conocerálo Israel: necio el profeta, insensato el varón de espíritu, á causa de la multitud de tu maldad, y grande odio.",
+  "text_modernized": "Vinieron los días de la visitación, vinieron los días de la paga; conocerálo Israel: necio el profeta, insensato el varón de espíritu, á causa de la multitud de tu maldad, y grande odio.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:10.371337Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

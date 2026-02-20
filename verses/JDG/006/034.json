@@ -1,0 +1,20 @@
+{
+  "book": "JDG",
+  "chapter": 6,
+  "verse": 34,
+  "text_original": "Y el espíritu de Jehová se envistió en Gedeón, y como éste hubo tocado el cuerno, Abiezer se juntó con él.",
+  "text_modernized": "Y el espíritu de Jehová se envistió en Gedeón, y como éste hubo tocado el cuerno, Abiezer se juntó con él.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.887225Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

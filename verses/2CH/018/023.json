@@ -1,0 +1,20 @@
+{
+  "book": "2CH",
+  "chapter": 18,
+  "verse": 23,
+  "text_original": "Entonces Sedechîas hijo de Chênaana se llegó á él, é hirió á Michêas en la mejilla, y dijo: ¿Por qué camino se apartó de mí el espíritu de Jehová para hablarte á ti?",
+  "text_modernized": "Entonces Sedechîas hijo de Chênaana se llegó á él, é hirió á Michêas en la mejilla, y dijo: ¿Por qué camino se apartó de mí el espíritu de Jehová para hablarte á ti?",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:06.064848Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

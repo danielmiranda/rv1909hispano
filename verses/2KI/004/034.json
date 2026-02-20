@@ -1,0 +1,20 @@
+{
+  "book": "2KI",
+  "chapter": 4,
+  "verse": 34,
+  "text_original": "Después subió, y echóse sobre el niño, poniendo su boca sobre la boca de él, y sus ojos sobre sus ojos, y sus manos sobre las manos suyas; así se tendió sobre él, y calentóse la carne del joven.",
+  "text_modernized": "Después subió, y echóse sobre el niño, poniendo su boca sobre la boca de él, y sus ojos sobre sus ojos, y sus manos sobre las manos suyas; así se tendió sobre él, y calentóse la carne del joven.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:05.607625Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

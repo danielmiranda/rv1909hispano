@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 14,
+  "verse": 19,
+  "text_original": "Ofrecerá luego el sacerdote el sacrificio por el pecado, y hará expiación por el que se ha de purificar de su inmundicia, y después degollará el holocausto:",
+  "text_modernized": "Ofrecerá luego el sacerdote el sacrificio por el pecado, y hará expiación por el que se ha de purificar de su inmundicia, y después degollará el holocausto:",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.521096Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

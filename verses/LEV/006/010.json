@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 6,
+  "verse": 10,
+  "text_original": "El sacerdote se pondrá su vestimenta de lino, y se vestirá pañetes de lino sobre su carne; y cuando el fuego hubiere consumido el holocausto, apartará él las cenizas de sobre el altar, y pondrálas junto al altar.",
+  "text_modernized": "El sacerdote se pondrá su vestimenta de lino, y se vestirá pañetes de lino sobre su carne; y cuando el fuego hubiere consumido el holocausto, apartará él las cenizas de sobre el altar, y pondrálas junto al altar.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.455872Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

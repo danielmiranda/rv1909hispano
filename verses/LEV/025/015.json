@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 25,
+  "verse": 15,
+  "text_original": "Conforme al número de los años después del jubileo comprarás de tu prójimo; conforme al número de los años de los frutos te venderá él á ti.",
+  "text_modernized": "Conforme al número de los años después del jubileo comprarás de tu prójimo; conforme al número de los años de los frutos te venderá él á ti.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.122829Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

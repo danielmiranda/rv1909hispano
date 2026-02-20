@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 40,
+  "verse": 2,
+  "text_original": "Hablad al corazón de Jerusalem: decidle á voces que su tiempo es ya cumplido, que su pecado es perdonado; que doble ha recibido de la mano de Jehová por todos sus pecados.",
+  "text_modernized": "Hablad al corazón de Jerusalem: decidle á voces que su tiempo es ya cumplido, que su pecado es perdonado; que doble ha recibido de la mano de Jehová por todos sus pecados.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.411392Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

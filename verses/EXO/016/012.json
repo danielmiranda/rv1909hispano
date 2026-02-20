@@ -1,0 +1,20 @@
+{
+  "book": "EXO",
+  "chapter": 16,
+  "verse": 12,
+  "text_original": "Yo he oído las murmuraciones de los hijos de Israel; háblales, diciendo: Entre las dos tardes comeréis carne, y por la mañana os hartaréis de pan, y sabréis que yo soy Jehová vuestro Dios.",
+  "text_modernized": "Yo he oído las murmuraciones de los hijos de Israel; háblales, diciendo: Entre las dos tardes comeréis carne, y por la mañana os hartaréis de pan, y sabréis que yo soy Jehová vuestro Dios.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.228350Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

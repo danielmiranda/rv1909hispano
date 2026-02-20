@@ -1,0 +1,20 @@
+{
+  "book": "GEN",
+  "chapter": 50,
+  "verse": 17,
+  "text_original": "Así diréis á José: Ruégote que perdones ahora la maldad de tus hermanos y su pecado, porque mal te trataron: por tanto ahora te rogamos que perdones la maldad de los siervos del Dios de tu padre. Y José lloró mientras hablaban.",
+  "text_modernized": "Así diréis á José: Ruégote que perdones ahora la maldad de tus hermanos y su pecado, porque mal te trataron: por tanto ahora te rogamos que perdones la maldad de los siervos del Dios de tu padre. Y José lloró mientras hablaban.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.119660Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}

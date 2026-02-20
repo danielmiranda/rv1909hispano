@@ -1,0 +1,20 @@
+{
+  "book": "PRO",
+  "chapter": 3,
+  "verse": 29,
+  "text_original": "No intentes mal contra tu prójimo, estando él confiado de ti.",
+  "text_modernized": "No intentes mal contra tu prójimo, estando él confiado de ti.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.451507Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "prójimo",
+      "id": "CP001",
+      "note": "Verificar contexto: puede significar 'prójimo' (otro) o requiere IA"
+    }
+  ]
+}

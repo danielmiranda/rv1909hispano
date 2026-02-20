@@ -1,0 +1,20 @@
+{
+  "book": "JDG",
+  "chapter": 9,
+  "verse": 24,
+  "text_original": "Para que el agravio de los setenta hijos de Jerobaal, y la sangre de ellos, viniera á ponerse sobre Abimelech su hermano que los mató, y sobre los hombres de Sichêm que corroboraron las manos de él para matar á sus hermanos.",
+  "text_modernized": "Para que el agravio de los setenta hijos de Jerobaal, y la sangre de ellos, viniera á ponerse sobre Abimelech su hermano que los mató, y sobre los hombres de Sichêm que corroboraron las manos de él para matar á sus hermanos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:04.907260Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

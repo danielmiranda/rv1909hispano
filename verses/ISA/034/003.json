@@ -1,0 +1,20 @@
+{
+  "book": "ISA",
+  "chapter": 34,
+  "verse": 3,
+  "text_original": "Y los muertos de ellas serán arrojados, y de sus cadáveres se levantará hedor; y los montes se desleirán por la sangre de ellos.",
+  "text_modernized": "Y los muertos de ellas serán arrojados, y de sus cadáveres se levantará hedor; y los montes se desleirán por la sangre de ellos.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:09.383897Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

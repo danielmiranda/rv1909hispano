@@ -1,0 +1,20 @@
+{
+  "book": "GAL",
+  "chapter": 6,
+  "verse": 13,
+  "text_original": "Porque ni aun los mismos que se circuncidan guardan la ley; sino que quieren que vosotros seáis circuncidados, para gloriarse en vuestra carne.",
+  "text_modernized": "Porque ni aun los mismos que se circuncidan guardan la ley; sino que quieren que vosotros seáis circuncidados, para gloriarse en vuestra carne.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.017521Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "carne",
+      "id": "CP004",
+      "note": "Contexto teológico vs físico"
+    }
+  ]
+}

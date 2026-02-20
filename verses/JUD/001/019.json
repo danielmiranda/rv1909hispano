@@ -1,0 +1,20 @@
+{
+  "book": "JUD",
+  "chapter": 1,
+  "verse": 19,
+  "text_original": "Estos son los que hacen divisiones, sensuales, no teniendo el Espíritu.",
+  "text_modernized": "Estos son los que hacen divisiones, sensuales, no teniendo el Espíritu.",
+  "translation": "RV1909M",
+  "testament": "NT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:12.386967Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "espíritu",
+      "id": "CP005",
+      "note": "Contexto holy Spirit vs espíritu humano"
+    }
+  ]
+}

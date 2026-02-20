@@ -1,0 +1,20 @@
+{
+  "book": "PSA",
+  "chapter": 106,
+  "verse": 38,
+  "text_original": "Y derramaron la sangre inocente, la sangre de sus hijos y de sus hijas, que sacrificaron á los ídolos de Canaán: y la tierra fué contaminada con sangre.",
+  "text_modernized": "Y derramaron la sangre inocente, la sangre de sus hijos y de sus hijas, que sacrificaron á los ídolos de Canaán: y la tierra fue contaminada con sangre.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:08.268418Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "sangre",
+      "id": "CP003",
+      "note": "Contexto litúrgico vs literal"
+    }
+  ]
+}

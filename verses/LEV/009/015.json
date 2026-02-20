@@ -1,0 +1,20 @@
+{
+  "book": "LEV",
+  "chapter": 9,
+  "verse": 15,
+  "text_original": "Ofreció también la ofrenda del pueblo, y tomó el macho cabrío que era para la expiación del pueblo, y degollólo, y lo ofreció por el pecado como el primero.",
+  "text_modernized": "Ofreció también la ofrenda del pueblo, y tomó el macho cabrío que era para la expiación del pueblo, y degollólo, y lo ofreció por el pecado como el primero.",
+  "translation": "RV1909M",
+  "testament": "OT",
+  "strong": [],
+  "status": "ai",
+  "updated_at": "2026-02-20T15:39:03.481239Z",
+  "updated_by": "system",
+  "complex_patterns": [
+    {
+      "pattern": "pecado",
+      "id": "CP002",
+      "note": "Verificar si es 'pecado' (moral) o 'error' (técnico)"
+    }
+  ]
+}
